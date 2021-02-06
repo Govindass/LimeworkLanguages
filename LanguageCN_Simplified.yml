@@ -1,837 +1,877 @@
-"   /chat party §2- §aTo toggle party chat": "/chat party&2-&a切换聚会聊天。"
+'   /chat party §2- §aTo toggle party chat': "/chat party&2-&a切换聚会聊天。"
 
-"   /donate §2- §aView ways to donate money to our server": "/donate&2-&a查看捐款的方式向我们的服务器。"
+'   /donate §2- §aView ways to donate money to our server': "/donate&2-&a查看捐款的方式向我们的服务器。"
 
-"   /group accept <group> §2- §aAccept a group invitation": "/group接受<组>&2-&接受组邀请a组邀请。"
+'   /faq §2- §aGet answers to frequently asked questions': "   /faq &2- &aGet answers to frequently asked questions."
 
-"   /group chunks <group> §2- §aBrowse claimed chunks of a group": "/group块<group>&2-&aBrowse声明了一个组的块。"
+'   /friend §2- §aView friend commands help': "   /friend &2- &aView friend commands help."
 
-"   /group claim <group> §2- §aClaim a chunk to a group": "/group Claim <group>&2-&a将一个块声明为一个组。"
+'   /group accept <group> §2- §aAccept a group invitation': "/group接受<组>&2-&接受组邀请a组邀请。"
 
-"   /group create <group> §2- §aCreate a group": "/group创建<组>&2-&a创建组。"
+'   /group chunks <group> §2- §aBrowse claimed chunks of a group': "/group块<group>&2-&aBrowse声明了一个组的块。"
 
-"   /group demote <player> <group> §2- §aDemote a player in a group": "/group降级<玩家> <组>降级组中2-&a的玩家。"
+'   /group claim <group> §2- §aClaim a chunk to a group': "/group Claim <group>&2-&a将一个块声明为一个组。"
 
-"   /group info <group> §2- §aView information about a group": " /group info <group>&2-&查看信息有关组的。"
+'   /group create <group> §2- §aCreate a group': "/group创建<组>&2-&a创建组。"
 
-"   /group invite <player> <group> §2- §aInvite a player to a group": "/group邀请<玩家> <组>邀请&2-&a玩家加入组。"
+'   /group demote <player> <group> §2- §aDemote a player in a group': "/group降级<玩家> <组>降级组中2-&a的玩家。"
 
-"   /group kick <player> <group> §2- §aKick a player from a group": "/group kick <player> <group>&2-&a从组中踢出一名球员。"
+'   /group info <group> §2- §aView information about a group': " /group info <group>&2-&查看信息有关组的。"
 
-"   /group leave <group> §2- §aLeave a group": "/group离开<group>&2-&a离开一个组。"
+'   /group invite <player> <group> §2- §aInvite a player to a group': "/group邀请<玩家> <组>邀请&2-&a玩家加入组。"
 
-"   /group list §2- §aList the groups you are in": " /group list&2-&a列出您所在的组。"
+'   /group kick <player> <group> §2- §aKick a player from a group': "/group kick <player> <group>&2-&a从组中踢出一名球员。"
 
-"   /group promote <player> <group> §2- §aPromote a player in a group": "/group促进<player> <group>促进组中&2-&a的玩家。"
+'   /group leave <group> §2- §aLeave a group': "/group离开<group>&2-&a离开一个组。"
 
-"   /group unclaim §2- §aUnclaim a chunk": "/group取消&2-&a取消声明一个块。"
+'   /group list §2- §aList the groups you are in': " /group list&2-&a列出您所在的组。"
 
-"   /group upgrade <group> §2- §aUpgrade a group": "/group upgrade <group>&2-&a升级组。"
+'   /group promote <player> <group> §2- §aPromote a player in a group': "/group促进<player> <group>促进组中&2-&a的玩家。"
 
-"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "/join<游戏>到加入公共游戏通过命令或私有游戏通过<游戏> [大厅名称]&2-&a通过通过命令或私人游戏加入公共游戏大厅名称指定大厅名称指定大厅名称。"
+'   /group unclaim §2- §aUnclaim a chunk': "/group取消&2-&a取消声明一个块。"
 
-"   /list §2- §aView information about all online players": "/join<游戏>到加入公共游戏通过命令或私有游戏通过<游戏> [大厅名称]&2-&a通过通过命令或私人游戏加入公共游戏大厅名称指定大厅名称指定大厅名称。"
+'   /group upgrade <group> §2- §aUpgrade a group': "/group upgrade <group>&2-&a升级组。"
 
-"   /msg <player> §2- §aSend a private message to a player": "/msg <player>&2-&a发送私人消息向玩家。"
+'   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name': "/join<游戏>到加入公共游戏通过命令或私有游戏通过<游戏> [大厅名称]&2-&a通过通过命令或私人游戏加入公共游戏大厅名称指定大厅名称指定大厅名称。"
 
-"   /party accept <player> §2- §aTo accept an party invite": "/party accept <player>&2-&a接受聚会邀请。"
+'   /list §2- §aView information about all online players': "/join<游戏>到加入公共游戏通过命令或私有游戏通过<游戏> [大厅名称]&2-&a通过通过命令或私人游戏加入公共游戏大厅名称指定大厅名称指定大厅名称。"
 
-"   /party disband §2- §aTo disband your party": " /party disband&2-&a要解散您的聚会。"
+'   /msg <player> §2- §aSend a private message to a player': "/msg <player>&2-&a发送私人消息向玩家。"
 
-"   /party invite <player> §2- §aTo invite a player to party": " /party邀请<玩家>&2-&邀请玩家参加派对。"
+'   /party accept <player> §2- §aTo accept an party invite': "/party accept <player>&2-&a接受聚会邀请。"
 
-"   /party join <player> §2- §aTo join public party of a player": " /party join <player>&2-&加入玩家的公开聚会。"
+'   /party disband §2- §aTo disband your party': " /party disband&2-&a要解散您的聚会。"
 
-"   /party kick <player> §2- §aTo kick a player from your party": " /party join <player>&2-&加入玩家的公开聚会。"
+'   /party invite <player> §2- §aTo invite a player to party': " /party邀请<玩家>&2-&邀请玩家参加派对。"
 
-"   /party leave §2- §aTo leave a party": " /party离开&2-&a离开聚会。"
+'   /party join <player> §2- §aTo join public party of a player': " /party join <player>&2-&加入玩家的公开聚会。"
 
-"   /party list §2- §aTo view members of your party list": " /party list&2-&a查看您的成员聚会列表中的。"
+'   /party kick <player> §2- §aTo kick a player from your party': " /party join <player>&2-&加入玩家的公开聚会。"
 
-"   /party open §2- §aTo open your party for public join": " /party open&2-&a要您的聚会公开加入。"
+'   /party leave §2- §aTo leave a party': " /party离开&2-&a离开聚会。"
 
-"   /party transfer <player> §2- §aTo transfer party leader to other member": " /party open&2-&a要您的聚会公开加入。"
+'   /party list §2- §aTo view members of your party list': " /party list&2-&a查看您的成员聚会列表中的。"
 
-"   /party §2- §aView party help": " /party&2-&aView派对帮助。"
+'   /party open §2- §aTo open your party for public join': " /party open&2-&a要您的聚会公开加入。"
 
-"   /party warp §2- §aTo warp your party members to your game lobby": " /party warp&2-&a将您的扭曲聚会成员到游戏大厅。"
+'   /party transfer <player> §2- §aTo transfer party leader to other member': " /party open&2-&a要您的聚会公开加入。"
 
-"   /rules §2- §aRead server rules": "/rules&2-&a读取服务器规则。"
+'   /party warp §2- §aTo warp your party members to your game lobby': " /party warp&2-&a将您的扭曲聚会成员到游戏大厅。"
 
-"   /spectate §2- §aEnter spectate mode": " /spectate&2-&a进入旁观模式。"
+'   /party §2- §aView party help': " /party&2-&aView派对帮助。"
 
-"   /staff §2- §aView staff list": "/staff&2-&aView人员列表。"
+'   /rules §2- §aRead server rules': "/rules&2-&a读取服务器规则。"
 
-"   /stats <player> §2- §aView player's stats": " /stats <player>&2-&aView播放器的统计信息。"
+'   /spectate §2- §aEnter spectate mode': " /spectate&2-&a进入旁观模式。"
 
-"1 arrow on knockout!": "淘汰赛上有1个箭头！"
+'   /staff §2- §aView staff list': "/staff&2-&aView人员列表。"
 
-"$1$ §cdefeated §6$2$": "$1$ &cdefeated&6 $2$"
+'   /stats <player> §2- §aView player''s stats': " /stats <player>&2-&aView播放器的统计信息。"
 
-"$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &edonated&e&l1&fSnowball和您！"
+'   §2§l   --=-= §a§lGroup Commands §2§l=-=--': "&2&l-=-=&a&lGroup Commands&2&l =-=-"
 
-"$1$ §eflag has been dropped!": "$1$ &eflag已被删除！"
+'   §2§l   --=-= §a§lParty Commands §2§l=-=--': "&2&l-=-=&a&lParty Commands&2&l =-=-"
 
-"§a$1$ §egot first kill of the game!": "&a $1$ &egot the first kill of the game！"
+'   §2§l   --=-= §a§lPlayer Commands §2§l=-=--': "&2&l-=-=&a&lPlayer Commands&2&l =-=-"
 
-"$1$ §ehas captured $2$ §eflag!": "$1$ &ehas捕获了$2$&eflag！"
+'   §2§l--=-= §a§lFriend Commands §2§l=-=--': "&2&l-=-=&a&lFriend Commands&2&l =-=-"
 
-"$1$ §ehas disbanded the party!": "$1$ &ehas捕获了$2$&eflag！"
+$1$ flag has been dropped!: $1$ flag has been dropped!
 
-"$1$ §ehas invited you into a party!": "$1$ &ehas邀请您参加聚会！"
+$1$ §7of players needs to vote to enable: "$1$ &c不是您的朋友！向朋友添加$1$ &c，通过&e /f添加$2$"
 
-"$1$ §ehas joined your party!": "$1$ &ehas加入了您的聚会！"
+$1$ §cdefeated §6$2$: "$1$ &cdefeated&6 $2$"
 
-"$1$ §ehas joined!": "$1$ &ehas加入！"
+$1$ §chas left!: "$1$ &chas走了！"
 
-"$1$ §ehas left the party!": "$1$ &ehas离开了聚会！"
+$1$ §chas not invited you into a party!: "$1$ &chas not invited you into a party!"
 
-"$1$ §chas left!": "$1$ &chas走了！"
+$1$ §cis already in your party!: "$1$ &cis已加入您的聚会！"
 
-"$1$ §ehas not invited you into a party!": "$1$ &ehas未邀请您参加聚会！"
+$1$ §cis not in your party!: "$1$ &cis不参加您的聚会！"
 
-"$1$ §ehas picked up $2$ §eflag!": "$1$ &ehas拿起$2$ &eflag！"
+$1$ §cteam is full!: "$1$ &cteam已满！"
 
-"$1$ §ehas reached the max stick level!": "$1$ &ehas达到了最高交易量水平！"
+$1$ §edonated §e§l1 §fSnowball §eto you!: "$1$ &edonated&e&l1&fSnowball和您！"
 
-"$1$ §ehas returned $2$ §eflag!": "$1$ &ehas返回$2$ &eflag！"
+$1$ §eflag has been dropped!: "$1$ &eflag已被删除！"
 
-"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &ehas投票给&b&l $2$ &emap！"
+$1$ §egot first kill of the game!: "$1$ &egot first kill of the game!"
 
-"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &ehas投票给&b&l $2$ &emode！"
+$1$ §ehas captured $2$ §eflag!: "$1$ &ehas捕获了$2$&eflag！"
 
-"$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &ehas为&b&lBalanced Teams&emodifier投票！"
+$1$ §ehas disbanded the party!: "$1$ &ehas捕获了$2$&eflag！"
 
-"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &ehas为&b&lDouble Jump和emodifier投票！"
+$1$ §ehas invited you into a party!: "$1$ &ehas邀请您参加聚会！"
 
-"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &ehas为&b&lFast Snowballs&emodifier投票！"
+$1$ §ehas joined your party!: "$1$ &ehas加入了您的聚会！"
 
-"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &ehas为&b&lInstakill Snowballs &emodifier投票！"
+$1$ §ehas joined!: "$1$ &ehas加入！"
 
-"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &ehas为&b&lNo Compass&emodifier投票！"
+$1$ §ehas left the party!: "$1$ &ehas离开了聚会！"
 
-"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &ehas投票赞成&b&lReflect Snowballs&emodifier！"
+$1$ §ehas not invited you into a party!: "$1$ &ehas未邀请您参加聚会！"
 
-"$1$ §cis already in your party!": "$1$ &cis已加入您的聚会！"
+$1$ §ehas picked up $2$ §eflag!: "$1$ &ehas拿起$2$ &eflag！"
 
-"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$ &c不是您的朋友！向朋友添加$1$ &c，通过&e /f添加$2$"
+$1$ §ehas reached the max stick level!: "$1$ &ehas达到了最高交易量水平！"
 
-"$1$ §7of players needs to vote to enable": "$1$ &c不是您的朋友！向朋友添加$1$ &c，通过&e /f添加$2$"
+$1$ §ehas returned $2$ §eflag!: "$1$ &ehas返回$2$ &eflag！"
 
-"$1$ §cteam is full!": "$1$ &cteam已满！"
+$1$ §ehas transferred party leader to $2$§e!: "$1$ &ehas将党的领导转移到$2$ &e！"
 
-"[ACCEPT]": "[ACCEPT]"
+$1$ §ehas voted for §b§l$2$ §emap!: "$1$ &ehas投票给&b&l $2$ &emap！"
 
-"A chance to spawn creeper where your snowball lands": "在地方生成爬行者的机会雪球降落的雪球降落的。"
+$1$ §ehas voted for §b§l$2$ §emode!: "$1$ &ehas投票给&b&l $2$ &emode！"
 
-"Activated Modifiers": "激活的修饰符"
+$1$ §ehas voted for §b§lBalanced Teams §emodifier!: "$1$ &ehas为&b&lBalanced Teams&emodifier投票！"
 
-"Allows to double jump by pressing the sneak button in mid-air": "通过按下可进行双跳在空中踩踏按钮在空中潜行按钮。"
+$1$ §ehas voted for §b§lDouble Jump §emodifier!: "$1$ &ehas为&b&lDouble Jump和emodifier投票！"
 
-"Animation is currently §c§lDISABLED§e": "动画当前为&c&lDISABLED&e。"
+$1$ §ehas voted for §b§lFast Snowballs §emodifier!: "$1$ &ehas为&b&lFast Snowballs&emodifier投票！"
 
-"Animation is currently §a§lENABLED§e": "当前动画是&a&lENABLED&e。"
+$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!: "$1$ &ehas为&b&lInstakill Snowballs &emodifier投票！"
 
-"Are you seriously going into a party with yourself? Invite someone!": "您是否认真地参加与自己一起聚会自己的聚会？邀请某人！"
+$1$ §ehas voted for §b§lNo Compass §emodifier!: "$1$ &ehas为&b&lNo Compass&emodifier投票！"
 
-"Are you sure you want to leave? Type §e/q §6to confirm": "确定要离开吗？输入&e /q &6进行确认。"
+$1$ §ehas voted for §b§lNo Perks §emodifier!: "$1$ &ehas voted for &b&lNo Perks &emodifier!"
 
-"Armor": "装甲"
+$1$ §ehas voted for §b§lReflect Snowballs §emodifier!: "$1$ &ehas投票赞成&b&lReflect Snowballs&emodifier！"
 
-"Arrow Accuracy": "箭的准确性"
+$1$ §ekicked $2$ §efrom the party!: "从聚会中踢了1美元&踢了2美元！"
 
-"Arrow Bonus Perk": "箭的额外"
+$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$: "$1$ &c不是您的朋友！向朋友添加$1$ &c，通过&e /f添加$2$"
 
-"Arrows Fired": "箭被发射的"
+1 arrow on knockout!: 淘汰赛上有1个箭头！
 
-"Arrows left": "箭留给"
+<none>: <none>
 
-"A snowman which shoots enemies!": "一个雪人射击敌人！"
+A chance to spawn creeper where your snowball lands: 在地方生成爬行者的机会雪球降落的雪球降落的。
 
-"Average Rating:": "平均评分: "
+A snowman which shoots enemies!: 一个雪人射击敌人！
 
-"Balanced Teams Modifier": "平衡的团队修饰符"
+Activated Modifiers: 激活的修饰符
 
-"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&l，因为太多的改变游戏的修饰符激活了此比赛不会影响您的由于激活了太多的改变游戏的修饰符，因此该比赛不会影响您的评价评分。"
+Allows to double jump by pressing the sneak button in mid-air: 通过按下可进行双跳在空中踩踏按钮在空中潜行按钮。
 
-"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&l成为的指挥官，并击败您的一支庞大的军队指挥官，并与您的军队一起击败所敌人的国王，以取胜！"
+Animation is currently §a§lENABLED§e: "当前动画是&a&lENABLED&e。"
 
-"Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "提防重力，重力！始终在矿山和建筑物至少要有8之间建立支撑，支撑之间的距离个距离。"
+Animation is currently §c§lDISABLED§e: "动画当前为&c&lDISABLED&e。"
 
-"Blindness Perk": "Blindness Perk"
+Are you seriously going into a party with yourself? Invite someone!: 您是否认真地参加与自己一起聚会自己的聚会？邀请某人！
 
-"Blocks snowballs":
-    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "阻止雪球。 &e&l50％&7机会在第一击中打破，&e&l100％&7在第二击中。"
+Are you sure you want to leave? Type §e/q §6to confirm: "确定要离开吗？输入&e /q &6进行确认。"
 
-"blocks": "块"
+Armor: 装甲
 
-"Bombs fired": "炸弹被发射发射"
+Arrow Accuracy: 箭的准确性
 
-"Bombs placed": "炸弹被放置"
+Arrow Bonus Perk: 箭的额外
 
-"Bonus snowballs on knockout": "淘汰赛上的额外雪球"
+Arrows Fired: 箭被发射的
 
-"Burning Stick Perk": "燃烧棒Perk"
+Arrows left: 箭留给
 
-"Burns §e§l$1$ §7of target's snowballs": "烧伤目标的雪球。"
+'Average Rating:': '平均评分: '
 
-"Burns target on hit": "命中时燃烧目标。"
+Balanced Teams Modifier: 平衡的团队修饰符
 
-"Can't find a player by the name of '$1$'": "找不到名称为'$1$ '的玩家。"
+Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports: 提防重力，重力！始终在矿山和建筑物至少要有8之间建立支撑，支撑之间的距离个距离。
 
-"Can't shoot far because snowballs melt in the air": "由于雪球在融化，无法射击远空中空中因此。"
+Blindness Perk: Blindness Perk
 
-"chance of creeper spawn": "爬虫的机会"
+blocks: 块
 
-"chance of double experience": "双重经验的"
+Blocks snowballs:
+    ' §e§l50% §7chance to break on first hit, §e§l100% §7on second hit': "阻止雪球。 &e&l50％&7机会在第一击中打破，&e&l100％&7在第二击中。"
 
-"chance of double melons": "双瓜的机会。"
+Bombs fired: 炸弹被发射发射
 
-"chance of §bEnchanted Snowball §7gain after kill": "被击杀后获得&b迷住雪球的机率&7杀的。"
+Bombs placed: 炸弹被放置
 
-"chance of reflection": "反射的机会。"
+Bonus snowballs on knockout: 淘汰赛上的额外雪球
 
-"Chance to blind opponent on hit": "有一定几率在命中盲目的对手"
+Burning Stick Perk: 燃烧棒Perk
 
-"Chance to burn opponent on hit": "有一定几率在命中烧对手"
+Burns target on hit: 命中时燃烧目标。
 
-"Chance to not lose a life": "概率不会失去生命"
+Burns §e§l$1$ §7of target's snowballs: 烧伤目标的雪球。
 
-"chance to slow(Slowness $1$) opponent on hit": "机会慢（慢度$1$ ）对手击中"
+Can't find a player by the name of '$1$': 找不到名称为'$1$ '的玩家。
 
-"Chance to slow(Slowness II) opponent on hit": "击中机会放缓（步履维艰II）的对手"
+Can't shoot far because snowballs melt in the air: 由于雪球在融化，无法射击远空中空中因此。
 
-"Checkers in Minecraft! Like the popular board game": "《我的世界》中的跳棋！就像流行的棋盘游戏一样。"
+? Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers
+: "&a $1$ &ehas从其永生性中获得额外的生命！"
 
-"Checkers": "跳棋"
+chance of creeper spawn: 爬虫的机会
 
-"Checkpoint": "检查点"
+chance of double experience: 双重经验的
 
-"Chests looted": "胸部被抢劫clickheretojoin1"
+chance of double melons: 双瓜的机会。
 
-"classes": "class"
+chance of reflection: 反射的机会。
 
-"Click here to join $1$!": "单击此处加入$1$ ！"
+chance of §bEnchanted Snowball §7gain after kill: "被击杀后获得&b迷住雪球的机率&7杀的。"
 
-"Click to accept the party invite!": "单击以接受聚会邀请！"
+Chance to blind opponent on hit: 有一定几率在命中盲目的对手
 
-"Click to buy!": "单击购买！"
+Chance to burn opponent on hit: 有一定几率在命中烧对手
 
-"[CLICK TO JOIN]": " [点击加入]"
+Chance to not lose a life: 概率不会失去生命
 
-"CLICK TO OPEN MENU": " [点击加入]"
+chance to slow(Slowness $1$) opponent on hit: 机会慢（慢度$1$ ）对手击中
 
-"CLICK TO PLAY": "单击播放"
+Chance to slow(Slowness II) opponent on hit: 击中机会放缓（步履维艰II）的对手
 
-"Click to rate this map": "单击以对此地图进行评分"
+Checkers: 跳棋
 
-"Click to undo this rating!": "单击以撤消该评分！"
+Checkers in Minecraft! Like the popular board game: 《我的世界》中的跳棋！就像流行的棋盘游戏一样。
 
-"Click to vote for $1$ §amode!": "单击以投票给$1$ &amode！"
+Checkpoint: 检查点
 
-"Click to vote for this map!": "单击以对此地图进行投票！"
+Chests looted: 胸部被抢劫clickheretojoin1
 
-"Click to vote for this mode!": "单击以对此模式进行投票！"
+classes: class
 
-"Click to vote for this modifier!": "单击以投票给该修饰符！"
+Click here to join $1$!: 单击此处加入$1$ ！
 
-"Complete parkour races, earn prizes and compete in leaderboards!": "完成跑酷竞赛，赢得在排行榜上的表现和竞争奖金并参加排行榜！"
+Click to accept the party invite!: 单击以接受聚会邀请！
 
-"Cooldown": "冷却"
+Click to buy!: 单击购买！
 
-"Cracked players can join our server! They can apply at $1$ §rto join": "破解的玩家可以加入我们的服务器，服务器！他们可以申请$1$ &rto加入。"
+CLICK TO OPEN MENU: ' [点击加入]'
 
-? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
+CLICK TO PLAY: 单击播放
+
+Click to rate this map: 单击以对此地图进行评分
+
+Click to undo this rating!: 单击以撤消该评分！
+
+Click to vote for $1$ §amode!: "单击以投票给$1$ &amode！"
+
+Click to vote for this map!: 单击以对此地图进行投票！
+
+Click to vote for this mode!: 单击以对此模式进行投票！
+
+Click to vote for this modifier!: 单击以投票给该修饰符！
+
+Complete parkour races, earn prizes and compete in leaderboards!: 完成跑酷竞赛，赢得在排行榜上的表现和竞争奖金并参加排行榜！
+
+Cooldown: 冷却
+
+Cracked players can join our server! They can apply at $1$ §rto join: "破解的玩家可以加入我们的服务器，服务器！他们可以申请$1$ &rto加入。"
+
+? Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!
 : "破解的玩家可以加入我们的服务器，服务器！他们可以申请$1$ &rto加入。"
 
-"Creeper Chance Perk": "爬行者机会"
+? Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!
+: "&a $1$ &ehas从其永生性中获得额外的生命！"
 
-"Crystal": "水晶"
+Creeper Chance Perk: 爬行者机会
 
-"Current": "当前"
+Crystal: 水晶
 
-"Damage Dealt": "输出伤害"
+Current: 当前
 
-"Damage Taken": "造成的受到的伤害所受伤害的"
+Damage Dealt: 输出伤害
 
-"Day": "日"
+Damage Taken: 造成的受到的伤害所受伤害的
 
-"Deaths": "死亡"
+Day: 日
 
-"DEFEAT": "击败"
+Deaths: 死亡
 
-"Defend your castle, attack other castles, command your army and become the best commander!": "捍卫你的城堡攻击其他城堡命令你的军队，成为最好的指挥官你的城堡，攻击其他城堡，指挥你的军队并成为最好的指挥官！"
+DEFEAT: 击败
 
-"Destroying other player creations or ruining them in any way is not allowed!": "破坏其他玩家的创作或破坏最小值不允许玩家的创作或以任何方式破坏他们！"
+Defend your castle, attack other castles, command your army and become the best commander!: 捍卫你的城堡攻击其他城堡命令你的军队，成为最好的指挥官你的城堡，攻击其他城堡，指挥你的军队并成为最好的指挥官！
 
-"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "破坏通过制造1x1洞和其他任何其外观的方式地形的美观通过制造孔，1x1塔架和任何其他方式地形的美观不允许不允许使其看起来不好的。"
+Destroying other player creations or ruining them in any way is not allowed!: 破坏其他玩家的创作或破坏最小值不允许玩家的创作或以任何方式破坏他们！
 
-"Did you know?": "你知道吗？"
+Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed: 破坏通过制造1x1洞和其他任何其外观的方式地形的美观通过制造孔，1x1塔架和任何其他方式地形的美观不允许不允许使其看起来不好的。
 
-"§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
-    " Use fasciniting abilities of your class to defeat other players and win!": "你知道吗？"
+Did you know?: 你知道吗？
 
-"Dissappears after §e§l10s §7of landing": "降落&e10&7之后消失。"
+Disables all perks: Disables all perks.
 
-"Double Emeralds": "双祖母绿"
+Dissappears after §e§l10s §7of landing: "降落&e10&7之后消失。"
 
-"Double Jump Modifier": "双跳修改"
+Double Emeralds: 双祖母绿
 
-"Double Melons Perk": "双瓜类帕金斯"
+Double Jump Modifier: 双跳修改
 
-"Emeralds total earned": "翡翠共赚"
+Double Melons Perk: 双瓜类帕金斯
 
-"Emeralds": "翡翠"
+Emerald: 翡翠
 
-"Emerald": "翡翠"
+Emeralds: 翡翠
 
-"§bEnchanted §b§lDiamond Cannon": "&bEnchanted &b&lDiamond炮"
+Emeralds total earned: 翡翠共赚
 
-"Enchanted Snowball Perk": "魔法雪球帕金斯"
+Enchanted Snowball Perk: 魔法雪球帕金斯
 
-"§bEnchanted §7Stone Cannon": "&bEnchanted &7Stone炮"
+Enchanted §aWood Cannon: "魔&aWood炮"
 
-"Enchanted §aWood Cannon": "魔&aWood炮"
+ENEMY TEAM: 敌方队
 
-"ENEMY TEAM": "敌方队"
+Every player gets 3 lives, eliminate enemy team to win: 每个玩家获得3条生命，消灭敌人团队都能赢得敌人的敌方团队获胜。
 
-"Every player gets 3 lives, eliminate enemy team to win": "每个玩家获得3条生命，消灭敌人团队都能赢得敌人的敌方团队获胜。"
+Every player gets 3 lives, eliminate other players to win: 每个玩家获得3条生命，消除赢得其他玩家双赢其他玩家获胜。
 
-"Every player gets 3 lives, eliminate other players to win": "每个玩家获得3条生命，消除赢得其他玩家双赢其他玩家获胜。"
+Experience Bonus Perk: 体验Bonus Perk
 
-"Experience Bonus Perk": "体验Bonus Perk"
+Explode your way to other players and explode them!: 向其他玩家并爆炸爆炸爆炸爆炸！
 
-"Explode your way to other players and explode them!": "向其他玩家并爆炸爆炸爆炸爆炸！"
+Exploring the void may reveal mysterious secrets!: 探索虚空可能揭示神秘的秘密秘密！
 
-"Exploring the void may reveal mysterious secrets!": "探索虚空可能揭示神秘的秘密秘密！"
+Explosion Radius: 爆炸半径
 
-"Explosion Radius": "爆炸半径"
+Falling Blocks Animation: 下降块动画
 
-"Falling Blocks Animation": "下降块动画"
+Fast Snowballs Modifier: Fast Snowballs修改器
 
-"Fast Snowballs Modifier": "Fast Snowballs修改器"
+Feel free to invite other players by using the chat: 使用随时邀请其他玩家聊天聊天。
 
-"Feel free to invite other players by using the chat": "使用随时邀请其他玩家聊天聊天。"
+Final Kills: 最终杀死
 
-"Final Kills": "最终杀死"
+Flamethrower: 火焰喷射器
 
-"Flamethrower": "火焰喷射器"
+Free!: 免费！
 
-"Free!": "免费！"
+Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!: 友好科技和魔术的生存科技与魔术的生存！探索许多维度，种出美丽的树木等等！
 
-"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "&2&l-=-=&a&lFriend Commands&2&l =-=-"
+GAME END: 游戏结束
 
-"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "友好科技和魔术的生存科技与魔术的生存！探索许多维度，种出美丽的树木等等！"
+GAME ENDED IN A DRAW: 游戏
 
-"GAME ENDED IN A DRAW": "游戏"
+Game has started!: 游戏已经开始！
 
-"GAME END": "游戏结束"
+Game is starting: 游戏正在启动
 
-"Game has started!": "游戏已经开始！"
+Game starts in: 游戏开始于
 
-"Game is starting": "游戏正在启动"
+Game starts in §e§l$1$ §eseconds: "游戏开始于&e&l $ 1&eseconds"
 
-"Game starts in §e§l$1$ §eseconds": "游戏开始于&e&l $ 1&eseconds"
+Game Statistics: 游戏统计信息
 
-"Game starts in": "游戏开始于"
+Game time: 游戏时间
 
-"Game Statistics": "游戏统计信息"
+Game will end in §e§l$1$ §eminute: "游戏将以&e&l $1$ &eminute结尾。"
 
-"Game time": "游戏时间"
+Game will end in §e§l$1$ §eminutes: "游戏结束于&e&l $1$ &eminutes。"
 
-"Game will end in §e§l$1$ §eminutes": "游戏结束于&e&l $1$ &eminutes。"
+Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!: 收集资源，准备战斗，保护您的生命水晶，攻击其他晶体和赢得比赛！
 
-"Game will end in §e§l$1$ §eminute": "游戏将以&e&l $1$ &eminute结尾。"
+Gravity has no effect on blocks here, so you can build in the sky!: 重力对块没有影响此处的，因此您可以在天空中构建此处的，因此您可以在天空中构建！
 
-"§eGame will start in §e§l$1$ §eseconds": "&eGame将开始在&e&l $1$ &eseconds"
+Have fun!: 玩得开心！
 
-"§eGame will start in §e§l$1$ §esecond": "&eGame将在&e&l $ 1日开始$&esecond"
+Health: 健康
 
-"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "收集资源，准备战斗，保护您的生命水晶，攻击其他晶体和赢得比赛！"
+Here you can find games which can be played both alone and with friends!: 在这里，您可以找到玩游戏可以与朋友单独玩的既可以单独也可以和朋友玩的！
 
-"Gravity has no effect on blocks here, so you can build in the sky!": "重力对块没有影响此处的，因此您可以在天空中构建此处的，因此您可以在天空中构建！"
+Here you can find games which can be played only with friends!: 在这里您可以找到游戏只能与朋友一起玩的只能与朋友一起玩的！
 
-"   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "&2&l-=-=&a&lGroup Commands&2&l =-=-"
+? Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!
+: 在这里您可以找到小小的游戏，这些minigame就像是制作其他游戏一样您可以找到一些GUI微型游戏，这些微型游戏与不同，不是制作通过下载插件来的，但是它们仍然很有趣我们我们的，它只是一个下载的插件，但是仍然很有趣！
 
-"Have fun!": "玩得开心！"
+Here you can use various abilities to explode the map and other players!: 在这里您可以使用各种功能来炸开地图和其他玩家功能来炸开地图和其他玩家！
 
-"Health": "健康"
+Hit to level up your stick and knock other players in to the void!: 命中以升起棍子，并将踢其他玩家进入其他玩家入虚空！
 
-"Here you can find games which can be played both alone and with friends!": "在这里，您可以找到玩游戏可以与朋友单独玩的既可以单独也可以和朋友玩的！"
+Hits: 命中
 
-"Here you can find games which can be played only with friends!": "在这里您可以找到游戏只能与朋友一起玩的只能与朋友一起玩的！"
+Hits Taken: 命中
 
-? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
-: "在这里您可以找到小小的游戏，这些minigame就像是制作其他游戏一样您可以找到一些GUI微型游戏，这些微型游戏与不同，不是制作通过下载插件来的，但是它们仍然很有趣我们我们的，它只是一个下载的插件，但是仍然很有趣！"
+hours: 小时
 
-"Here you can use various abilities to explode the map and other players!": "在这里您可以使用各种功能来炸开地图和其他玩家功能来炸开地图和其他玩家！"
+How To Play: How To Play
 
-"Hits Taken": "命中"
+If you want to get out of the §eSpectator Mode §ctype §e/q: "如果您想退出&eSpectator模式模式&c /q，"
 
-"Hits": "命中"
+If you want to leave the game type §e/q§6: "如果您想退出游戏类型为&e /q&6。"
 
-"Hit to level up your stick and knock other players in to the void!": "命中以升起棍子，并将踢其他玩家进入其他玩家入虚空！"
+If you want to spectate other player type §e/stp <player>: "如果您要观看其他玩家永恒特权类型类型&e /stp <玩家>"
 
-"hours": "小时"
+Immortality Perk: Immortality Perk
 
-"§b§lHow To Play": "&b&l如何玩"
+Increases the chance to reflect a snowball to 100%: 将机会反射到雪球的机会反射雪球的机会增加到100增加到100％
 
-"If you want to get out of the §eSpectator Mode §ctype §e/q": "如果您想退出&eSpectator模式模式&c /q，"
+Increases the damage of snowballs to 10 hearts: 将雪球的伤害增加到10个心。
 
-"If you want to leave the game type §e/q§6": "如果您想退出游戏类型为&e /q&6。"
+Increases your speed by $1$: 增加速度$1$
 
-"If you want to spectate other player type §e/stp <player>": "如果您要观看其他玩家永恒特权类型类型&e /stp <玩家>"
+Instakill Snowballs Modifier: Instakill Snowballs Modifier
 
-"Immortality Perk": "Immortality Perk"
+Invalid code: 无效代码。
 
-"Increases the chance to reflect a snowball to 100%": "将机会反射到雪球的机会反射雪球的机会增加到100增加到100％"
+It's very hot in Mustafar, you gonna need to drink twice as much water: Mustafar非常热，需要喝两次水您需要喝两倍的水。
 
-"Increases the damage of snowballs to 10 hearts": "将雪球的伤害增加到10个心。"
+Jumps: 跳跃
 
-"Increases your speed by $1$": "增加速度$1$"
+Killer: 杀手
 
-"Instakill Snowballs Modifier": "Instakill Snowballs Modifier"
+Kills: Kills
 
-"Invalid code": "无效代码。"
+Kills any normal opponent, even with armor: 杀死任何普通对手，即使有护甲。
 
-"§7§lIron Cannon": "&7&lIron Cannon"
+Killstreak: 连杀
 
-"It's very hot in Mustafar, you gonna need to drink twice as much water": "Mustafar非常热，需要喝两次水您需要喝两倍的水。"
+King: 王
 
-"Jumps": "跳跃"
+Level: 等级
 
-"Killer": "杀手"
+List of Games: 游戏清单
 
-"Kills any normal opponent, even with armor": "杀死任何普通对手，即使有护甲。"
+Lives: Lives
 
-"Killstreak": "连杀"
+LOCKED: 锁定
 
-"Kills": "Kills"
+? Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!
+: 抢夺抢夺其他玩家的战利品和有趣的能力随机产生的掠夺物宝箱，与其他玩家战斗，找到具有有趣能力的随机生成的掠夺物，并扔出类似pokeballs的暴民蛋！
 
-"King": "王"
+Losses: 损失
 
-"§e§lKnock other players off the platform":
-    " As you hit players, you deal more knockback": "&e&l&nbsp;其他玩家关闭平台，而玩家退出平台。当您击中玩家时，会造成更多的击退。"
+Makes all of your snowballs burn: 使您的所有雪球燃烧。
 
-"Level": "等级"
+Makes your snowballs super fast: 使您的所有雪球燃烧。
 
-"List of Games": "游戏清单"
+Max level reached: 最高水平达到
 
-"Lives": "Lives"
+'MAX LEVEL:': 'MAX LEVEL: '
 
-? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
-: "抢夺抢夺其他玩家的战利品和有趣的能力随机产生的掠夺物宝箱，与其他玩家战斗，找到具有有趣能力的随机生成的掠夺物，并扔出类似pokeballs的暴民蛋！"
+Melon: 瓜类
 
-"§e§lLoot randomly generated chests with unique items":
-    " Use them to eliminate your enemies":
-        " Be the only survivor to win": "&e&l用唯一生成的随机生成的唯一随机物品随机生成宝箱。用它们消灭你的敌人。成为唯一获胜的幸存者。"
+Melons: 瓜类
 
-"Losses": "损失"
+Melons earned: 瓜类获得
 
-"Makes all of your snowballs burn": "使您的所有雪球燃烧。"
+Melons spent: 瓜类花费
 
-"Makes your snowballs super fast": "使您的所有雪球燃烧。"
+Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!: 矿山矿石，升级镐，购买很棒的升级并解锁新洞穴！
 
-"Max level reached": "最高水平达到"
+minutes: 分钟
 
-"MAX LEVEL:": "MAX LEVEL: "
+Mode: 模式
 
-"Melons earned": "瓜类获得"
+Move time left: 向左移动时间
 
-"Melons spent": "瓜类花费"
+Must be at lower floor: 必须低下楼层在较低楼层上
 
-"Melons": "瓜类"
+Must not have any Super Jumps: 必须必须没有超级跳跃不能有任何超级跳跃
 
-"Melon": "瓜类"
+New Rating: 新评分
 
-"Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "矿山矿石，升级镐，购买很棒的升级并解锁新洞穴！"
+NEW RECORD!: NEW RECORD！
 
-"minutes": "分钟"
+NEW!: 新！
 
-"Mode": "模式"
+Next: 在下一个
 
-"Move time left": "向左移动时间"
+Next Super Jump In: 下一个超级跳转
 
-"Must be at lower floor": "必须低下楼层在较低楼层上"
+Night: 夜
 
-"Must not have any Super Jumps": "必须必须没有超级跳跃不能有任何超级跳跃"
+No Compass Modifier: 没有指南针修饰符
 
-"New Rating": "新评分"
+No Perks Modifier: No Perks Modifier
 
-"NEW RECORD!": "NEW RECORD！"
+Not enough melons!: 甜瓜不足！
 
-"NEW!": "新！"
+'Note:': '注意: '
 
-"Next Super Jump In": "下一个超级跳转"
+Now blocks will start breaking when you step on them!: 当您时，nowblocks将开始破裂现在，时，blocks将开始破裂踩到它们踩到它们！
 
-"Next": "在下一个"
+Old Record: Old Record
 
-"Night": "夜"
+Parkour Course: 跑酷路线
 
-"No Compass Modifier": "没有指南针修饰符"
+Party invite from $1$ §ehas expired: "来自$1$ 的聚会邀请&ehas过期。"
 
-"Not enough melons!": "甜瓜不足！"
+Party Leader: 政党领导人
 
-"Note:": "注意: "
+Party Members: 政党领导人
 
-"Now blocks will start breaking when you step on them!": "当您时，nowblocks将开始破裂现在，时，blocks将开始破裂踩到它们踩到它们！"
+Party of §a$1$ §cis not open for public join: "$1$ &cis的政党不公开参与。"
 
-"Old Record": "Old Record"
+Play various classes with different abilities and use your bow skills to win in many different modes!: 玩各种具有不同能力的类，并使用各种具有不同能力的类，并使用弓箭技巧在许多获胜不同模式不同模式下！
 
-"Parkour Course": "跑酷路线"
+Player died $1$ times in a row without kills: 玩家连续死亡$1$ 次，没有杀死
 
-? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
-: "&e&l强化大规模的雪球搏击和使用，了我们的存在了雪球的，了他们参加大规模的打雪仗，并使用道具来缓解您的生存！推迟打雪仗可以使雪球更进一步。"
+Player is waiting: 玩家正在等待
 
-"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "&2&l-=-=&a&lParty Commands&2&l =-=-"
+Player not found: 找不到玩家。
 
-"Party invite from $1$ §ehas expired": "来自$1$ 的聚会邀请&ehas过期。"
+Player was on $1$ killstreak: 玩家的 $1$  杀
 
-"Party Leader": "政党领导人"
+Players: 玩家
 
-"Party Members": "政党领导人"
+Players are waiting: 玩家正在等待玩家
 
-"Party of §a$1$ §cis not open for public join": "$1$ &cis的政党不公开参与。"
+Players in: 玩家在玩家
 
-"§e§lPlace bombs and explode blocks around it in a + shape":
-    " Use powerups to take advantage over opponents": "&e&l将在形状周围炸弹和爆炸块，以利用炸弹和爆炸块以+形状围绕。使用强化道具来击败对手。"
+Players left: 玩家离开的
 
-"   §2§l   --=-= §a§lPlayer Commands §2§l=-=--": "&2&l-=-=&a&lPlayer Commands&2&l =-=-"
+Players Waiting: 玩家正在等待的
 
-"Player died $1$ times in a row without kills": "玩家连续死亡$1$ 次，没有杀死"
+'Please rate this map by clicking:': 请点击以下内容对此地图进行
 
-"Player is waiting": "玩家正在等待"
+Please specify group name!: '请指定群组名称: 请指定群组名称！'
 
-"Player not found": "找不到玩家。"
+Please specify player name!: 请指定玩家名称！
 
-"Players are waiting": "玩家正在等待玩家"
+Plot Name: 情节名称
 
-"Players in": "玩家在玩家"
+Plot Owner: 情节拥有人
 
-"Players left": "玩家离开的"
+Points: 点数增能
 
-"Players Waiting": "玩家正在等待的"
+Powerups: 增能
 
-"Players": "玩家"
+'Price:': '价格: '
 
-"Player was on $1$ killstreak": "玩家的 $1$  杀"
+Quickly test your skill by fighting other players with a huge variety of modifiers!: 快速测试快速测试通过与大量修饰符对抗其他玩家来您的技能通过与其他修饰符对抗其他玩家来您的技能！
 
-"Play various classes with different abilities and use your bow skills to win in many different modes!": "玩各种具有不同能力的类，并使用各种具有不同能力的类，并使用弓箭技巧在许多获胜不同模式不同模式下！"
+Radar Breaker: 雷达
 
-"Please rate this map by clicking:": "请点击以下内容对此地图进行"
+Rain is able to refill water sources: 雨能够补充水源。
 
-"Please specify group name!": "请指定群组名称: 请指定群组名称！"
+Rating: 等级
 
-"Please specify player name!": "请指定玩家名称！"
+Reflect Snowballs Modifier: Reflect Snowballs Modifier
 
-"Plot Name": "情节名称"
+Reflection Perk: 反射Perkasnowballreducingdamagetakenby1
 
-"Plot Owner": "情节拥有人"
+Reflects a snowball, reducing damage taken by $1$: 反映雪球，减少伤害$1$ 的。
 
-"Points": "点数增能"
+Regenerates your health $1$: 再生健康$1$
 
-"Powerups": "增能"
+Regeneration: 再生
 
-"Price:": "价格: "
+Removes compass from the game: 从游戏中移除指南针。
 
-"Quickly test your skill by fighting other players with a huge variety of modifiers!": "快速测试快速测试通过与大量修饰符对抗其他玩家来您的技能通过与其他修饰符对抗其他玩家来您的技能！"
+Resources: 资源
 
-"Radar Breaker": "雷达"
+Respawning in: 在重生中
 
-"Rain is able to refill water sources": "雨能够补充水源。"
+Right click to activate game modifiers!: 右键单击以激活游戏修改器！
 
-"§6§lRapid Fire §bpowerup has spawned at middle of the map!": "&6&lRapid Fire&bpowerup已生成在地图中间在地图中间！"
+Server rules can be read in §a/rules§e, make sure to follow them!: "服务器规则可以在&a /rules&e中读取，请确保遵循它们！"
 
-"Rating": "等级"
+Shoot chickens as fast as you can!: 尽快射击鸡！
 
-"Reflection Perk": "反射Perkasnowballreducingdamagetakenby1"
+Shoot other players with snowballs, buy powerups with melons and play in many different modes!: 射击用雪球其他玩家以多种购买甜瓜和游戏用雪球其他玩家，用甜瓜购买能力道具并以许多不同的玩方式模式！
 
-"Reflects a snowball, reducing damage taken by $1$": "反映雪球，减少伤害$1$ 的。"
+Slowballs: Slowballs
 
-"Reflect Snowballs Modifier": "Reflect Snowballs Modifier"
+Slowness I on hit: Slowness I on hit
 
-"Regenerates your health $1$": "再生健康$1$"
+Slowness Perk: Slowness Perk
 
-"Regeneration": "再生"
+Sneak to use: 潜行使用
 
-"Removes compass from the game": "从游戏中移除指南针。"
+Snowball Accuracy: Snowball Accuracy
 
-"Resources": "资源"
+Snowballs fired: Snowballs fired
 
-"Respawning in": "在重生中"
+Snowman: sortsteamsteamsonskillsskillsforfairness出于公平考虑，对团队进行计数。
 
-"Server rules can be read in §a/rules§e, make sure to follow them!": "服务器规则可以在&a /rules&e中读取，请确保遵循它们！"
+Snowman Perk: Snowman Perk
 
-"§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!": "&e&l射杀鸡肉并获得杀死杀人的最大杀伤力并获得最大的杀伤力来取胜！当心肮脏的僵尸和爬行者！"
+Sorts teams based on kills count for fairness: sortsteamsteamsonskillsskillsforfairness出于公平考虑，对团队进行计数。
 
-"Shoot chickens as fast as you can!": "尽快射击鸡！"
+Spawnpoint Switch: Spawnpoint Switch
 
-"Shoot other players with snowballs, buy powerups with melons and play in many different modes!": "射击用雪球其他玩家以多种购买甜瓜和游戏用雪球其他玩家，用甜瓜购买能力道具并以许多不同的玩方式模式！"
+Speed: 速度将其他
 
-"§e§lShoot TNT with your cannon and knock opponents to the void, or explode them":
-    " Save yourself from hazards using Super Jumps":
-        " [Sneak]": "&e&l射击用你的大炮对手，自己用大炮TNT，将对手击倒至虚空，或将其炸开。让自己使用超级跳跃免受危险。 [潜行]"
+Spleef + TNT = Spleent! Explode other players into the void!: Spleef + TNT = Spleent！将其他炸玩家入虚空！
 
-"Slowballs": "Slowballs"
+Statistics: 统计
 
-"Slowness I on hit": "Slowness I on hit"
+Succesfully sent party invite to $1$!: 成功将聚会邀请发送至$1$ ！
 
-"Slowness Perk": "Slowness Perk"
+Super Jump: 超级跳跃
 
-"Sneak to use": "潜行使用"
+Super Jumps: 超级跳跃
 
-"Snowball Accuracy": "Snowball Accuracy"
+Survival based on old Minecraft versions between alpha 1:
+    2 and beta 1:
+        '7':
+            '3':
+                '||§cWARNING: §7NOSTALGIA IS A CERTAINTY': ": 基于旧的Minecraft版本在alpha 1.2和beta 1.7.3之间进行。||&警告: 和beta173之间的oldminecraft&7NOSTALGIA是一种确定性。"
 
-"Snowballs fired": "Snowballs fired"
+Survival Rules: 生存规则
 
-"Snowman Perk": "Snowman Perk"
+Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do: 宣誓完全禁止在服务器中，您将获得自动发出的惩罚在我们的服务器中完全禁止，，您将自动受到处罚如果您这样做。
 
-"Snowman": "sortsteamsteamsonskillsskillsforfairness出于公平考虑，对团队进行计数。"
+Team: 团队
 
-"Sorts teams based on kills count for fairness": "sortsteamsteamsonskillsskillsforfairness出于公平考虑，对团队进行计数。"
+Thank you for rating this map: 感谢您对此地图进行评分
 
-"Spawnpoint Switch": "Spawnpoint Switch"
+The Knockback Stick: The Knockback Stick
 
-"Speed": "速度将其他"
+'There are many special recipes! Check them out in: §e/recipes§r': "有很多特殊的食谱！在以下位置检查它们: &e /recipes&r"
 
-"Spleef + TNT = Spleent! Explode other players into the void!": "Spleef + TNT = Spleent！将其他炸玩家入虚空！"
+There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$: 有一种针对Creative World的自定义编程语言，您可以用它来创建为绘图简单的功能！ $1$
 
-"Statistics": "统计"
+This game can be played with only §e§l2 §aplayers: "此游戏只能由&e&l2&aplayers玩。"
 
-"§7Stone Cannon": "&7Stone Cannon"
+This game can be played with §e§l2§a§l+ §aplayers: "此游戏可以与&e&l2&a&l +&aplayers一起玩。"
 
-"Succesfully sent party invite to $1$!": "成功将聚会邀请发送至$1$ ！"
-
-"Super Jumps": "超级跳跃"
-
-"Super Jump": "超级跳跃"
-
-"Survival based on old Minecraft versions between alpha 1":
-    "2 and beta 1":
-        "7":
-            "3":
-                "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": ": 基于旧的Minecraft版本在alpha 1.2和beta 1.7.3之间进行。||&警告: 和beta173之间的oldminecraft&7NOSTALGIA是一种确定性。"
-
-"Survival Rules": "生存规则"
-
-"Team": "团队"
-
-"Thank you for rating this map": "感谢您对此地图进行评分"
-
-"The Knockback Stick": "The Knockback Stick"
-
-"There are many special recipes! Check them out in: §e/recipes§r": "有很多特殊的食谱！在以下位置检查它们: &e /recipes&r"
-
-"There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$": "有一种针对Creative World的自定义编程语言，您可以用它来创建为绘图简单的功能！ $1$"
-
-"§aThis game can be played §e§lalone§a": "&a可以玩&e&lalone&a这个游戏。"
-
-"This game can be played with §e§l2§a§l+ §aplayers": "此游戏可以与&e&l2&a&l +&aplayers一起玩。"
-
-"This game can be played with only §e§l2 §aplayers": "此游戏只能由&e&l2&aplayers玩。"
-
-? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
+? This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players
 : "此游戏开始的时间很早，您将不会就不会赢得游戏开始得早，您将无法获得Emeralds和您的统计信息，成就有不到1名玩家如果开始时 $1$ &6玩家以下将不会计入。"
 
-"This power-up is already active!": "此游戏开始的时间很早，您将不会就不会赢得游戏开始得早，您将无法获得Emeralds和您的统计信息，成就有不到1名玩家如果开始时 $1$ &6玩家以下将不会计入。"
+This power-up is already active!: "此游戏开始的时间很早，您将不会就不会赢得游戏开始得早，您将无法获得Emeralds和您的统计信息，成就有不到1名玩家如果开始时 $1$ &6玩家以下将不会计入。"
 
-"This round of 1v1 did not meet the requirements for win rewards and rating changes": "此回合不符合赢奖和评级更改的要求1v1不满足获胜奖励和评级更改的要求。"
+This round of 1v1 did not meet the requirements for win rewards and rating changes: 此回合不符合赢奖和评级更改的要求1v1不满足获胜奖励和评级更改的要求。
 
-"Throwable Cobweb": "可投掷的蜘蛛网"
+Throwable Cobweb: 可投掷的蜘蛛网
 
-"Time elapsed": "经过的时间"
+Time elapsed: 经过的时间
 
-"Time since last update": "自上次更新以来的"
+Time since last update: 自上次更新以来的
 
-"Total play time": "总计上场时间"
+Total play time: 总计上场时间
 
-"Troops alive": "部队存活的"
+Troops: 部队
 
-"Troops killed": "部队被杀死的"
+Troops alive: 部队存活的
 
-"Troops lost": "部队失去的"
+Troops killed: 部队被杀死的
 
-"Troops": "部队"
+Troops lost: 部队失去的
 
-"Turns your snowballs into slowballs": "将雪球变成慢球。"
+Turn: Turn
 
-"Turn": "Turn"
+Turns your snowballs into slowballs: 将雪球变成慢球。
 
-"UNLOCKED": "解锁"
+UNLOCKED: 解锁
 
-"Use /agree $1$  to agree with survival rules": "使用/agree $1$ 同意生存规则。"
+Use /agree $1$  to agree with survival rules: 使用/agree $1$ 同意生存规则。
 
-"Use F5 + high FOV to get a better view of the game field!": "使用F5 +高FOV可以更好地查看游戏场游戏场！"
+Use F5 + high FOV to get a better view of the game field!: 使用F5 +高FOV可以更好地查看游戏场游戏场！
 
-? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
-: "&e&l利用充分的准备时间，以尽可能多的资源捍卫准备时间来收集尽可能多的资源，捍卫水晶生命和战斗的胜利生命之，为胜利而奋斗。"
+VICTORY: VICTORY
 
-"VICTORY": "VICTORY"
+Visitors: Visitors
 
-"Votes:": "Votes: "
+'Votes:': 'Votes: '
 
-"[VOTE]": "[VOTE]"
+Waiting Players: 等待玩家
 
-"Waiting Players": "等待玩家"
+Waiting Queue Status: 等待队列状态
 
-"Waiting Queue Status": "等待队列状态"
+Warped §e§l$1$ §eparty members to your location!: 等待队列状态
 
-"Warped §e§l$1$ §eparty members to your location!": "等待队列状态"
+Water is finite here, so you are going to need to build farms close to big sources of water: 水是这里的有限的，因此您打算在靠近大水源的地方建立农场这里的有限的，因此您将需要在靠近大水源的地方建造农场。
 
-"Water is finite here, so you are going to need to build farms close to big sources of water": "水是这里的有限的，因此您打算在靠近大水源的地方建立农场这里的有限的，因此您将需要在靠近大水源的地方建造农场。"
+Wins: 赢得
 
-"Wins Percentage": "胜率胜率"
+Wins Percentage: 胜率胜率
 
-"Wins": "赢得"
+Wood Cannon: Wood Cannon
 
-"Wood Cannon": "Wood Cannon"
+You already have voted for a map!: Wood Cannon
 
-"You already have voted for a map!": "Wood Cannon"
+You are already in a party of §a$1$§c!: "您已经参加了&a $1$ &c的聚会！"
 
-"You are already in a party of §a$1$§c!": "您已经参加了&a $1$ &c的聚会！"
+You are already on $1$ §cteam!: "您已经使用$1$ &cteam！"
 
-"You are already on $1$ §cteam!": "您已经使用$1$ &cteam！"
+You are leader of a party, use §e/party disband §cto be able to do this: "您是聚会的领导者，请使用要能够执行以下&e /party disband&c能够执行此操作。"
 
-"You are leader of a party, use §e/party disband §cto be able to do this": "您是聚会的领导者，请使用要能够执行以下&e /party disband&c能够执行此操作。"
+You are now a member of $1$ §eteam!: "您现在是$1$ &eteam的成员！"
 
-"You are now a member of $1$ §eteam!": "您现在是$1$ &eteam的成员！"
+You are now Juggernaut!: 您现在是Juggernaut！
 
-"You are now Juggernaut!": "您现在是Juggernaut！"
+You aren't in a party!: 您没有参加派对！
 
-"You aren't in a party!": "您没有参加派对！"
+You aren't the leader of the party!: 您不是党的领袖！
 
-"You aren't the leader of the party!": "您不是党的领袖！"
+You can buy this item only once per life: 您一生只能购买一次。
 
-"You can chat only once every 1":
-    "5 second!": "您每1.5秒只能聊天一次！"
+You can chat only once every 1:
+    5 second!: 您每1.5秒只能聊天一次！
 
-"You can die from cold during night in §bHoth§r if you do not have leather armor": "如果您没有皮甲，晚上可以在&bHoth&r中。"
+You can die from cold during night in §bHoth§r if you do not have leather armor: "如果您没有皮甲，晚上可以在&bHoth&r中。"
 
-"You can find Friendly Survival wiki in: $1$": "您可以在$1$ 中找到Friendly Survival Wiki"
+'You can find Friendly Survival wiki in: $1$': 您可以在$1$ 中找到Friendly Survival Wiki
 
-"You can lock your containers and doors with signs, if you want to protect land you can join a group or create one": "您可以锁定容器和门并带有签名以保护土地，您可以将带有标志的集装箱和门锁定，如果要保护土地，您可以加入一个小组或创建一个可以加入一个小组或创建一个小组。"
+You can lock your containers and doors with signs, if you want to protect land you can join a group or create one: 您可以锁定容器和门并带有签名以保护土地，您可以将带有标志的集装箱和门锁定，如果要保护土地，您可以加入一个小组或创建一个可以加入一个小组或创建一个小组。
 
-"You cannot have more than one §fSnowman §cin inventory at the same time": "您不能同时拥有一个雪人库存一个以上的&fSnowman&cin库存。"
+You can only buy this in game!: You can only buy this in game!
 
-"You cannot party warp into this game!": "您无法将warp拖入该游戏！"
+You can only buy this in-game!: 您只能在游戏中购买！
 
-"You can only buy this in-game!": "您只能在游戏中购买！"
+You can only vote when there's enough players to start the game: 您只有在有时才能投票足够的玩家开始游戏足够的玩家可以开始游戏。
 
-"You can only vote when there's enough players to start the game": "您只有在有时才能投票足够的玩家开始游戏足够的玩家可以开始游戏。"
+You can send care packages to support alive players with §e§l/carepackage <player>: "您可以发送护理包以支持活跃的玩家使用&e&l /carepackage <player>护理包以支持活跃的玩家，"
 
-"You can send care packages to support alive players with §e§l/carepackage <player>": "您可以发送护理包以支持活跃的玩家使用&e&l /carepackage <player>护理包以支持活跃的玩家，"
+You can toggle display of the animation off to reduce your FPS lag!: 您可以显示动画以减少您的帧数滞后关闭动画以减少FPS滞后！
 
-"You can toggle display of the animation off to reduce your FPS lag!": "您可以显示动画以减少您的帧数滞后关闭动画以减少FPS滞后！"
+You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions: "您可以使用任意尺寸的变形或美丽的有趣尺寸&5Dimensional Warp&r变形为许多美丽而有趣的尺寸。"
 
-"You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions": "您可以使用任意尺寸的变形或美丽的有趣尺寸&5Dimensional Warp&r变形为许多美丽而有趣的尺寸。"
+You cannot have more than one §fSnowman §cin inventory at the same time: "您不能同时拥有一个雪人库存一个以上的&fSnowman&cin库存。"
 
-"You could not be warped to your party leader's location, because you are in a game":
-    " Use §e/q §cto leave": "由于您在游戏中，因此无法翘曲至组长位置。使用&e /q&c离开。"
+You cannot party warp into this game!: 您无法将warp拖入该游戏！
 
-"You donated §e§l1 §fSnowball §eto §a$1$§e!": "您捐赠了&e&l1&fSnowball&eto&a $1$ &e！"
+You could not be warped to your party leader's location, because you are in a game:
+    ' Use §e/q §cto leave': "由于您在游戏中，因此无法翘曲至组长位置。使用&e /q&c离开。"
 
-"You do not have enough §aEmeralds§c!": "您没有足够的&aEmeralds&c！"
+You do not have enough emeralds!: You do not have enough emeralds!
 
-"You do not have enough melons!": "您没有足够的瓜！"
+You do not have enough melons!: 您没有足够的瓜！
 
-"You get points for flag captures, your team needs to reach the needed amount of points to win": "您需要获得您需要为团队捕获的标记积分，而需要存储的积分数量积分捕获标记的积分，您的团队需要达到所需的积分数量才能获胜。"
+You do not have enough §aEmeralds§c!: "您没有足够的&aEmeralds&c！"
 
-? "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut"
-:   " You need to reach the needed amount of points to win": "您需要获得您需要为团队捕获的标记积分，而需要存储的积分数量积分捕获标记的积分，您的团队需要达到所需的积分数量才能获胜。"
+You donated §e§l1 §fSnowball §eto §a$1$§e!: "您捐赠了&e&l1&fSnowball&eto&a $1$ &e！"
 
-"You get points for kills, you need to reach the needed amount of points to win": "您需要获得点数您需要击杀才能达到所需的双杀击杀，您需要达到所需的点数才能获胜。获得积分获得所需积分数量 您获得得分您需要为团队所需的杀伤力，而的杀伤力需要为击杀，您的团队需要达到获胜所需的积分数量。"
+You get points for flag captures, your team needs to reach the needed amount of points to win: 您需要获得您需要为团队捕获的标记积分，而需要存储的积分数量积分捕获标记的积分，您的团队需要达到所需的积分数量才能获胜。
 
-"You get points for kills, your team needs to reach the needed amount of points to win": "您需要获得点数您需要击杀才能达到所需的双杀击杀，您需要达到所需的点数才能获胜。获得积分获得所需积分数量 您获得得分您需要为团队所需的杀伤力，而的杀伤力需要为击杀，您的团队需要达到获胜所需的积分数量。"
+? You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut
+:   ' You need to reach the needed amount of points to win': 您需要获得您需要为团队捕获的标记积分，而需要存储的积分数量积分捕获标记的积分，您的团队需要达到所需的积分数量才能获胜。
 
-"You got a §lEnchanted Snowball §bfrom your kill!": "您杀死了一个&l魔法雪球&b！"
+You get points for kills, you need to reach the needed amount of points to win: 您需要获得点数您需要击杀才能达到所需的双杀击杀，您需要达到所需的点数才能获胜。获得积分获得所需积分数量 您获得得分您需要为团队所需的杀伤力，而的杀伤力需要为击杀，您的团队需要达到获胜所需的积分数量。
 
-"You have agreed with the survival rules, follow them and everything will be okay!": "您已经同意按照生存法则了生存规则生存规则，请遵守生存规则，一切都会好起来的！"
+You get points for kills, your team needs to reach the needed amount of points to win: 您需要获得点数您需要击杀才能达到所需的双杀击杀，您需要达到所需的点数才能获胜。获得积分获得所需积分数量 您获得得分您需要为团队所需的杀伤力，而的杀伤力需要为击杀，您的团队需要达到获胜所需的积分数量。
 
-"You have already invited $1$ §cinto your party!": "您已邀请$1$ &cin参加您的聚会！"
+You got a §lEnchanted Snowball §bfrom your kill!: "您杀死了一个&l魔法雪球&b！"
 
-? "You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day"
+You have agreed with the survival rules, follow them and everything will be okay!: 您已经同意按照生存法则了生存规则生存规则，请遵守生存规则，一切都会好起来的！
+
+You have already invited $1$ §cinto your party!: "您已邀请$1$ &cin参加您的聚会！"
+
+You have already used this power-up in this life!: 您已经在此使用了这种能力生活中生活中！
+
+? You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day
 : "您今天已经通过购买为该游戏投票支持该服务器今天已经在此游戏中为地图投票，请通过购买支持该服务器，每天无限制的时间&a&lVIP&cif来每天您要投票无限制的时间。"
 
-"You have already voted for a mode!": "您今天已经通过购买为该游戏投票支持该服务器今天已经在此游戏中为地图投票，请通过购买支持该服务器，每天无限制的时间&a&lVIP&cif来每天您要投票无限制的时间。"
+You have already voted for a mode!: "您今天已经通过购买为该游戏投票支持该服务器今天已经在此游戏中为地图投票，请通过购买支持该服务器，每天无限制的时间&a&lVIP&cif来每天您要投票无限制的时间。"
 
-"You have already voted for this modifier!": "您已经投票赞成该修改器！"
+You have already voted for this modifier!: 您已经投票赞成该修改器！
 
-"You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!": "您拥有FastAsyncWorldEdit，FastAsyncVoxelSniper，goBrush和goPaint构建工具！"
+You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!: 您拥有FastAsyncWorldEdit，FastAsyncVoxelSniper，goBrush和goPaint构建工具！
 
-"You have joined party of §a$1$§e!": "您已加入&a $1$ &e的聚会！"
+You have gained extra life from your §aImmortality Perk§e!: "您已经从获得了额外的生命&aImmortality Perk&e！"
 
-"You have left party of §a$1$§e!": "您已退出&a $1$ &e的聚会！"
+You have joined party of §a$1$§e!: "您已加入&a $1$ &e的聚会！"
 
-"You have purchased $1$§6!": "您已购买$1$ &6！"
+You have left party of §a$1$§e!: "您已退出&a $1$ &e的聚会！"
 
-"You have reached the limit of §e§l$1$ §cpowerups per match!": "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
+You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row: "您已连续记录中记录了登录&e&l $1$ &天！您每天登录将获得更高的奖励连续。"
 
-"You have reached the limit of snowballs!": "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
+You have purchased $1$§6!: "您已购买$1$ &6！"
 
-"You have received §fSnowman §efor reaching killstreak of §e§l5§e!": "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
+You have purchased §a$1$§6!: "You have purchased &a$1$&6!"
 
-"You have reflected snowball of $1$§f!": "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
+You have reached the limit of snowballs!: "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
 
-"You have removed your last rating of this map": "您已删除此地图的最新评级。"
+You have reached the limit of §e§l$1$ §cpower-ups per match!: "You have reached the limit of &e&l$1$ &cpower-ups per match!"
 
-"You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules": "您必须阅读并同意使用可以生存的可突破中断/放置块的规则必须阅读并同意生存规则才能打破/放置障碍，使用&e /survivalrules"
+You have reached the limit of §e§l$1$ §cpowerups per match!: "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
 
-"You have upgraded $1$ to $2$!": "您已将$1$ 升级到$2$ ！"
+You have received §fSnowman §efor reaching killstreak of §e§l5§e!: "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
 
-"You have upgraded §a$1$§6!": "您已升级&a $1$ &6！"
+You have reflected snowball of $1$§f!: "您已达到&e&l $1$ &cpowerups的限制每场比赛每次比赛！您已经达到雪球极限您已经达到雪球极限！您已经收到了技能杀手5的雪人您已经收到&f雪人杀人魔到达&e达到了&e&l5&e的！"
 
-"You must be leader of a party to use this!": "您必须是聚会的领导方才能使用此功能！"
+You have removed your last rating of this map: 您已删除此地图的最新评级。
 
-"Your army is under attack!": "您的军队受到攻击！"
+You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules: "您必须阅读并同意使用可以生存的可突破中断/放置块的规则必须阅读并同意生存规则才能打破/放置障碍，使用&e /survivalrules"
 
-"Your opponent is blinded by your perk!": "您的军队受到攻击！"
+You have upgraded $1$ to $2$!: 您已将$1$ 升级到$2$ ！
 
-"Your opponent is ignited by your perk!": "您的军队受到攻击！"
+You have upgraded §a$1$ §6to §a$2$§6!: "You have upgraded &a$1$ &6to &a$2$&6!"
 
-"Your opponent is slowed by your perk!": "您的振作使对手减速！"
+You have upgraded §a$1$§6!: "您已升级&a $1$ &6！"
 
-"Your party invite to $1$ §ehas expired": "您加入$1$ 的聚会邀请已过期。"
+You must be leader of a party to use this!: 您必须是聚会的领导方才能使用此功能！
 
-"Your party leader has warped you to their location!": "您的党魁已将您扭曲到他们的位置位置！"
+Your army is under attack!: 您的军队受到攻击！
 
-"Your Radar Breaker effect is over!": "您的Radar Breaker效果已经结束！"
+Your opponent is blinded by your perk!: 您的军队受到攻击！
 
-"Your snowball hit $1$§f!": "您的雪球达到$1$ &f！"
+Your opponent is ignited by your perk!: 您的军队受到攻击！
 
-"Your snowball hit boat of $1$§f!": "您的$1$ &f雪球命中船！"
+Your opponent is slowed by your perk!: 您的振作使对手减速！
 
-"Your snowman's snowball hit $1$§f!": "您的雪人的雪球命中$1$ &f！"
+Your party has been made private: Your party has been made private.
 
-"YOUR TEAM": "您的团队"
+Your party invite to $1$ §ehas expired: 您加入$1$ 的聚会邀请已过期。
 
-"$1$ §ekicked $2$ §efrom the party!": "从聚会中踢了1美元&踢了2美元！"
+Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!: "&a $1$ &ehas从其永生性中获得额外的生命！"
 
-"You have already used this power-up in this life!": "您已经在此使用了这种能力生活中生活中！"
+Your party leader has warped you to their location!: 您的党魁已将您扭曲到他们的位置位置！
 
-"Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do": "宣誓完全禁止在服务器中，您将获得自动发出的惩罚在我们的服务器中完全禁止，，您将自动受到处罚如果您这样做。"
+Your Radar Breaker effect is over!: 您的Radar Breaker效果已经结束！
 
-"$1$ §ehas transferred party leader to $2$§e!": "$1$ &ehas将党的领导转移到$2$ &e！"
+Your snowball hit $1$§f!: "您的雪球达到$1$ &f！"
 
-"$1$ §cis not in your party!": "$1$ &cis不参加您的聚会！"
+Your snowball hit boat of $1$§f!: "您的$1$ &f雪球命中船！"
 
-"You can buy this item only once per life": "您一生只能购买一次。"
+Your snowman's snowball hit $1$§f!: "您的雪人的雪球命中$1$ &f！"
 
-"You have gained extra life from your §aImmortality Perk§e!": "您已经从获得了额外的生命&aImmortality Perk&e！"
+YOUR TEAM: 您的团队
 
-"Right click to activate game modifiers!": "右键单击以激活游戏修改器！"
+'[ACCEPT]': '[ACCEPT]'
 
-"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "您已连续记录中记录了登录&e&l $1$ &天！您每天登录将获得更高的奖励连续。"
+'[CLICK TO JOIN]': ' [点击加入]'
 
-"LOCKED": "锁定"
+'[VOTE]': '[VOTE]'
 
-"§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a $1$ &ehas从其永生性中获得额外的生命！"
+§6§lGolden Cannon: "&6&lGolden Cannon"
 
-"Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "&a $1$ &ehas从其永生性中获得额外的生命！"
+§6§lRapid Fire §bpowerup has spawned at middle of the map!: "&6&lRapid Fire&bpowerup已生成在地图中间在地图中间！"
 
-"§bEnchanted §7§lIron Cannon": "&a $1$ &ehas从其永生性中获得额外的生命！"
+§7Stone Cannon: "&7Stone Cannon"
 
-? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
-: "&a $1$ &ehas从其永生性中获得额外的生命！"
+§7§lBecause of too much game changing modifiers activated this match will not affect your rating: "&7&l，因为太多的改变游戏的修饰符激活了此比赛不会影响您的由于激活了太多的改变游戏的修饰符，因此该比赛不会影响您的评价评分。"
 
-? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
-: "&a $1$ &ehas从其永生性中获得额外的生命！"
+§7§lIron Cannon: "&7&lIron Cannon"
+
+§a$1$ §egot first kill of the game!: "&a $1$ &egot the first kill of the game！"
+
+§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!: "&a $1$ &ehas从其永生性中获得额外的生命！"
+
+§aThis game can be played §e§lalone§a: "&a可以玩&e&lalone&a这个游戏。"
+
+§aWood Cannon: "&aWood Cannon"
+
+§bEnchanted §7Stone Cannon: "&bEnchanted &7Stone炮"
+
+§bEnchanted §7§lIron Cannon: "&a $1$ &ehas从其永生性中获得额外的生命！"
+
+§bEnchanted §aWood Cannon: "&bEnchanted &aWood Cannon"
+
+§bEnchanted §b§lDiamond Cannon: "&bEnchanted &b&lDiamond炮"
+
+§b§lHow To Play: "&b&l如何玩"
+
+§eGame will start in §e§l$1$ §esecond: "&eGame将在&e&l $ 1日开始$&esecond"
+
+§eGame will start in §e§l$1$ §eseconds: "&eGame将开始在&e&l $1$ &eseconds"
+
+§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!: "&e&l成为的指挥官，并击败您的一支庞大的军队指挥官，并与您的军队一起击败所敌人的国王，以取胜！"
+
+§e§lDifferent elemental classes compete with each other in bow-fighting abilities:
+    ' Use fasciniting abilities of your class to defeat other players and win!': 你知道吗？
+
+§e§lKnock other players off the platform:
+    ' As you hit players, you deal more knockback': "&e&l&nbsp;其他玩家关闭平台，而玩家退出平台。当您击中玩家时，会造成更多的击退。"
+
+§e§lLoot randomly generated chests with unique items:
+    ' Use them to eliminate your enemies':
+        ' Be the only survivor to win': "&e&l用唯一生成的随机生成的唯一随机物品随机生成宝箱。用它们消灭你的敌人。成为唯一获胜的幸存者。"
+
+? §e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further
+: "&e&l强化大规模的雪球搏击和使用，了我们的存在了雪球的，了他们参加大规模的打雪仗，并使用道具来缓解您的生存！推迟打雪仗可以使雪球更进一步。"
+
+§e§lPlace bombs and explode blocks around it in a + shape:
+    ' Use powerups to take advantage over opponents': "&e&l将在形状周围炸弹和爆炸块，以利用炸弹和爆炸块以+形状围绕。使用强化道具来击败对手。"
+
+'§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!': "&e&l射杀鸡肉并获得杀死杀人的最大杀伤力并获得最大的杀伤力来取胜！当心肮脏的僵尸和爬行者！"
+
+§e§lShoot TNT with your cannon and knock opponents to the void, or explode them:
+    ' Save yourself from hazards using Super Jumps':
+        ' [Sneak]': "&e&l射击用你的大炮对手，自己用大炮TNT，将对手击倒至虚空，或将其炸开。让自己使用超级跳跃免受危险。 [潜行]"
+
+? §e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory
+: "&e&l利用充分的准备时间，以尽可能多的资源捍卫准备时间来收集尽可能多的资源，捍卫水晶生命和战斗的胜利生命之，为胜利而奋斗。"

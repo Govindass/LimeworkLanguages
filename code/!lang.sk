@@ -12,7 +12,9 @@ function YAMLtoSQL():
 		loop {languageslist::*}:
 			set {_list::%loop-value-2%} to yaml value loop-value-1 from "lang%loop-value-2 in lowercase%"
 		execute "INSERT INTO `languages` VALUES (%{_list::en}%, %{_list::lt}%, %{_list::ru}%, %{_list::es}%, %{_list::da}%, %{_list::pt}%, %{_list::CN_Simplified}%)" in {-sql}
-		send last sql error to console if last sql error is set
+		if last sql error is set:
+			send last sql error to console and ops if last sql error is set
+			send "Error happened on %{_list::en}%" to console and ops
 #load languages from mysql
 function loadSQLLanguages():
 	execute "SELECT * FROM `languages`" in {-sql} and store the result in {_l::*}
@@ -42,6 +44,7 @@ function SQLtoYAML():
 		set {_list::%loop-value%} to loop-value
 		
 	#done to make it the first index
+	#TODO make it sorted on unedited vs edited, so unedited shows first
 	set {_list::1} to "en"
 	delete {_list::en}
 	loop {_list::*}:
@@ -72,7 +75,7 @@ function translate(m: text, p: object, variables: strings = "null") :: text:
 	
 	set {_uuid} to {uuid::%{_p}%} if {name::%{_p}%} is not set else {_p}
 		
-	set {_lang} to epic variable "%{_uuid}%::language" ? "EN"
+	set {_lang} to (epic variable "%{_uuid}%::language") ? "EN"
 	if {-langmsg::%{_lang}%::%{_m}%} is not set:
 			
 		set {-langmsg::%{_lang}%::%{_m}%} to {_m}
@@ -177,6 +180,7 @@ on inventory click:
 			else:
 				delete {forcedenglish::%uuid of player%}
 				send "&aAutomatic language detection has been enabled back."
+			stop
 	{_l} is not {_lang}:
 		set epic variable "%uuid of player%::language" to {_lang}
 		send "&eYou have selected &a%{_lang}% &elanguage!"

@@ -1,837 +1,877 @@
-"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &aPerjungti grupės chat'ą."
+'   /chat party §2- §aTo toggle party chat': "   /chat party &2- &aPerjungti grupės chat'ą."
 
-"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &aView ways to donate money to our server."
+'   /donate §2- §aView ways to donate money to our server': "   /donate &2- &aView ways to donate money to our server."
 
-"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <group> &2- &aPriimti kvietimą į grupę."
+'   /faq §2- §aGet answers to frequently asked questions': "   /faq &2- &aGet answers to frequently asked questions."
 
-"   /group chunks <group> §2- §aBrowse claimed chunks of a group": "   /group chunks <group> &2- &aPeržiūrėti grupės žemes."
+'   /friend §2- §aView friend commands help': "   /friend &2- &aView friend commands help."
 
-"   /group claim <group> §2- §aClaim a chunk to a group": "   /group claim <group> &2- &aUžimti žemės gabalą grupei."
+'   /group accept <group> §2- §aAccept a group invitation': "   /group accept <group> &2- &aPriimti kvietimą į grupę."
 
-"   /group create <group> §2- §aCreate a group": "   /group create <grupė> &2- &aSukurti grupę."
+'   /group chunks <group> §2- §aBrowse claimed chunks of a group': "   /group chunks <group> &2- &aPeržiūrėti grupės žemes."
 
-"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <player> <group> &2- &aPažeminti žaidėją grupėje."
+'   /group claim <group> §2- §aClaim a chunk to a group': "   /group claim <group> &2- &aUžimti žemės gabalą grupei."
 
-"   /group info <group> §2- §aView information about a group": "   /group info <group> &2- &aPeržiūrėti grupės informaciją."
+'   /group create <group> §2- §aCreate a group': "   /group create <grupė> &2- &aSukurti grupę."
 
-"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <žaidėjas> <grupė> &2- &aPakviesti žaidėją į grupę."
+'   /group demote <player> <group> §2- §aDemote a player in a group': "   /group demote <player> <group> &2- &aPažeminti žaidėją grupėje."
 
-"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <žaidėjas> <grupė> &2- &aIšmesti žaidėją iš grupės."
+'   /group info <group> §2- §aView information about a group': "   /group info <group> &2- &aPeržiūrėti grupės informaciją."
 
-"   /group leave <group> §2- §aLeave a group": "   /group leave <grupė> &2- &aIšeiti iš grupės."
+'   /group invite <player> <group> §2- §aInvite a player to a group': "   /group invite <žaidėjas> <grupė> &2- &aPakviesti žaidėją į grupę."
 
-"   /group list §2- §aList the groups you are in": "   /group list &2- &aPeržiūrėti grupių sąrašą kuriose esate."
+'   /group kick <player> <group> §2- §aKick a player from a group': "   /group kick <žaidėjas> <grupė> &2- &aIšmesti žaidėją iš grupės."
 
-"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <player> <group> &2- &aPaaukštinti žaidėją grupėje."
+'   /group leave <group> §2- §aLeave a group': "   /group leave <grupė> &2- &aIšeiti iš grupės."
 
-"   /group unclaim §2- §aUnclaim a chunk": "   /group unclaim &2- &aApleisti žemės gabalą."
+'   /group list §2- §aList the groups you are in': "   /group list &2- &aPeržiūrėti grupių sąrašą kuriose esate."
 
-"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <group> &2- &aPatobulinti grupę."
+'   /group promote <player> <group> §2- §aPromote a player in a group': "   /group promote <player> <group> &2- &aPaaukštinti žaidėją grupėje."
 
-"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <žaidimas> [lobbypavadinimas] &2- &aKad ateiti į viešą žaidimą su komanda arba privatų žaidimą nurodant pavadinimą."
+'   /group unclaim §2- §aUnclaim a chunk': "   /group unclaim &2- &aApleisti žemės gabalą."
 
-"   /list §2- §aView information about all online players": "   /list &2- &aPeržiūrėti informaciją apie prisijungusius žaidėjus."
+'   /group upgrade <group> §2- §aUpgrade a group': "   /group upgrade <group> &2- &aPatobulinti grupę."
 
-"   /msg <player> §2- §aSend a private message to a player": "   /msg <žaidėjas> &2- &aNusiųsti privačią žinutę žaidėjui."
+'   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name': "   /join <žaidimas> [lobbypavadinimas] &2- &aKad ateiti į viešą žaidimą su komanda arba privatų žaidimą nurodant pavadinimą."
 
-"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <player> &2- &aPriimti pakvietimą į grupę."
+'   /list §2- §aView information about all online players': "   /list &2- &aPeržiūrėti informaciją apie prisijungusius žaidėjus."
 
-"   /party disband §2- §aTo disband your party": "   /party disband &2- &aSunaikinti grupę."
+'   /msg <player> §2- §aSend a private message to a player': "   /msg <žaidėjas> &2- &aNusiųsti privačią žinutę žaidėjui."
 
-"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <player> &2- &aPakviesti žaidėja į savo grupę."
+'   /party accept <player> §2- §aTo accept an party invite': "   /party accept <player> &2- &aPriimti pakvietimą į grupę."
 
-"   /party join <player> §2- §aTo join public party of a player": "   /party join <player> &2- &aAteiti į viešą grupę."
+'   /party disband §2- §aTo disband your party': "   /party disband &2- &aSunaikinti grupę."
 
-"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <player> &2- &aIšmesti žaidėją iš savo grupės."
+'   /party invite <player> §2- §aTo invite a player to party': "   /party invite <player> &2- &aPakviesti žaidėja į savo grupę."
 
-"   /party leave §2- §aTo leave a party": "   /party leave &2- &aIšeiti iš grupės."
+'   /party join <player> §2- §aTo join public party of a player': "   /party join <player> &2- &aAteiti į viešą grupę."
 
-"   /party list §2- §aTo view members of your party list": "   /party list &2- &aPeržiūrėti savo grupės narių sąrašą."
+'   /party kick <player> §2- §aTo kick a player from your party': "   /party kick <player> &2- &aIšmesti žaidėją iš savo grupės."
 
-"   /party open §2- §aTo open your party for public join": "   /party open &2- &aAtidaryti grupę viešam atėjimui."
+'   /party leave §2- §aTo leave a party': "   /party leave &2- &aIšeiti iš grupės."
 
-"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <žaidėjas> &2- &aKad perleisti lyderio pareigas kitam žaidėjui."
+'   /party list §2- §aTo view members of your party list': "   /party list &2- &aPeržiūrėti savo grupės narių sąrašą."
 
-"   /party §2- §aView party help": "   /party &2- &aPeržiūrėti grupių pagalbą."
+'   /party open §2- §aTo open your party for public join': "   /party open &2- &aAtidaryti grupę viešam atėjimui."
 
-"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &aTeleportuoti savo grupės narius į savo žaidimą."
+'   /party transfer <player> §2- §aTo transfer party leader to other member': "   /party transfer <žaidėjas> &2- &aKad perleisti lyderio pareigas kitam žaidėjui."
 
-"   /rules §2- §aRead server rules": "   /rules &2- &aPerskaityti serverio taisykles."
+'   /party warp §2- §aTo warp your party members to your game lobby': "   /party warp &2- &aTeleportuoti savo grupės narius į savo žaidimą."
 
-"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &aĮeiti į stebėjimo rėžimą."
+'   /party §2- §aView party help': "   /party &2- &aPeržiūrėti grupių pagalbą."
 
-"   /staff §2- §aView staff list": "   /staff &2- &aPeržiūrėti administracijos sąrašą."
+'   /rules §2- §aRead server rules': "   /rules &2- &aPerskaityti serverio taisykles."
 
-"   /stats <player> §2- §aView player's stats": "   /stats <žaidėjas> &2- &aPeržiūrėti žaidėjo statistiką."
+'   /spectate §2- §aEnter spectate mode': "   /spectate &2- &aĮeiti į stebėjimo rėžimą."
 
-"1 arrow on knockout!": "1 strėlė numetus priešininką!"
+'   /staff §2- §aView staff list': "   /staff &2- &aPeržiūrėti administracijos sąrašą."
 
-"$1$ §cdefeated §6$2$": "$1$ &cdefeated &6$2$"
+'   /stats <player> §2- §aView player''s stats': "   /stats <žaidėjas> &2- &aPeržiūrėti žaidėjo statistiką."
 
-"$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &edonated &e&l1 &fSnowball &eto you!"
+'   §2§l   --=-= §a§lGroup Commands §2§l=-=--': "   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--"
 
-"$1$ §eflag has been dropped!": "$1$ &eflag has been dropped!"
+'   §2§l   --=-= §a§lParty Commands §2§l=-=--': "   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--"
 
-"§a$1$ §egot first kill of the game!": "&a$1$ &egavo pirmą nužudymą žaidime!"
+'   §2§l   --=-= §a§lPlayer Commands §2§l=-=--': "   &2&l   --=-= &a&lŽaidėjų Komandos &2&l=-=--"
 
-"$1$ §ehas captured $2$ §eflag!": "$1$ &ehas captured $2$ &eflag!"
+'   §2§l--=-= §a§lFriend Commands §2§l=-=--': "   &2&l--=-= &a&lDraugų Komandos &2&l=-=--"
 
-"$1$ §ehas disbanded the party!": "$1$ &esunaikino grupę!"
+$1$ flag has been dropped!: $1$ flag has been dropped!
 
-"$1$ §ehas invited you into a party!": "$1$ &epakvietė tave į savo grupę!"
+$1$ §7of players needs to vote to enable: "$1$ &7žaidėjų turi prabalsuoti kad aktyvuoti"
 
-"$1$ §ehas joined your party!": "$1$ &eprisijungė prie jūsų grupės!"
+$1$ §cdefeated §6$2$: "$1$ &cnugalėjo &6$2$"
 
-"$1$ §ehas joined!": "$1$ &eatėjo!"
+$1$ §chas left!: "$1$ &cpaliko žaidimą!"
 
-"$1$ §ehas left the party!": "$1$ &eišėjo iš grupės!"
+$1$ §chas not invited you into a party!: "$1$ &chas not invited you into a party!"
 
-"$1$ §chas left!": "$1$ &cpaliko žaidimą!"
+$1$ §cis already in your party!: "$1$ &cis already in your party!"
 
-"$1$ §ehas not invited you into a party!": "$1$ &enėra pakvietęs jūsų į grupę."
+$1$ §cis not in your party!: "$1$ &cnėra jūsų grupėje!"
 
-"$1$ §ehas picked up $2$ §eflag!": "$1$ &ehas picked up $2$ &eflag!"
+$1$ §cteam is full!: "$1$ &ckomanda yra pilna!"
 
-"$1$ §ehas reached the max stick level!": "$1$ &epasiekė maksimalų pagaliuko lygį!"
+$1$ §edonated §e§l1 §fSnowball §eto you!: "$1$ &edonated &e&l1 &fSnowball &eto you!"
 
-"$1$ §ehas returned $2$ §eflag!": "$1$ &ehas returned $2$ &eflag!"
+$1$ §eflag has been dropped!: "$1$ &eflag has been dropped!"
 
-"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &ebalsuoja už &b&l$2$ &ežemėlapį!"
+$1$ §egot first kill of the game!: "$1$ &egot first kill of the game!"
 
-"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &ehas voted for &b&l$2$ &emode!"
+$1$ §ehas captured $2$ §eflag!: "$1$ &ehas captured $2$ &eflag!"
 
-"$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &ebalsuoja už &b&lBalansuotų Komandų &emodifikatorių!"
+$1$ §ehas disbanded the party!: "$1$ &esunaikino grupę!"
 
-"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &ehas voted for &b&lDouble Jump &emodifier!"
+$1$ §ehas invited you into a party!: "$1$ &epakvietė tave į savo grupę!"
 
-"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &ehas voted for &b&lFast Snowballs &emodifier!"
+$1$ §ehas joined your party!: "$1$ &eprisijungė prie jūsų grupės!"
 
-"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &ebalsuoja už &b&lMomentinio Nžudymo Gniužčių &emodifikatorių!"
+$1$ §ehas joined!: "$1$ &eatėjo!"
 
-"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &ehas voted for &b&lNo Compass &emodifier!"
+$1$ §ehas left the party!: "$1$ &eišėjo iš grupės!"
 
-"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &ebalsuoja už &b&lReflektyvių Gniužčių &emodifikatorių!"
+$1$ §ehas not invited you into a party!: "$1$ &enėra pakvietęs jūsų į grupę."
 
-"$1$ §cis already in your party!": "$1$ &cis already in your party!"
+$1$ §ehas picked up $2$ §eflag!: "$1$ &ehas picked up $2$ &eflag!"
 
-"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
+$1$ §ehas reached the max stick level!: "$1$ &epasiekė maksimalų pagaliuko lygį!"
 
-"$1$ §7of players needs to vote to enable": "$1$ &7žaidėjų turi prabalsuoti kad aktyvuoti"
+$1$ §ehas returned $2$ §eflag!: "$1$ &ehas returned $2$ &eflag!"
 
-"$1$ §cteam is full!": "$1$ &ckomanda yra pilna!"
+$1$ §ehas transferred party leader to $2$§e!: "$1$ &ehas transferred party leader to $2$&e!"
 
-"[ACCEPT]": "[PRIIMTI]"
+$1$ §ehas voted for §b§l$2$ §emap!: "$1$ &ebalsuoja už &b&l$2$ &ežemėlapį!"
 
-"A chance to spawn creeper where your snowball lands": "Galimybė kad atsiras creeper ten kur tavo sniego gniūžtė pataikys."
+$1$ §ehas voted for §b§l$2$ §emode!: "$1$ &ehas voted for &b&l$2$ &emode!"
 
-"Activated Modifiers": "Aktyvūs Modifikatoriai"
+$1$ §ehas voted for §b§lBalanced Teams §emodifier!: "$1$ &ebalsuoja už &b&lBalansuotų Komandų &emodifikatorių!"
 
-"Allows to double jump by pressing the sneak button in mid-air": "Allows to double jump by pressing the sneak button in mid-air."
+$1$ §ehas voted for §b§lDouble Jump §emodifier!: "$1$ &ehas voted for &b&lDouble Jump &emodifier!"
 
-"Animation is currently §c§lDISABLED§e": "Animacija šiuo metu yra &c&lIŠJUNGTA&e."
+$1$ §ehas voted for §b§lFast Snowballs §emodifier!: "$1$ &ehas voted for &b&lFast Snowballs &emodifier!"
 
-"Animation is currently §a§lENABLED§e": "Animacija šiuo metu yra &a&lĮJUNGTA&e."
+$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!: "$1$ &ebalsuoja už &b&lMomentinio Nžudymo Gniužčių &emodifikatorių!"
 
-"Are you seriously going into a party with yourself? Invite someone!": "Ar tu rimtai eini į grupę su savimi? Pakviesk ką nors!"
+$1$ §ehas voted for §b§lNo Compass §emodifier!: "$1$ &ehas voted for &b&lNo Compass &emodifier!"
 
-"Are you sure you want to leave? Type §e/q §6to confirm": "Ar jūs tikrai norite išeiti? Rašykite &e/q &6kad patvirtintumėte."
+$1$ §ehas voted for §b§lNo Perks §emodifier!: "$1$ &ehas voted for &b&lNo Perks &emodifier!"
 
-"Armor": "Armor"
+$1$ §ehas voted for §b§lReflect Snowballs §emodifier!: "$1$ &ebalsuoja už &b&lReflektyvių Gniužčių &emodifikatorių!"
 
-"Arrow Accuracy": "Strėlių Taiklumas"
+$1$ §ekicked $2$ §efrom the party!: "$1$ &ekicked $2$ &efrom the party!"
 
-"Arrow Bonus Perk": "Strėlės Priedas"
+$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$: "$1$&c is not your friend! Add $1$&c to friends with &e/f add $2$"
 
-"Arrows Fired": "Arrows Fired"
+1 arrow on knockout!: 1 strėlė numetus priešininką!
 
-"Arrows left": "Strėlių liko"
+<none>: <none>
 
-"A snowman which shoots enemies!": "A snowman which shoots enemies!"
+A chance to spawn creeper where your snowball lands: Galimybė kad atsiras creeper ten kur tavo sniego gniūžtė pataikys.
 
-"Average Rating:": "Vidutinis Įvertinimas:"
+A snowman which shoots enemies!: A snowman which shoots enemies!
 
-"Balanced Teams Modifier": "Balansuotų Komandų Modifikatorius"
+Activated Modifiers: Aktyvūs Modifikatoriai
 
-"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&lDėl per daug žaidimą keičiančių modifikatorių, šis turas nedarys įtakos jūsų reitingui."
+Allows to double jump by pressing the sneak button in mid-air: Allows to double jump by pressing the sneak button in mid-air.
 
-"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&lVadovauk dideliai armijai ir nugalėk visus priešų karalius kad laimėtum!"
+Animation is currently §a§lENABLED§e: "Animacija šiuo metu yra &a&lĮJUNGTA&e."
 
-"Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports."
+Animation is currently §c§lDISABLED§e: "Animacija šiuo metu yra &c&lIŠJUNGTA&e."
 
-"Blindness Perk": "Aklumo Priedas"
+Are you seriously going into a party with yourself? Invite someone!: Ar tu rimtai eini į grupę su savimi? Pakviesk ką nors!
 
-"Blocks snowballs":
-    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Blocks snowballs. &e&l50% &7chance to break on first hit, &e&l100% &7on second hit."
+Are you sure you want to leave? Type §e/q §6to confirm: "Ar jūs tikrai norite išeiti? Rašykite &e/q &6kad patvirtintumėte."
 
-"blocks": "blokai"
+Armor: Armor
 
-"Bombs fired": "Bombos iššautos"
+Arrow Accuracy: Strėlių Taiklumas
 
-"Bombs placed": "Bombs placed"
+Arrow Bonus Perk: Strėlės Priedas
 
-"Bonus snowballs on knockout": "Sniego gniūžtės išmetus priešininką!"
+Arrows Fired: Strėlių iššauta
 
-"Burning Stick Perk": "Degančio Pagaliuko Priedas"
+Arrows left: Strėlių liko
 
-"Burns §e§l$1$ §7of target's snowballs": "Burns &e&l$1$ &7of target's snowballs."
+'Average Rating:': 'Vidutinis Įvertinimas:'
 
-"Burns target on hit": "Burns target on hit."
+Balanced Teams Modifier: Balansuotų Komandų Modifikatorius
 
-"Can't find a player by the name of '$1$'": "Žaidėjas vardu '$1$' nerastas."
+Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports: Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports.
 
-"Can't shoot far because snowballs melt in the air": "Can't shoot far because snowballs melt in the air."
+Blindness Perk: Aklumo Priedas
 
-"chance of creeper spawn": "galimybė kad atsiras creeper"
+blocks: blokai
 
-"chance of double experience": "Galimybė gauti du kartus daugiau patirties"
+Blocks snowballs:
+    ' §e§l50% §7chance to break on first hit, §e§l100% §7on second hit': "Blocks snowballs. &e&l50% &7chance to break on first hit, &e&l100% &7on second hit."
 
-"chance of double melons": "chance of double melons."
+Bombs fired: Bombos iššautos
 
-"chance of §bEnchanted Snowball §7gain after kill": "chance of &bEnchanted Snowball &7gain after kill."
+Bombs placed: Bombs placed
 
-"chance of reflection": "chance of reflection."
+Bonus snowballs on knockout: Sniego gniūžtės išmetus priešininką!
 
-"Chance to blind opponent on hit": "Galimybė įtrenkus priešininkui jį apakinti"
+Burning Stick Perk: Degančio Pagaliuko Priedas
 
-"Chance to burn opponent on hit": "Galimybė uždegti priešininką įtrenkus"
+Burns target on hit: Burns target on hit.
 
-"Chance to not lose a life": "Galimybė neprarasti gyvybės"
+Burns §e§l$1$ §7of target's snowballs: "Burns &e&l$1$ &7of target's snowballs."
 
-"chance to slow(Slowness $1$) opponent on hit": "chance to slow(Slowness $1$) opponent on hit"
+Can't find a player by the name of '$1$': Žaidėjas vardu '$1$' nerastas.
 
-"Chance to slow(Slowness II) opponent on hit": "Galimybė sulėtinti(Lėtumas II) priešininką įtrenkus"
+Can't shoot far because snowballs melt in the air: Can't shoot far because snowballs melt in the air.
 
-"Checkers in Minecraft! Like the popular board game": "Šaškės Minecraft'e! Panašu į populiarų stalo žaidimą."
+? Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers
+: Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers
 
-"Checkers": "Šaškės"
+chance of creeper spawn: galimybė kad atsiras creeper
 
-"Checkpoint": "Taškas"
+chance of double experience: Galimybė gauti du kartus daugiau patirties
 
-"Chests looted": "Skrynios atidarytos"
+chance of double melons: chance of double melons.
 
-"classes": "klases"
+chance of reflection: chance of reflection.
 
-"Click here to join $1$!": "Spausk čia kad prisijungtum į $1$!"
+chance of §bEnchanted Snowball §7gain after kill: "chance of &bEnchanted Snowball &7gain after kill."
 
-"Click to accept the party invite!": "Spausk kad priimti kvietimą į grupę!"
+Chance to blind opponent on hit: Galimybė įtrenkus priešininkui jį apakinti
 
-"Click to buy!": "Spausk kad galėtum nusipirkti!"
+Chance to burn opponent on hit: Galimybė uždegti priešininką įtrenkus
 
-"[CLICK TO JOIN]": "[SPAUSK ČIA]"
+Chance to not lose a life: Galimybė neprarasti gyvybės
 
-"CLICK TO OPEN MENU": "SPAUSK KAD ATIDARYTI MENIŲ"
+chance to slow(Slowness $1$) opponent on hit: chance to slow(Slowness $1$) opponent on hit
 
-"CLICK TO PLAY": "SPAUSK KAD ŽAISTI"
+Chance to slow(Slowness II) opponent on hit: Galimybė sulėtinti(Lėtumas II) priešininką įtrenkus
 
-"Click to rate this map": "Click to rate this map"
+Checkers: Šaškės
 
-"Click to undo this rating!": "Spausk kad anuliuoti šį įvertinimą!"
+Checkers in Minecraft! Like the popular board game: Šaškės Minecraft'e! Panašu į populiarų stalo žaidimą.
 
-"Click to vote for $1$ §amode!": "Spausk kad balsuoti už $1$ rėžimą!"
+Checkpoint: Taškas
 
-"Click to vote for this map!": "Spausk kad balsuoti už šį žemėlapį!"
+Chests looted: Skrynios atidarytos
 
-"Click to vote for this mode!": "Spausk kad prabalsuotum už šį tipą!"
+classes: klases
 
-"Click to vote for this modifier!": "Spausk kad balsuoti už šį modifikatorių!"
+Click here to join $1$!: Spausk čia kad prisijungtum į $1$!
 
-"Complete parkour races, earn prizes and compete in leaderboards!": "Pereik parkour trasas, gauk prizus ir varžykis lyderių lentelėje!"
+Click to accept the party invite!: Spausk kad priimti kvietimą į grupę!
 
-"Cooldown": "Laiko Tarpas"
+Click to buy!: Spausk kad galėtum nusipirkti!
 
-"Cracked players can join our server! They can apply at $1$ §rto join": "Cracked players can join our server! They can apply at $1$ &rto join."
+CLICK TO OPEN MENU: SPAUSK KAD ATIDARYTI MENIŲ
 
-? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
-: "Kūrybinis pasaulis su daug naudingų galimybių! WorldEdit, VoxelSniper, goBrush, goPaint, didelė žaidėjų galvų kolekcija ir net speciali programavimo kalba su kuria galima kurti savo specialius žemėlapius!"
+CLICK TO PLAY: SPAUSK KAD ŽAISTI
 
-"Creeper Chance Perk": "Creeper Atsiradimo Priedas"
+Click to rate this map: Click to rate this map
 
-"Crystal": "Kristalas"
+Click to undo this rating!: Spausk kad anuliuoti šį įvertinimą!
 
-"Current": "Dabartinis"
+Click to vote for $1$ §amode!: Spausk kad balsuoti už $1$ rėžimą!
 
-"Damage Dealt": "Žalos Padaryta"
+Click to vote for this map!: Spausk kad balsuoti už šį žemėlapį!
 
-"Damage Taken": "Žalos Gauta"
+Click to vote for this mode!: Spausk kad prabalsuotum už šį tipą!
 
-"Day": "Diena"
+Click to vote for this modifier!: Spausk kad balsuoti už šį modifikatorių!
 
-"Deaths": "Mirtys"
+Complete parkour races, earn prizes and compete in leaderboards!: Pereik parkour trasas, gauk prizus ir varžykis lyderių lentelėje!
 
-"DEFEAT": "PRALAIMĖJIMAS"
+Cooldown: Laiko Tarpas
 
-"Defend your castle, attack other castles, command your army and become the best commander!": "Gink savo pilį, pulk kitas pilis, įsakinėk savo armijai ir tapk geriausiu vadu!"
+Cracked players can join our server! They can apply at $1$ §rto join: "Cracked players can join our server! They can apply at $1$ &rto join."
 
-"Destroying other player creations or ruining them in any way is not allowed!": "Destroying other player creations or ruining them in any way is not allowed!"
+? Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!
+: Kūrybinis pasaulis su daug naudingų galimybių! WorldEdit, VoxelSniper, goBrush, goPaint, didelė žaidėjų galvų kolekcija ir net speciali programavimo kalba su kuria galima kurti savo specialius žemėlapius!
 
-"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed."
+? Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!
+: Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!
 
-"Did you know?": "Did you know?"
+Creeper Chance Perk: Creeper Atsiradimo Priedas
 
-"§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
-    " Use fasciniting abilities of your class to defeat other players and win!": "&e&lDifferent elemental classes compete with each other in bow-fighting abilities. Use fasciniting abilities of your class to defeat other players and win!"
+Crystal: Kristalas
 
-"Dissappears after §e§l10s §7of landing": "Dissappears after &e&l10s &7of landing."
+Current: Dabartinis
 
-"Double Emeralds": "Dvigubai Smaragdų"
+Damage Dealt: Žalos Padaryta
 
-"Double Jump Modifier": "Double Jump Modifier"
+Damage Taken: Žalos Gauta
 
-"Double Melons Perk": "Double Melons Perk"
+Day: Diena
 
-"Emeralds total earned": "Smaragdų viso gauta"
+Deaths: Mirtys
 
-"Emeralds": "Smaragdai"
+DEFEAT: PRALAIMĖJIMAS
 
-"Emerald": "Smaragdas"
+Defend your castle, attack other castles, command your army and become the best commander!: Gink savo pilį, pulk kitas pilis, įsakinėk savo armijai ir tapk geriausiu vadu!
 
-"§bEnchanted §b§lDiamond Cannon": "&bUžkerėta &b&lDeimantinė Patranka"
+Destroying other player creations or ruining them in any way is not allowed!: Destroying other player creations or ruining them in any way is not allowed!
 
-"Enchanted Snowball Perk": "Enchanted Snowball Perk"
+Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed: Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed.
 
-"§bEnchanted §7Stone Cannon": "&bUžkerėta &7Akmeninė Patranka"
+Did you know?: Ar jūs žinojote?
 
-"Enchanted §aWood Cannon": "&bEnchanted &aWood Cannon"
+Disables all perks: Disables all perks.
 
-"ENEMY TEAM": "PRIEŠŲ KOMANDA"
+Dissappears after §e§l10s §7of landing: "Dissappears after &e&l10s &7of landing."
 
-"Every player gets 3 lives, eliminate enemy team to win": "Kiekvienas žaidėjas gauna 3 gyvybės, pašalink priešų komandą kad laimėtum."
+Double Emeralds: Dvigubai Smaragdų
 
-"Every player gets 3 lives, eliminate other players to win": "Kiekvienas žaidėjas gauna 3 gyvybės, pašalink kitus žaidėjus kad laimėtum."
+Double Jump Modifier: Double Jump Modifier
 
-"Experience Bonus Perk": "Patirties Priedas"
+Double Melons Perk: Double Melons Perk
 
-"Explode your way to other players and explode them!": "Išsprogdink savo kelią iki kitų žaidėjų ir juos susprogdink!"
+Emerald: Smaragdas
 
-"Exploring the void may reveal mysterious secrets!": "Exploring the void may reveal mysterious secrets!"
+Emeralds: Smaragdai
 
-"Explosion Radius": "Sprogimo Spindulys"
+Emeralds total earned: Smaragdų viso gauta
 
-"Falling Blocks Animation": "Krentančių Blokų Animacija"
+Enchanted Snowball Perk: Enchanted Snowball Perk
 
-"Fast Snowballs Modifier": "Fast Snowballs Modifier"
+Enchanted §aWood Cannon: "&bEnchanted &aWood Cannon"
 
-"Feel free to invite other players by using the chat": "Galite pasikviesti žaidėjų rašydami chat'e!"
+ENEMY TEAM: PRIEŠŲ KOMANDA
 
-"Final Kills": "Finaliniai Nužudymai"
+Every player gets 3 lives, eliminate enemy team to win: Kiekvienas žaidėjas gauna 3 gyvybės, pašalink priešų komandą kad laimėtum.
 
-"Flamethrower": "Flamethrower"
+Every player gets 3 lives, eliminate other players to win: Kiekvienas žaidėjas gauna 3 gyvybės, pašalink kitus žaidėjus kad laimėtum.
 
-"Free!": "Free!"
+Experience Bonus Perk: Patirties Priedas
 
-"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&lDraugų Komandos &2&l=-=--"
+Explode your way to other players and explode them!: Išsprogdink savo kelią iki kitų žaidėjų ir juos susprogdink!
 
-"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "Draugiškas išlikimas su technika ir magija! Tirinėk daug dimensijų, augink nuostabius medžius ir dar daugiau!"
+Exploring the void may reveal mysterious secrets!: Exploring the void may reveal mysterious secrets!
 
-"GAME ENDED IN A DRAW": "ŽAIDIMAS BAIGĖSI LYGIOSIOMIS"
+Explosion Radius: Sprogimo Spindulys
 
-"GAME END": "GAME END"
+Falling Blocks Animation: Krentančių Blokų Animacija
 
-"Game has started!": "Žaidimas prasidėjo!"
+Fast Snowballs Modifier: Fast Snowballs Modifier
 
-"Game is starting": "Žaidimas prasideda"
+Feel free to invite other players by using the chat: Galite pasikviesti žaidėjų rašydami chat'e!
 
-"Game starts in §e§l$1$ §eseconds": "Žaidimas prasidės už &e&l$1$ &esekundžių"
+Final Kills: Finaliniai Nužudymai
 
-"Game starts in": "Žaidimas prasidės už"
+Flamethrower: Flamethrower
 
-"Game Statistics": "Žaidimo Statistika"
+Free!: Nemokama!
 
-"Game time": "Žaidimo laikas"
+Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!: Draugiškas išlikimas su technika ir magija! Tirinėk daug dimensijų, augink nuostabius medžius ir dar daugiau!
 
-"Game will end in §e§l$1$ §eminutes": "Žaidimas pasibaigs už &e&l$1$ &eminučių."
+GAME END: ŽAIDIMO PABAIGA
 
-"Game will end in §e§l$1$ §eminute": "Game will end in &e&l$1$ &eminute."
+GAME ENDED IN A DRAW: ŽAIDIMAS BAIGĖSI LYGIOSIOMIS
 
-"§eGame will start in §e§l$1$ §eseconds": "&eŽaidimas prasidės už &e&l$1$ &esekundžių"
+Game has started!: Žaidimas prasidėjo!
 
-"§eGame will start in §e§l$1$ §esecond": "&eŽaidimas prasidės už &e&l$1$ &esekundės"
+Game is starting: Žaidimas prasideda
 
-"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Rink resursus, ruoškis kovai, gink savo Gyvybės Kristalą, atakuok kitus kristalus ir laimėk žaidimą!"
+Game starts in: Žaidimas prasidės už
 
-"Gravity has no effect on blocks here, so you can build in the sky!": "Gravity has no effect on blocks here, so you can build in the sky!"
+Game starts in §e§l$1$ §eseconds: "Žaidimas prasidės už &e&l$1$ &esekundžių"
 
-"   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--"
+Game Statistics: Žaidimo Statistika
 
-"Have fun!": "Sėkmės!"
+Game time: Žaidimo laikas
 
-"Health": "Gyvybės"
+Game will end in §e§l$1$ §eminute: "Žaidimas pasibaigs už &e&l$1$ &eminutės."
 
-"Here you can find games which can be played both alone and with friends!": "Čia jūs galite rasti žaidimus kuriuos galima žaisti ir vienam ir su draugais!"
+Game will end in §e§l$1$ §eminutes: "Žaidimas pasibaigs už &e&l$1$ &eminučių."
 
-"Here you can find games which can be played only with friends!": "Čia jūs galite rasti žaidimus kuriuos galima žaisti tik su draugais!"
+Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!: Rink resursus, ruoškis kovai, gink savo Gyvybės Kristalą, atakuok kitus kristalus ir laimėk žaidimą!
 
-? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
-: "Čia jūs galite rasti mažus GUI minižaidimus, šie minižaidimai ne taip kaip kiti, nėra sukurti mūsų, jie yra tiesiog atsisiųsti, bet jie vistiek yra įdomūs!"
+Gravity has no effect on blocks here, so you can build in the sky!: Gravity has no effect on blocks here, so you can build in the sky!
 
-"Here you can use various abilities to explode the map and other players!": "Čia jūs galite naudoti įvairius ginklus ir su jais sprogdinti žemėlapį, ir kitus žaidėjus!"
+Have fun!: Sėkmės!
 
-"Hits Taken": "Hits Taken"
+Health: Gyvybės
 
-"Hits": "Smūgiai"
+Here you can find games which can be played both alone and with friends!: Čia jūs galite rasti žaidimus kuriuos galima žaisti ir vienam ir su draugais!
 
-"Hit to level up your stick and knock other players in to the void!": "Trankyk kitus žaidėjus kad pakiltų tavo pagaliuko lygis ir numesk juos į prarają!"
+Here you can find games which can be played only with friends!: Čia jūs galite rasti žaidimus kuriuos galima žaisti tik su draugais!
 
-"hours": "valandų"
+? Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!
+: Čia jūs galite rasti mažus GUI minižaidimus, šie minižaidimai ne taip kaip kiti, nėra sukurti mūsų, jie yra tiesiog atsisiųsti, bet jie vistiek yra įdomūs!
 
-"§b§lHow To Play": "&b&lKaip Žaisti"
+Here you can use various abilities to explode the map and other players!: Čia jūs galite naudoti įvairius ginklus ir su jais sprogdinti žemėlapį, ir kitus žaidėjus!
 
-"If you want to get out of the §eSpectator Mode §ctype §e/q": "Jei norite išeiti iš &eStebėjimo Režimo &crašykite &e/q"
+Hit to level up your stick and knock other players in to the void!: Trankyk kitus žaidėjus kad pakiltų tavo pagaliuko lygis ir numesk juos į prarają!
 
-"If you want to leave the game type §e/q§6": "Jei norite išeiti iš žaidimo rašykite &e/q&6."
+Hits: Smūgiai
 
-"If you want to spectate other player type §e/stp <player>": "Jei norite stebėti kitą žaidėją rašykite &e/stp <žaidėjas>"
+Hits Taken: Smūgių gauta
 
-"Immortality Perk": "Nemirtingumo Priedas"
+hours: valandų
 
-"Increases the chance to reflect a snowball to 100%": "Padidina tikimybę kad sniego gniūžtė atsimuš iki 100%"
+How To Play: Kaip Žaisti
 
-"Increases the damage of snowballs to 10 hearts": "Padidina sniego gniūžčių žalą iki 10 širdučių."
+If you want to get out of the §eSpectator Mode §ctype §e/q: "Jei norite išeiti iš &eStebėjimo Režimo &crašykite &e/q"
 
-"Increases your speed by $1$": "Increases your speed by $1$"
+If you want to leave the game type §e/q§6: "Jei norite išeiti iš žaidimo rašykite &e/q&6."
 
-"Instakill Snowballs Modifier": "Momentinio Nužudymo Gniužčių Modifikatorius"
+If you want to spectate other player type §e/stp <player>: "Jei norite stebėti kitą žaidėją rašykite &e/stp <žaidėjas>"
 
-"Invalid code": "Invalid code."
+Immortality Perk: Nemirtingumo Priedas
 
-"§7§lIron Cannon": "&7&lGeležinė Patranka"
+Increases the chance to reflect a snowball to 100%: Padidina tikimybę kad sniego gniūžtė atsimuš iki 100%
 
-"It's very hot in Mustafar, you gonna need to drink twice as much water": "It's very hot in Mustafar, you gonna need to drink twice as much water."
+Increases the damage of snowballs to 10 hearts: Padidina sniego gniūžčių žalą iki 10 širdučių.
 
-"Jumps": "Šuoliai"
+Increases your speed by $1$: Increases your speed by $1$
 
-"Killer": "Killer"
+Instakill Snowballs Modifier: Momentinio Nužudymo Gniužčių Modifikatorius
 
-"Kills any normal opponent, even with armor": "Kills any normal opponent, even with armor."
+Invalid code: Netinkamas kodas.
 
-"Killstreak": "Killstreak"
+It's very hot in Mustafar, you gonna need to drink twice as much water: It's very hot in Mustafar, you gonna need to drink twice as much water.
 
-"Kills": "Nužudymai"
+Jumps: Šuoliai
 
-"King": "King"
+Killer: Žudikas
 
-"§e§lKnock other players off the platform":
-    " As you hit players, you deal more knockback": "&e&lKnock other players off the platform. As you hit players, you deal more knockback."
+Kills: Nužudymai
 
-"Level": "Lygis"
+Kills any normal opponent, even with armor: Kills any normal opponent, even with armor.
 
-"List of Games": "Žaidimų Sąrašas"
+Killstreak: Killstreak
 
-"Lives": "Gyvybės"
+King: Karalius
 
-? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
-: "Atidaryk skrynias, kovok su kitais žaidėjais, rask atsitiktinai sugeneruotų daiktų su ypatingomis galiomis ir mėtyk monstrų kiaušinius kaip pokemonus!"
+Level: Lygis
 
-"§e§lLoot randomly generated chests with unique items":
-    " Use them to eliminate your enemies":
-        " Be the only survivor to win": "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
+List of Games: Žaidimų Sąrašas
 
-"Losses": "Pralamėjimai"
+Lives: Gyvybės
 
-"Makes all of your snowballs burn": "Makes all of your snowballs burn."
+LOCKED: UŽRAKINTA
 
-"Makes your snowballs super fast": "Makes your snowballs super fast."
+? Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!
+: Atidaryk skrynias, kovok su kitais žaidėjais, rask atsitiktinai sugeneruotų daiktų su ypatingomis galiomis ir mėtyk monstrų kiaušinius kaip pokemonus!
 
-"Max level reached": "Maksimalus lygis pasiektas"
+Losses: Pralamėjimai
 
-"MAX LEVEL:": "MAKS. LYGIS:"
+Makes all of your snowballs burn: Makes all of your snowballs burn.
 
-"Melons earned": "Melons earned"
+Makes your snowballs super fast: Makes your snowballs super fast.
 
-"Melons spent": "Melons spent"
+Max level reached: Maksimalus lygis pasiektas
 
-"Melons": "Melionai"
+'MAX LEVEL:': 'MAKS. LYGIS:'
 
-"Melon": "Melon"
+Melon: Melionas
 
-"Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "Kask iškasenas, tobulink kirtiklius, pirk nuostabius patobulinimus ir atrakink naujus urvus!"
+Melons: Melionai
 
-"minutes": "minučių"
+Melons earned: Melionų uždirbta
 
-"Mode": "Rėžimas"
+Melons spent: Melionų išleista
 
-"Move time left": "Judėjimo laiko liko"
+Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!: Kask iškasenas, tobulink kirtiklius, pirk nuostabius patobulinimus ir atrakink naujus urvus!
 
-"Must be at lower floor": "Turite būti žemesniame aukšte"
+minutes: minučių
 
-"Must not have any Super Jumps": "Privalote neturėti Super Šuolių!"
+Mode: Rėžimas
 
-"New Rating": "New Rating"
+Move time left: Judėjimo laiko liko
 
-"NEW RECORD!": "NEW RECORD!"
+Must be at lower floor: Turite būti žemesniame aukšte
 
-"NEW!": "NEW!"
+Must not have any Super Jumps: Privalote neturėti Super Šuolių!
 
-"Next Super Jump In": "Sekantis Super Šuolis"
+New Rating: Naujas Reitingas
 
-"Next": "Sekantis"
+NEW RECORD!: NAUJAS REKORDAS!
 
-"Night": "Naktis"
+NEW!: NAUJIENA!
 
-"No Compass Modifier": "No Compass Modifier"
+Next: Sekantis
 
-"Not enough melons!": "Not enough melons!"
+Next Super Jump In: Sekantis Super Šuolis
 
-"Note:": "Note:"
+Night: Naktis
 
-"Now blocks will start breaking when you step on them!": "Nuo šiol blokai pradės dingti kai jūs užlipsite ant jų!"
+No Compass Modifier: No Compass Modifier
 
-"Old Record": "Old Record"
+No Perks Modifier: No Perks Modifier
 
-"Parkour Course": "Parkour Iššūkis"
+Not enough melons!: Neužtenka melionų!
 
-? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
-: "&e&lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further."
+'Note:': 'Note:'
 
-"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&lGrupių Komandos &2&l=-=--"
+Now blocks will start breaking when you step on them!: Nuo šiol blokai pradės dingti kai jūs užlipsite ant jų!
 
-"Party invite from $1$ §ehas expired": "Grupės pakvietimas iš $1$ &epasibaigė."
+Old Record: Senas Rekordas
 
-"Party Leader": "Grupės Lyderis"
+Parkour Course: Parkour Iššūkis
 
-"Party Members": "Grupės Nariai"
+Party invite from $1$ §ehas expired: "Grupės pakvietimas iš $1$ &epasibaigė."
 
-"Party of §a$1$ §cis not open for public join": "&a$1$ &cgrupė nėra atidaryta viešam atėjimui."
+Party Leader: Grupės Lyderis
 
-"§e§lPlace bombs and explode blocks around it in a + shape":
-    " Use powerups to take advantage over opponents": "&e&lPlace bombs and explode blocks around it in a + shape. Use powerups to take advantage over opponents."
+Party Members: Grupės Nariai
 
-"   §2§l   --=-= §a§lPlayer Commands §2§l=-=--": "   &2&l   --=-= &a&lŽaidėjų Komandos &2&l=-=--"
+Party of §a$1$ §cis not open for public join: "&a$1$ &cgrupė nėra atidaryta viešam atėjimui."
 
-"Player died $1$ times in a row without kills": "Player died $1$ times in a row without kills"
+Play various classes with different abilities and use your bow skills to win in many different modes!: Žaisk su daug klasių su skirtingomis galiomis ir naudok savo lanko įgūdžius kad laimėtum skirtinguose žaidimo rėžimuose!
 
-"Player is waiting": "Žaidėjas laukia"
+Player died $1$ times in a row without kills: Žaidėjas mirė $1$ kartus iš eilės be nužudymų
 
-"Player not found": "Player not found."
+Player is waiting: Žaidėjas laukia
 
-"Players are waiting": "Žaidėjai Laukia"
+Player not found: Žaidėjas nerastas.
 
-"Players in": "Žaidėjai"
+Player was on $1$ killstreak: Žaidėjas turėjo $1$ nužudymus iš eilės
 
-"Players left": "Žaidėjų liko"
+Players: Žaidėjai
 
-"Players Waiting": "Laukiantys Žaidėjai"
+Players are waiting: Žaidėjai Laukia
 
-"Players": "Žaidėjai"
+Players in: Žaidėjai
 
-"Player was on $1$ killstreak": "Player was on $1$ killstreak"
+Players left: Žaidėjų liko
 
-"Play various classes with different abilities and use your bow skills to win in many different modes!": "Žaisk su daug klasių su skirtingomis galiomis ir naudok savo lanko įgūdžius kad laimėtum skirtinguose žaidimo rėžimuose!"
+Players Waiting: Laukiantys Žaidėjai
 
-"Please rate this map by clicking:": "Please rate this map by clicking:"
+'Please rate this map by clicking:': 'Prašome įvertinti šį žemėlapį paspaude:'
 
-"Please specify group name!": "Prašome nurodyti grupės pavadinimą!"
+Please specify group name!: Prašome nurodyti grupės pavadinimą!
 
-"Please specify player name!": "Prašome nurodyti žaidėjo vardą!"
+Please specify player name!: Prašome nurodyti žaidėjo vardą!
 
-"Plot Name": "Ploto Pavadinimas"
+Plot Name: Ploto Pavadinimas
 
-"Plot Owner": "Ploto Savininkas"
+Plot Owner: Ploto Savininkas
 
-"Points": "Taškai"
+Points: Taškai
 
-"Powerups": "Powerups"
+Powerups: Powerups
 
-"Price:": "Kaina:"
+'Price:': 'Kaina:'
 
-"Quickly test your skill by fighting other players with a huge variety of modifiers!": "Greitai išbandyk savo kovojimo įgudžius kovodamas su kitu žaidėju su daug skirtingų modifikatorių!"
+Quickly test your skill by fighting other players with a huge variety of modifiers!: Greitai išbandyk savo kovojimo įgudžius kovodamas su kitu žaidėju su daug skirtingų modifikatorių!
 
-"Radar Breaker": "Radar Breaker"
+Radar Breaker: Radarų Gadintojas
 
-"Rain is able to refill water sources": "Rain is able to refill water sources."
+Rain is able to refill water sources: Rain is able to refill water sources.
 
-"§6§lRapid Fire §bpowerup has spawned at middle of the map!": "&6&lRapid Fire &bpowerup has spawned at middle of the map!"
+Rating: Reitingas
 
-"Rating": "Reitingas"
+Reflect Snowballs Modifier: Reflektyvus Gniužčių Modifikatorius
 
-"Reflection Perk": "Reflection Perk"
+Reflection Perk: Reflection Perk
 
-"Reflects a snowball, reducing damage taken by $1$": "Reflects a snowball, reducing damage taken by $1$."
+Reflects a snowball, reducing damage taken by $1$: Reflects a snowball, reducing damage taken by $1$.
 
-"Reflect Snowballs Modifier": "Reflektyvus Gniužčių Modifikatorius"
+Regenerates your health $1$: Regenerates your health $1$
 
-"Regenerates your health $1$": "Regenerates your health $1$"
+Regeneration: Regeneracija
 
-"Regeneration": "Regeneration"
+Removes compass from the game: Removes compass from the game.
 
-"Removes compass from the game": "Removes compass from the game."
+Resources: Resursai
 
-"Resources": "Resursai"
+Respawning in: Atsirasite vėl už
 
-"Respawning in": "Respawning in"
+Right click to activate game modifiers!: Spauskite su dešiniu kad aktyvuoti žaidimo modifikatorius!
 
-"Server rules can be read in §a/rules§e, make sure to follow them!": "Serverio taisykles galima perskaityti &a/rules&e, laikykitės jų!"
+Server rules can be read in §a/rules§e, make sure to follow them!: "Serverio taisykles galima perskaityti &a/rules&e, laikykitės jų!"
 
-"§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!": "&e&lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!"
+Shoot chickens as fast as you can!: Šaudyk viščiukus taip greitai kaip tik gali!
 
-"Shoot chickens as fast as you can!": "Šaudyk viščiukus taip greitai kaip tik gali!"
+Shoot other players with snowballs, buy powerups with melons and play in many different modes!: Šaudyk kitus žaidėjus su sniego gniūžtėmis, pirk daiktus su melionais ir išbandyk daug skirtingų žaidimo rėžimų!
 
-"Shoot other players with snowballs, buy powerups with melons and play in many different modes!": "Šaudyk kitus žaidėjus su sniego gniūžtėmis, pirk daiktus su melionais ir išbandyk daug skirtingų žaidimo rėžimų!"
+Slowballs: Slowballs
 
-"§e§lShoot TNT with your cannon and knock opponents to the void, or explode them":
-    " Save yourself from hazards using Super Jumps":
-        " [Sneak]": "&e&lŠaudyk TNT su savo patranka ir nustumk žaidėjus į prarają, arba susprogdink juos. Gelbėk save nuo pavojų naudodamas Super Šuolius. [Tūpk]"
+Slowness I on hit: Slowness I on hit
 
-"Slowballs": "Slowballs"
+Slowness Perk: Lėtumo Priedas
 
-"Slowness I on hit": "Slowness I on hit"
+Sneak to use: Tūpk kad naudoti
 
-"Slowness Perk": "Lėtumo Priedas"
+Snowball Accuracy: Snowball Accuracy
 
-"Sneak to use": "Tūpk kad naudoti"
+Snowballs fired: Sniego gniūžtės iššautos
 
-"Snowball Accuracy": "Snowball Accuracy"
+Snowman: Snowman
 
-"Snowballs fired": "Sniego gniūžtės iššautos"
+Snowman Perk: Besmegenio Priedas
 
-"Snowman Perk": "Besmegenio Priedas"
+Sorts teams based on kills count for fairness: Išrušiuoja žaidėjus į lygias komandas pagal nužudymų skaičių.
 
-"Snowman": "Snowman"
+Spawnpoint Switch: Spawnpoint Switch
 
-"Sorts teams based on kills count for fairness": "Išrušiuoja žaidėjus į lygias komandas pagal nužudymų skaičių."
+Speed: Greitis
 
-"Spawnpoint Switch": "Spawnpoint Switch"
+Spleef + TNT = Spleent! Explode other players into the void!: Spleef + TNT = Spleent! Išsprogdink kitus žaidėjus į prarają!
 
-"Speed": "Greitis"
+Statistics: Statistika
 
-"Spleef + TNT = Spleent! Explode other players into the void!": "Spleef + TNT = Spleent! Išsprogdink kitus žaidėjus į prarają!"
+Succesfully sent party invite to $1$!: Išsiuntei grupės pakvietimą $1$!
 
-"Statistics": "Statistika"
+Super Jump: Super Šuolis
 
-"§7Stone Cannon": "&7Akmėninė Patranka"
+Super Jumps: Super Šuoliai
 
-"Succesfully sent party invite to $1$!": "Išsiuntei grupės pakvietimą $1$!"
+Survival based on old Minecraft versions between alpha 1:
+    2 and beta 1:
+        '7':
+            '3':
+                '||§cWARNING: §7NOSTALGIA IS A CERTAINTY': "Išlikimas pagal senas Minecraft versijas tarp alpha 1.2 ir beta 1.7.3.||&cĮSPĖJIMAS: &7NOSTALGIJA GARANTUOTA."
 
-"Super Jumps": "Super Šuoliai"
+Survival Rules: Survival Rules
 
-"Super Jump": "Super Šuolis"
+Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do: Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do.
 
-"Survival based on old Minecraft versions between alpha 1":
-    "2 and beta 1":
-        "7":
-            "3":
-                "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": "Išlikimas pagal senas Minecraft versijas tarp alpha 1.2 ir beta 1.7.3.||&cĮSPĖJIMAS: &7NOSTALGIJA GARANTUOTA."
+Team: Komanda
 
-"Survival Rules": "Survival Rules"
+Thank you for rating this map: Dėkojame už šio žemėlapio įvertinimą!
 
-"Team": "Komanda"
+The Knockback Stick: Smūgio Pagaliukas
 
-"Thank you for rating this map": "Dėkojame už šio žemėlapio įvertinimą!"
+'There are many special recipes! Check them out in: §e/recipes§r': "There are many special recipes! Check them out in: &e/recipes&r"
 
-"The Knockback Stick": "Smūgio Pagaliukas"
+There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$: There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$
 
-"There are many special recipes! Check them out in: §e/recipes§r": "There are many special recipes! Check them out in: &e/recipes&r"
+This game can be played with only §e§l2 §aplayers: "Šį žaidimą galima žaisti tik su &e&l2 &ažaidėjais."
 
-"There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$": "There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$"
+This game can be played with §e§l2§a§l+ §aplayers: "Šį žaidimą galima žaisti su &e&l2&a&l+ &ažaidėjais."
 
-"§aThis game can be played §e§lalone§a": "&aŠį žaidimą galima žaisti &e&lvienam&a."
-
-"This game can be played with §e§l2§a§l+ §aplayers": "Šį žaidimą galima žaisti su &e&l2&a&l+ &ažaidėjais."
-
-"This game can be played with only §e§l2 §aplayers": "Šį žaidimą galima žaisti tik su &e&l2 &ažaidėjais."
-
-? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
+? This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players
 : "Šis žaidimas startuoja anksti. Jūs neuždirbsite Smaragdų ir jūsų statistika, pasiekimai nebus skaičiuojami jei šis žaidimas startuos su mažiau nei &e&l$1$ &6žaidėjais."
 
-"This power-up is already active!": "This power-up is already active!"
+This power-up is already active!: This power-up is already active!
 
-"This round of 1v1 did not meet the requirements for win rewards and rating changes": "Šitas 1v1 turas nepasiekė reikiamų reikalavimų laimėjimo apdovanojimui ir reitingo pasikeitimams."
+This round of 1v1 did not meet the requirements for win rewards and rating changes: Šitas 1v1 turas nepasiekė reikiamų reikalavimų laimėjimo apdovanojimui ir reitingo pasikeitimams.
 
-"Throwable Cobweb": "Throwable Cobweb"
+Throwable Cobweb: Mėtomas Voratinklis
 
-"Time elapsed": "Laiko praleista"
+Time elapsed: Laiko praleista
 
-"Time since last update": "Paskutinis atnaujinimas"
+Time since last update: Paskutinis atnaujinimas
 
-"Total play time": "Laiko pražaista"
+Total play time: Laiko pražaista
 
-"Troops alive": "Kariai gyvi"
+Troops: Kariai
 
-"Troops killed": "Kariai nužudyti"
+Troops alive: Kariai gyvi
 
-"Troops lost": "Kariai prarasti"
+Troops killed: Kariai nužudyti
 
-"Troops": "Kariai"
+Troops lost: Kariai prarasti
 
-"Turns your snowballs into slowballs": "Turns your snowballs into slowballs."
+Turn: Turas
 
-"Turn": "Turas"
+Turns your snowballs into slowballs: Turns your snowballs into slowballs.
 
-"UNLOCKED": "ATRAKINTA"
+UNLOCKED: ATRAKINTA
 
-"Use /agree $1$  to agree with survival rules": "Use /agree $1$  to agree with survival rules."
+Use /agree $1$  to agree with survival rules: Naudokite /agree $1$  kad sutikti su išlikimo taisyklėmis
 
-"Use F5 + high FOV to get a better view of the game field!": "Use F5 + high FOV to get a better view of the game field!"
+Use F5 + high FOV to get a better view of the game field!: Use F5 + high FOV to get a better view of the game field!
 
-? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
-: "&e&lIšnaudok pasiruošimo laiką kad gautum kuo daugiau resursų, gink savo Gyvybės Kristalą ir kovok iki pergalės."
+VICTORY: PERGALĖ
 
-"VICTORY": "PERGALĖ"
+Visitors: Lankytojai
 
-"Votes:": "Balsai:"
+'Votes:': 'Balsai:'
 
-"[VOTE]": "[BALSUOTI]"
+Waiting Players: Laukiantys Žaidėjai
 
-"Waiting Players": "Laukiantys Žaidėjai"
+Waiting Queue Status: Laukiama Eilėje
 
-"Waiting Queue Status": "Laukiama Eilėje"
+Warped §e§l$1$ §eparty members to your location!: "Warped &e&l$1$ &eparty members to your location!"
 
-"Warped §e§l$1$ §eparty members to your location!": "Warped &e&l$1$ &eparty members to your location!"
+Water is finite here, so you are going to need to build farms close to big sources of water: Water is finite here, so you are going to need to build farms close to big sources of water.
 
-"Water is finite here, so you are going to need to build farms close to big sources of water": "Water is finite here, so you are going to need to build farms close to big sources of water."
+Wins: Laimėjimai
 
-"Wins Percentage": "Laimėjimų Procentas"
+Wins Percentage: Laimėjimų Procentas
 
-"Wins": "Laimėjimai"
+Wood Cannon: "&aMedinė Patranka"
 
-"Wood Cannon": "&aMedinė Patranka"
+You already have voted for a map!: Jūs jau balsavote už žemėlapį!
 
-"You already have voted for a map!": "You already have voted for a map!"
+You are already in a party of §a$1$§c!: "Jūs jau esate grupėje žaidėjo &a$1$&c!"
 
-"You are already in a party of §a$1$§c!": "Jūs jau esate grupėje žaidėjo &a$1$&c!"
+You are already on $1$ §cteam!: "Jūs jau esate $1$ &ckomandoje!"
 
-"You are already on $1$ §cteam!": "Jūs jau esate $1$ &ckomandoje!"
+You are leader of a party, use §e/party disband §cto be able to do this: "You are leader of a party, use &e/party disband &cto be able to do this."
 
-"You are leader of a party, use §e/party disband §cto be able to do this": "You are leader of a party, use &e/party disband &cto be able to do this."
+You are now a member of $1$ §eteam!: "Dabar jūs esate $1$ &ekomandos narys!"
 
-"You are now a member of $1$ §eteam!": "Dabar jūs esate $1$ &ekomandos narys!"
+You are now Juggernaut!: You are now Juggernaut!
 
-"You are now Juggernaut!": "You are now Juggernaut!"
+You aren't in a party!: Jūs nesate grupėje!
 
-"You aren't in a party!": "Jūs nesate grupėje!"
+You aren't the leader of the party!: Jūs nesate grupės lyderis!
 
-"You aren't the leader of the party!": "Jūs nesate grupės lyderis!"
+You can buy this item only once per life: You can buy this item only once per life.
 
-"You can chat only once every 1":
-    "5 second!": "You can chat only once every 1.5 second!"
+You can chat only once every 1:
+    5 second!: Jūs galite siųsti žinutes tik kartą per 1.5 sekundes!
 
-"You can die from cold during night in §bHoth§r if you do not have leather armor": "You can die from cold during night in &bHoth&r if you do not have leather armor."
+You can die from cold during night in §bHoth§r if you do not have leather armor: "You can die from cold during night in &bHoth&r if you do not have leather armor."
 
-"You can find Friendly Survival wiki in: $1$": "You can find Friendly Survival wiki in: $1$"
+'You can find Friendly Survival wiki in: $1$': 'You can find Friendly Survival wiki in: $1$'
 
-"You can lock your containers and doors with signs, if you want to protect land you can join a group or create one": "You can lock your containers and doors with signs, if you want to protect land you can join a group or create one."
+You can lock your containers and doors with signs, if you want to protect land you can join a group or create one: You can lock your containers and doors with signs, if you want to protect land you can join a group or create one.
 
-"You cannot have more than one §fSnowman §cin inventory at the same time": "You cannot have more than one &fSnowman &cin inventory at the same time."
+You can only buy this in game!: Jūs galite tai pirkti tik kai esate žaidime!
 
-"You cannot party warp into this game!": "You cannot party warp into this game!"
+You can only buy this in-game!: Jūs galite tai pirkti tik kai esate žaidime!
 
-"You can only buy this in-game!": "You can only buy this in-game!"
+You can only vote when there's enough players to start the game: Jūs galite balsuoti tik tada kai žaidime yra pakankamai žaidėjų.
 
-"You can only vote when there's enough players to start the game": "Jūs galite balsuoti tik tada kai žaidime yra pakankamai žaidėjų."
+You can send care packages to support alive players with §e§l/carepackage <player>: "Jūs galite siųsti daiktus kad palaikyti gyvus žaidėjus su &e&l/carepackage <žaidėjas>"
 
-"You can send care packages to support alive players with §e§l/carepackage <player>": "Jūs galite siųsti daiktus kad palaikyti gyvus žaidėjus su &e&l/carepackage <žaidėjas>"
+You can toggle display of the animation off to reduce your FPS lag!: Jūs galite išjungti krentančių blokų animacija kad sumažinti FPS lagą!
 
-"You can toggle display of the animation off to reduce your FPS lag!": "Jūs galite išjungti krentančių blokų animacija kad sumažinti FPS lagą!"
+You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions: "You can use &5Dimensional Warp&r to warp to many beautiful and interesting dimensions."
 
-"You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions": "You can use &5Dimensional Warp&r to warp to many beautiful and interesting dimensions."
+You cannot have more than one §fSnowman §cin inventory at the same time: "You cannot have more than one &fSnowman &cin inventory at the same time."
 
-"You could not be warped to your party leader's location, because you are in a game":
-    " Use §e/q §cto leave": "You could not be warped to your party leader's location, because you are in a game. Use &e/q &cto leave."
+You cannot party warp into this game!: You cannot party warp into this game!
 
-"You donated §e§l1 §fSnowball §eto §a$1$§e!": "You donated &e&l1 &fSnowball &eto &a$1$&e!"
+You could not be warped to your party leader's location, because you are in a game:
+    ' Use §e/q §cto leave': "You could not be warped to your party leader's location, because you are in a game. Use &e/q &cto leave."
 
-"You do not have enough §aEmeralds§c!": "Jūs neturite pakankamai  &aSmaragdų&c!"
+You do not have enough emeralds!: Jūs neturite užtektinai smaragdų!
 
-"You do not have enough melons!": "You do not have enough melons!"
+You do not have enough melons!: Jūs neturite užtektinai melionų!
 
-"You get points for flag captures, your team needs to reach the needed amount of points to win": "Jūs gaunate taškus už užgrobtas vėliavas, jūsų komanda turi pasiekti tam tikrą skaičiu taškų laimėjimui."
+You do not have enough §aEmeralds§c!: "Jūs neturite pakankamai  &aSmaragdų&c!"
 
-? "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut"
-:   " You need to reach the needed amount of points to win": "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut. You need to reach the needed amount of points to win."
+You donated §e§l1 §fSnowball §eto §a$1$§e!: "You donated &e&l1 &fSnowball &eto &a$1$&e!"
 
-"You get points for kills, you need to reach the needed amount of points to win": "Jūs gaunate taškus už nužudymus, jums reikia pasiekti tam tikra skaičiu taškų laimėjimui."
+You get points for flag captures, your team needs to reach the needed amount of points to win: Jūs gaunate taškus už užgrobtas vėliavas, jūsų komanda turi pasiekti tam tikrą skaičiu taškų laimėjimui.
 
-"You get points for kills, your team needs to reach the needed amount of points to win": "Jūs gaunate taškus už nužudymus, tavo komandai reikia pasiekti tam tikra skaičiu taškų laimėjimui."
+? You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut
+:   ' You need to reach the needed amount of points to win': You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut. You need to reach the needed amount of points to win.
 
-"You got a §lEnchanted Snowball §bfrom your kill!": "You got a &lEnchanted Snowball &bfrom your kill!"
+You get points for kills, you need to reach the needed amount of points to win: Jūs gaunate taškus už nužudymus, jums reikia pasiekti tam tikra skaičiu taškų laimėjimui.
 
-"You have agreed with the survival rules, follow them and everything will be okay!": "You have agreed with the survival rules, follow them and everything will be okay!"
+You get points for kills, your team needs to reach the needed amount of points to win: Jūs gaunate taškus už nužudymus, tavo komandai reikia pasiekti tam tikra skaičiu taškų laimėjimui.
 
-"You have already invited $1$ §cinto your party!": "Jūs jau esate pakvietę $1$ &cį savo grupę!"
+You got a §lEnchanted Snowball §bfrom your kill!: "You got a &lEnchanted Snowball &bfrom your kill!"
 
-? "You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day"
+You have agreed with the survival rules, follow them and everything will be okay!: You have agreed with the survival rules, follow them and everything will be okay!
+
+You have already invited $1$ §cinto your party!: "Jūs jau esate pakvietę $1$ &cį savo grupę!"
+
+You have already used this power-up in this life!: You have already used this power-up in this life!
+
+? You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day
 : "Jūs jau balsavote už žemėlapį šiandien, paremkite serverį pirkdami &a&lVIP &cjei norite balsuoti neribojamą kiekį kartų per dieną."
 
-"You have already voted for a mode!": "Jūs jau balsavote už rėžimą!"
+You have already voted for a mode!: Jūs jau balsavote už rėžimą!
 
-"You have already voted for this modifier!": "Jūs jau balsavote už šį modifikatorių!"
+You have already voted for this modifier!: Jūs jau balsavote už šį modifikatorių!
 
-"You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!": "You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!"
+You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!: You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!
 
-"You have joined party of §a$1$§e!": "Jūs atėjote į &a$1$ &egrupę!"
+You have gained extra life from your §aImmortality Perk§e!: "You have gained extra life from your &aImmortality Perk&e!"
 
-"You have left party of §a$1$§e!": "Jūs išėjote iš &a$1$ &egrupės!"
+You have joined party of §a$1$§e!: "Jūs atėjote į &a$1$ &egrupę!"
 
-"You have purchased $1$§6!": "You have purchased $1$&6!"
+You have left party of §a$1$§e!: "Jūs išėjote iš &a$1$ &egrupės!"
 
-"You have reached the limit of §e§l$1$ §cpowerups per match!": "You have reached the limit of &e&l$1$ &cpowerups per match!"
+You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row: "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
 
-"You have reached the limit of snowballs!": "You have reached the limit of snowballs!"
+You have purchased $1$§6!: "Jūs nusipirkote $1$&6!"
 
-"You have received §fSnowman §efor reaching killstreak of §e§l5§e!": "You have received &fSnowman &efor reaching killstreak of &e&l5&e!"
+You have purchased §a$1$§6!: "Jūs nusipirkote &a$1$&6!"
 
-"You have reflected snowball of $1$§f!": "You have reflected snowball of $1$&f!"
+You have reached the limit of snowballs!: You have reached the limit of snowballs!
 
-"You have removed your last rating of this map": "You have removed your last rating of this map."
+You have reached the limit of §e§l$1$ §cpower-ups per match!: "You have reached the limit of &e&l$1$ &cpower-ups per match!"
 
-"You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules": "You have to read and agree with the rules of survival to be able to break/place blocks, use &e/survivalrules"
+You have reached the limit of §e§l$1$ §cpowerups per match!: "You have reached the limit of &e&l$1$ &cpowerups per match!"
 
-"You have upgraded $1$ to $2$!": "Jūs pagerinote &a$1$ &6į &a$2$&6!"
+You have received §fSnowman §efor reaching killstreak of §e§l5§e!: "You have received &fSnowman &efor reaching killstreak of &e&l5&e!"
 
-"You have upgraded §a$1$§6!": "Jūs pagerinote &a$1$&6!"
+You have reflected snowball of $1$§f!: "You have reflected snowball of $1$&f!"
 
-"You must be leader of a party to use this!": "Jūs turite būti grupės lyderis kad tai naudoti!"
+You have removed your last rating of this map: You have removed your last rating of this map.
 
-"Your army is under attack!": "Your army is under attack!"
+You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules: "You have to read and agree with the rules of survival to be able to break/place blocks, use &e/survivalrules"
 
-"Your opponent is blinded by your perk!": "Jūsų oponentas tapo aklas nuo jūsų priedo!"
+You have upgraded $1$ to $2$!: "Jūs pagerinote &a$1$ &6į &a$2$&6!"
 
-"Your opponent is ignited by your perk!": "Jūsų oponentas įsiliepsnojo nuo jūsų priedo!"
+You have upgraded §a$1$ §6to §a$2$§6!: "You have upgraded &a$1$ &6to &a$2$&6!"
 
-"Your opponent is slowed by your perk!": "Jūsų oponentas tapo lėtas nuo jūsų priedo!"
+You have upgraded §a$1$§6!: "Jūs pagerinote &a$1$&6!"
 
-"Your party invite to $1$ §ehas expired": "Tavo grupės pakvietimas $1$ &epasibaigė."
+You must be leader of a party to use this!: Jūs turite būti grupės lyderis kad tai naudoti!
 
-"Your party leader has warped you to their location!": "Your party leader has warped you to their location!"
+Your army is under attack!: Jūsų armija yra puolama!
 
-"Your Radar Breaker effect is over!": "Your Radar Breaker effect is over!"
+Your opponent is blinded by your perk!: Jūsų oponentas tapo aklas nuo jūsų priedo!
 
-"Your snowball hit $1$§f!": "Your snowball hit $1$&f!"
+Your opponent is ignited by your perk!: Jūsų oponentas įsiliepsnojo nuo jūsų priedo!
 
-"Your snowball hit boat of $1$§f!": "Your snowball hit boat of $1$&f!"
+Your opponent is slowed by your perk!: Jūsų oponentas tapo lėtas nuo jūsų priedo!
 
-"Your snowman's snowball hit $1$§f!": "Your snowman's snowball hit $1$&f!"
+Your party has been made private: Your party has been made private.
 
-"YOUR TEAM": "TAVO KOMANDA"
+Your party invite to $1$ §ehas expired: "Tavo grupės pakvietimas $1$ &epasibaigė."
 
-"$1$ §ekicked $2$ §efrom the party!": "$1$ &ekicked $2$ &efrom the party!"
+Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!: "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
 
-"You have already used this power-up in this life!": "You have already used this power-up in this life!"
+Your party leader has warped you to their location!: Your party leader has warped you to their location!
 
-"Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do": "Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do."
+Your Radar Breaker effect is over!: Your Radar Breaker effect is over!
 
-"$1$ §ehas transferred party leader to $2$§e!": "$1$ &ehas transferred party leader to $2$&e!"
+Your snowball hit $1$§f!: "Your snowball hit $1$&f!"
 
-"$1$ §cis not in your party!": "$1$ &cis not in your party!"
+Your snowball hit boat of $1$§f!: "Your snowball hit boat of $1$&f!"
 
-"You can buy this item only once per life": "You can buy this item only once per life."
+Your snowman's snowball hit $1$§f!: "Your snowman's snowball hit $1$&f!"
 
-"You have gained extra life from your §aImmortality Perk§e!": "You have gained extra life from your &aImmortality Perk&e!"
+YOUR TEAM: TAVO KOMANDA
 
-"Right click to activate game modifiers!": "Right click to activate game modifiers!"
+'[ACCEPT]': '[PRIIMTI]'
 
-"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
+'[CLICK TO JOIN]': '[SPAUSK ČIA]'
 
-"LOCKED": "LOCKED"
+'[VOTE]': '[BALSUOTI]'
 
-"§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+§6§lGolden Cannon: "&6&lGolden Cannon"
 
-"Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
+§6§lRapid Fire §bpowerup has spawned at middle of the map!: "&6&lRapid Fire &bpowerup has spawned at middle of the map!"
 
-"§bEnchanted §7§lIron Cannon": "&bEnchanted &7&lIron Cannon"
+§7Stone Cannon: "&7Akmėninė Patranka"
 
-? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
-: "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+§7§lBecause of too much game changing modifiers activated this match will not affect your rating: "&7&lDėl per daug žaidimą keičiančių modifikatorių, šis turas nedarys įtakos jūsų reitingui."
 
-? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
-: "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
+§7§lIron Cannon: "&7&lGeležinė Patranka"
+
+§a$1$ §egot first kill of the game!: "&a$1$ &egavo pirmą nužudymą žaidime!"
+
+§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!: "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+
+§aThis game can be played §e§lalone§a: "&aŠį žaidimą galima žaisti &e&lvienam&a."
+
+§aWood Cannon: "&aWood Cannon"
+
+§bEnchanted §7Stone Cannon: "&bUžkerėta &7Akmeninė Patranka"
+
+§bEnchanted §7§lIron Cannon: "&bEnchanted &7&lIron Cannon"
+
+§bEnchanted §aWood Cannon: "&bEnchanted &aWood Cannon"
+
+§bEnchanted §b§lDiamond Cannon: "&bUžkerėta &b&lDeimantinė Patranka"
+
+§b§lHow To Play: "&b&lKaip Žaisti"
+
+§eGame will start in §e§l$1$ §esecond: "&eŽaidimas prasidės už &e&l$1$ &esekundės"
+
+§eGame will start in §e§l$1$ §eseconds: "&eŽaidimas prasidės už &e&l$1$ &esekundžių"
+
+§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!: "&e&lVadovauk dideliai armijai ir nugalėk visus priešų karalius kad laimėtum!"
+
+§e§lDifferent elemental classes compete with each other in bow-fighting abilities:
+    ' Use fasciniting abilities of your class to defeat other players and win!': "&e&lDifferent elemental classes compete with each other in bow-fighting abilities. Use fasciniting abilities of your class to defeat other players and win!"
+
+§e§lKnock other players off the platform:
+    ' As you hit players, you deal more knockback': "&e&lKnock other players off the platform. As you hit players, you deal more knockback."
+
+§e§lLoot randomly generated chests with unique items:
+    ' Use them to eliminate your enemies':
+        ' Be the only survivor to win': "&e&lLoot randomly generated chests with unique items. Use them to eliminate your enemies. Be the only survivor to win."
+
+? §e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further
+: "&e&lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further."
+
+§e§lPlace bombs and explode blocks around it in a + shape:
+    ' Use powerups to take advantage over opponents': "&e&lPlace bombs and explode blocks around it in a + shape. Use powerups to take advantage over opponents."
+
+'§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!': "&e&lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!"
+
+§e§lShoot TNT with your cannon and knock opponents to the void, or explode them:
+    ' Save yourself from hazards using Super Jumps':
+        ' [Sneak]': "&e&lŠaudyk TNT su savo patranka ir nustumk žaidėjus į prarają, arba susprogdink juos. Gelbėk save nuo pavojų naudodamas Super Šuolius. [Tūpk]"
+
+? §e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory
+: "&e&lIšnaudok pasiruošimo laiką kad gautum kuo daugiau resursų, gink savo Gyvybės Kristalą ir kovok iki pergalės."

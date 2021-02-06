@@ -1,837 +1,877 @@
-"   /chat party §2- §aTo toggle party chat": "   /chat party &2- &aВключить/отключить командный чат."
+'   /chat party §2- §aTo toggle party chat': "   /chat party &2- &aВключить/отключить командный чат."
 
-"   /donate §2- §aView ways to donate money to our server": "   /donate &2- &aПосмотреть способы поддержать наш сервер."
+'   /donate §2- §aView ways to donate money to our server': "   /donate &2- &aПосмотреть способы поддержать наш сервер."
 
-"   /group accept <group> §2- §aAccept a group invitation": "   /group accept <название группы> &2- &aПринять приглашение в группу."
+'   /faq §2- §aGet answers to frequently asked questions': "   /faq &2- &aGet answers to frequently asked questions."
 
-"   /group chunks <group> §2- §aBrowse claimed chunks of a group": "   /group chunks <название группы> &2- &aПросмотреть чанки, принадлежащие группе."
+'   /friend §2- §aView friend commands help': "   /friend &2- &aView friend commands help."
 
-"   /group claim <group> §2- §aClaim a chunk to a group": "   /group claim <название группы> &2- &aДобавить чанк к вашей территории."
+'   /group accept <group> §2- §aAccept a group invitation': "   /group accept <название группы> &2- &aПринять приглашение в группу."
 
-"   /group create <group> §2- §aCreate a group": "   /group create <название группы> &2- &aСоздать группу."
+'   /group chunks <group> §2- §aBrowse claimed chunks of a group': "   /group chunks <название группы> &2- &aПросмотреть чанки, принадлежащие группе."
 
-"   /group demote <player> <group> §2- §aDemote a player in a group": "   /group demote <ник игрока> <название группы> &2- &aПонизить игрока в группе."
+'   /group claim <group> §2- §aClaim a chunk to a group': "   /group claim <название группы> &2- &aДобавить чанк к вашей территории."
 
-"   /group info <group> §2- §aView information about a group": "   /group info <название группы> &2- &aПоказать информацию о группе."
+'   /group create <group> §2- §aCreate a group': "   /group create <название группы> &2- &aСоздать группу."
 
-"   /group invite <player> <group> §2- §aInvite a player to a group": "   /group invite <ник игрока> <название группы> &2- &aПригласить игрока в группу."
+'   /group demote <player> <group> §2- §aDemote a player in a group': "   /group demote <ник игрока> <название группы> &2- &aПонизить игрока в группе."
 
-"   /group kick <player> <group> §2- §aKick a player from a group": "   /group kick <ник игрока> <название группы> &2- &aИсключить игрока из группы."
+'   /group info <group> §2- §aView information about a group': "   /group info <название группы> &2- &aПоказать информацию о группе."
 
-"   /group leave <group> §2- §aLeave a group": "   /group leave <название группы> &2- &aПокинуть группу."
+'   /group invite <player> <group> §2- §aInvite a player to a group': "   /group invite <ник игрока> <название группы> &2- &aПригласить игрока в группу."
 
-"   /group list §2- §aList the groups you are in": "   /group list &2- &aПоказать все группы, в которых вы состоите."
+'   /group kick <player> <group> §2- §aKick a player from a group': "   /group kick <ник игрока> <название группы> &2- &aИсключить игрока из группы."
 
-"   /group promote <player> <group> §2- §aPromote a player in a group": "   /group promote <ник игрока> <название группы> &2- &aПовысить игрока в группе."
+'   /group leave <group> §2- §aLeave a group': "   /group leave <название группы> &2- &aПокинуть группу."
 
-"   /group unclaim §2- §aUnclaim a chunk": "   /group unclaim &2- &aУдалить чанк из вашей территории."
+'   /group list §2- §aList the groups you are in': "   /group list &2- &aПоказать все группы, в которых вы состоите."
 
-"   /group upgrade <group> §2- §aUpgrade a group": "   /group upgrade <название группы> &2- &aУлучшить группу."
+'   /group promote <player> <group> §2- §aPromote a player in a group': "   /group promote <ник игрока> <название группы> &2- &aПовысить игрока в группе."
 
-"   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name": "   /join <game> [lobbyname] &2- &aПрисоединиться к открытой игре с помощью команды или присоединиться к приватной игре, указав название лобби."
+'   /group unclaim §2- §aUnclaim a chunk': "   /group unclaim &2- &aУдалить чанк из вашей территории."
 
-"   /list §2- §aView information about all online players": "   /list &2- &aПоказать информацию об игроках, находящихся в данный момент на сервере."
+'   /group upgrade <group> §2- §aUpgrade a group': "   /group upgrade <название группы> &2- &aУлучшить группу."
 
-"   /msg <player> §2- §aSend a private message to a player": "   /msg <player> &2- &aОтправить личное сообщение игроку."
+'   /join <game> [lobbyname] §2- §aTo join a public game by a command or private game by specifying lobby name': "   /join <game> [lobbyname] &2- &aПрисоединиться к открытой игре с помощью команды или присоединиться к приватной игре, указав название лобби."
 
-"   /party accept <player> §2- §aTo accept an party invite": "   /party accept <ник игрока> &2- &aПринять приглашение в группу."
+'   /list §2- §aView information about all online players': "   /list &2- &aПоказать информацию об игроках, находящихся в данный момент на сервере."
 
-"   /party disband §2- §aTo disband your party": "   /party disband &2- &aРаспустить команду."
+'   /msg <player> §2- §aSend a private message to a player': "   /msg <player> &2- &aОтправить личное сообщение игроку."
 
-"   /party invite <player> §2- §aTo invite a player to party": "   /party invite <ник игрока> &2- &aПригласить игрока в группу."
+'   /party accept <player> §2- §aTo accept an party invite': "   /party accept <ник игрока> &2- &aПринять приглашение в группу."
 
-"   /party join <player> §2- §aTo join public party of a player": "   /party join <ник игрока> &2- &aВступить в публичную команду игрока."
+'   /party disband §2- §aTo disband your party': "   /party disband &2- &aРаспустить команду."
 
-"   /party kick <player> §2- §aTo kick a player from your party": "   /party kick <ник игрока> &2- &aИсключить игрока из команды."
+'   /party invite <player> §2- §aTo invite a player to party': "   /party invite <ник игрока> &2- &aПригласить игрока в группу."
 
-"   /party leave §2- §aTo leave a party": "   /party leave &2- &aПокинуть команду."
+'   /party join <player> §2- §aTo join public party of a player': "   /party join <ник игрока> &2- &aВступить в публичную команду игрока."
 
-"   /party list §2- §aTo view members of your party list": "   /party list &2- &aПоказать список участников вашей группы."
+'   /party kick <player> §2- §aTo kick a player from your party': "   /party kick <ник игрока> &2- &aИсключить игрока из команды."
 
-"   /party open §2- §aTo open your party for public join": "   /party open &2- &aСделать команду публичной."
+'   /party leave §2- §aTo leave a party': "   /party leave &2- &aПокинуть команду."
 
-"   /party transfer <player> §2- §aTo transfer party leader to other member": "   /party transfer <ник игрока> &2- &aНазначить другого члена команды владельцем."
+'   /party list §2- §aTo view members of your party list': "   /party list &2- &aПоказать список участников вашей группы."
 
-"   /party §2- §aView party help": "   /party &2- &aПоказать помощь по командам типа Party."
+'   /party open §2- §aTo open your party for public join': "   /party open &2- &aСделать команду публичной."
 
-"   /party warp §2- §aTo warp your party members to your game lobby": "   /party warp &2- &aТелепортировать членов команды к вам в лобби."
+'   /party transfer <player> §2- §aTo transfer party leader to other member': "   /party transfer <ник игрока> &2- &aНазначить другого члена команды владельцем."
 
-"   /rules §2- §aRead server rules": "   /rules &2- &aПрочитать правила сервера."
+'   /party warp §2- §aTo warp your party members to your game lobby': "   /party warp &2- &aТелепортировать членов команды к вам в лобби."
 
-"   /spectate §2- §aEnter spectate mode": "   /spectate &2- &aПерейти в режим наблюдателя."
+'   /party §2- §aView party help': "   /party &2- &aПоказать помощь по командам типа Party."
 
-"   /staff §2- §aView staff list": "   /staff &2- &aПоказать список администрации сервера."
+'   /rules §2- §aRead server rules': "   /rules &2- &aПрочитать правила сервера."
 
-"   /stats <player> §2- §aView player's stats": "   /stats <player> &2- &aПоказать статистики игрока."
+'   /spectate §2- §aEnter spectate mode': "   /spectate &2- &aПерейти в режим наблюдателя."
 
-"1 arrow on knockout!": "+1 стрела за каждое убийство!"
+'   /staff §2- §aView staff list': "   /staff &2- &aПоказать список администрации сервера."
 
-"$1$ §cdefeated §6$2$": "$1$ &cпобедил &6$2$"
+'   /stats <player> §2- §aView player''s stats': "   /stats <player> &2- &aПоказать статистики игрока."
 
-"$1$ §edonated §e§l1 §fSnowball §eto you!": "$1$ &eпожертвовал &e&l1 &fснежок &eвам!"
+'   §2§l   --=-= §a§lGroup Commands §2§l=-=--': "   &2&l   --=-= &a&lКоманды типа Group &2&l=-=--"
 
-"$1$ §eflag has been dropped!": "$1$ &eфлаг был потерян!"
+'   §2§l   --=-= §a§lParty Commands §2§l=-=--': "   &2&l   --=-= &a&lКоманды типа Party &2&l=-=--"
 
-"§a$1$ §egot first kill of the game!": "&a$1$ &eсовершил первое убийство за игру!"
+'   §2§l   --=-= §a§lPlayer Commands §2§l=-=--': "   &2&l   --=-= &a&lКоманды для игроков &2&l=-=--"
 
-"$1$ §ehas captured $2$ §eflag!": "$1$ &eзахватил флаг $2$ &e!"
+'   §2§l--=-= §a§lFriend Commands §2§l=-=--': "   &2&l--=-= &a&lКоманды типа Friend &2&l=-=--"
 
-"$1$ §ehas disbanded the party!": "$1$ &eраспустил команду!"
+$1$ flag has been dropped!: $1$ flag has been dropped!
 
-"$1$ §ehas invited you into a party!": "$1$ &eпригласил вас в команду!"
+$1$ §7of players needs to vote to enable: "$1$ &7игроков должны проголосовать для активации."
 
-"$1$ §ehas joined your party!": "$1$ &eвступил в вашу команду!"
+$1$ §cdefeated §6$2$: "$1$ &cпобедил &6$2$"
 
-"$1$ §ehas joined!": "$1$ &eприсоединился!"
+$1$ §chas left!: "$1$ &cпокинул игру!"
 
-"$1$ §ehas left the party!": "$1$ &e покинул команду!"
+$1$ §chas not invited you into a party!: "$1$ &chas not invited you into a party!"
 
-"$1$ §chas left!": "$1$ &cпокинул игру!"
+$1$ §cis already in your party!: "$1$ &cуже в вашей команде!"
 
-"$1$ §ehas not invited you into a party!": "$1$ &eне приглашал вас в команду!"
+$1$ §cis not in your party!: "$1$ &cне в вашей команде!"
 
-"$1$ §ehas picked up $2$ §eflag!": "$1$ &eподобрал флаг $2$ &e!"
+$1$ §cteam is full!: "$1$ &cкоманда заполнена!"
 
-"$1$ §ehas reached the max stick level!": "$1$ &eдостиг максимального уровня палки!"
+$1$ §edonated §e§l1 §fSnowball §eto you!: "$1$ &eпожертвовал &e&l1 &fснежок &eвам!"
 
-"$1$ §ehas returned $2$ §eflag!": "$1$ &eвозвратил флаг $2$ &e!"
+$1$ §eflag has been dropped!: "$1$ &eфлаг был потерян!"
 
-"$1$ §ehas voted for §b§l$2$ §emap!": "$1$ &eпроголосовал за карту &b&l$2$!"
+$1$ §egot first kill of the game!: "$1$ &egot first kill of the game!"
 
-"$1$ §ehas voted for §b§l$2$ §emode!": "$1$ &eпроголосовал за режим &b&l$2$ &e!"
+$1$ §ehas captured $2$ §eflag!: "$1$ &eзахватил флаг $2$ &e!"
 
-"$1$ §ehas voted for §b§lBalanced Teams §emodifier!": "$1$ &eпроголосовал за модификатор &b&lСбалансированные Команды!"
+$1$ §ehas disbanded the party!: "$1$ &eраспустил команду!"
 
-"$1$ §ehas voted for §b§lDouble Jump §emodifier!": "$1$ &eпроголосовал за модификатор &b&l\"Двойной Прыжок\"!"
+$1$ §ehas invited you into a party!: "$1$ &eпригласил вас в команду!"
 
-"$1$ §ehas voted for §b§lFast Snowballs §emodifier!": "$1$ &eпроголосовал за модификатор &b&l\"Быстрые Снежки\"&e!"
+$1$ §ehas joined your party!: "$1$ &eвступил в вашу команду!"
 
-"$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!": "$1$ &eпроголосовал за Модификатор &b&lСмертельные Снежки!"
+$1$ §ehas joined!: "$1$ &eприсоединился!"
 
-"$1$ §ehas voted for §b§lNo Compass §emodifier!": "$1$ &eпроголосовал за модификатор &b&l\"Отключение компаса\"&e!"
+$1$ §ehas left the party!: "$1$ &e покинул команду!"
 
-"$1$ §ehas voted for §b§lReflect Snowballs §emodifier!": "$1$ &eпроголосовал за Модификатор &b&lОтражение Снежков!"
+$1$ §ehas not invited you into a party!: "$1$ &eне приглашал вас в команду!"
 
-"$1$ §cis already in your party!": "$1$ &cуже в вашей команде!"
+$1$ §ehas picked up $2$ §eflag!: "$1$ &eподобрал флаг $2$ &e!"
 
-"$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$": "$1$&c ещё не ваш друг! Добавьте $1$&c в друзья с помощью &e/f add $2$"
+$1$ §ehas reached the max stick level!: "$1$ &eдостиг максимального уровня палки!"
 
-"$1$ §7of players needs to vote to enable": "$1$ &7игроков должны проголосовать для активации."
+$1$ §ehas returned $2$ §eflag!: "$1$ &eвозвратил флаг $2$ &e!"
 
-"$1$ §cteam is full!": "$1$ &cкоманда заполнена!"
+$1$ §ehas transferred party leader to $2$§e!: "$1$ &eпередал права на владение командой игроку $2$&e!"
 
-"[ACCEPT]": "[ПРИНЯТЬ]"
+$1$ §ehas voted for §b§l$2$ §emap!: "$1$ &eпроголосовал за карту &b&l$2$!"
 
-"A chance to spawn creeper where your snowball lands": "Шанс заспавнить крипера там, где приземлится ваш снежок."
+$1$ §ehas voted for §b§l$2$ §emode!: "$1$ &eпроголосовал за режим &b&l$2$ &e!"
 
-"Activated Modifiers": "Активированные модификаторы"
+$1$ §ehas voted for §b§lBalanced Teams §emodifier!: "$1$ &eпроголосовал за модификатор &b&lСбалансированные Команды!"
 
-"Allows to double jump by pressing the sneak button in mid-air": "Позволяет использовать двойной прыжок с помощью нажатия кнопки [ПРИСЕСТЬ] в воздухе."
+$1$ §ehas voted for §b§lDouble Jump §emodifier!: "$1$ &eпроголосовал за модификатор &b&l\"Двойной Прыжок\"!"
 
-"Animation is currently §c§lDISABLED§e": "Анимация &c&lВЫКЛЮЧЕНА&e."
+$1$ §ehas voted for §b§lFast Snowballs §emodifier!: "$1$ &eпроголосовал за модификатор &b&l\"Быстрые Снежки\"&e!"
 
-"Animation is currently §a§lENABLED§e": "Анимация &a&lВКЛЮЧЕНА&e."
+$1$ §ehas voted for §b§lInstakill Snowballs §emodifier!: "$1$ &eпроголосовал за Модификатор &b&lСмертельные Снежки!"
 
-"Are you seriously going into a party with yourself? Invite someone!": "Вы серьёзно собираетесь играть в команде самим с собой? Пригласите кого-нибудь!"
+$1$ §ehas voted for §b§lNo Compass §emodifier!: "$1$ &eпроголосовал за модификатор &b&l\"Отключение компаса\"&e!"
 
-"Are you sure you want to leave? Type §e/q §6to confirm": "Вы точно хотите покинуть игру? Пишите &e/q &6, чтобы подтвердить."
+$1$ §ehas voted for §b§lNo Perks §emodifier!: "$1$ &ehas voted for &b&lNo Perks &emodifier!"
 
-"Armor": "Броня"
+$1$ §ehas voted for §b§lReflect Snowballs §emodifier!: "$1$ &eпроголосовал за Модификатор &b&lОтражение Снежков!"
 
-"Arrow Accuracy": "Точность попадания"
+$1$ §ekicked $2$ §efrom the party!: "$1$ &eбыл исключён $2$ &eиз команды!"
 
-"Arrow Bonus Perk": "Бонусные Стрелы"
+$1$§c is not your friend! Add $1$§c to friends with §e/f add $2$: "$1$&c ещё не ваш друг! Добавьте $1$&c в друзья с помощью &e/f add $2$"
 
-"Arrows Fired": "Стрел выстрелено"
+1 arrow on knockout!: +1 стрела за каждое убийство!
 
-"Arrows left": "Стрел осталось"
+<none>: <none>
 
-"A snowman which shoots enemies!": "Снеговик, который стреляет во врагов!"
+A chance to spawn creeper where your snowball lands: Шанс заспавнить крипера там, где приземлится ваш снежок.
 
-"Average Rating:": "Средний рейтинг:"
+A snowman which shoots enemies!: Снеговик, который стреляет во врагов!
 
-"Balanced Teams Modifier": "Модификатор \"Сбалансированные Команды\""
+Activated Modifiers: Активированные модификаторы
 
-"§7§lBecause of too much game changing modifiers activated this match will not affect your rating": "&7&lИз-за очень большого количества модификаторов этот матч не будет влиять на рейтинг."
+Allows to double jump by pressing the sneak button in mid-air: Позволяет использовать двойной прыжок с помощью нажатия кнопки [ПРИСЕСТЬ] в воздухе.
 
-"§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!": "&e&lБудьте коммандиром гигантской армии и победите всех вражеских королей, чтобы победить!"
+Animation is currently §a§lENABLED§e: "Анимация &a&lВКЛЮЧЕНА&e."
 
-"Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports": "Опасайтесь гравитации! Всегда стройте подпорки в шахтах и колонны в зданиях хотя бы на расстоянии 8 блоков."
+Animation is currently §c§lDISABLED§e: "Анимация &c&lВЫКЛЮЧЕНА&e."
 
-"Blindness Perk": "Слепота"
+Are you seriously going into a party with yourself? Invite someone!: Вы серьёзно собираетесь играть в команде самим с собой? Пригласите кого-нибудь!
 
-"Blocks snowballs":
-    " §e§l50% §7chance to break on first hit, §e§l100% §7on second hit": "Блокирует снежки. &e&l50% &7шанс сломаться после первого удара, &e&l100% &7после второго удара."
+Are you sure you want to leave? Type §e/q §6to confirm: "Вы точно хотите покинуть игру? Пишите &e/q &6, чтобы подтвердить."
 
-"blocks": "блоков"
+Armor: Броня
 
-"Bombs fired": "Выстрелено бомб"
+Arrow Accuracy: Точность попадания
 
-"Bombs placed": "Бомб поставлено"
+Arrow Bonus Perk: Бонусные Стрелы
 
-"Bonus snowballs on knockout": "Бонусные снежки за каждое убийство"
+Arrows Fired: Стрел выстрелено
 
-"Burning Stick Perk": "Горящая Палка"
+Arrows left: Стрел осталось
 
-"Burns §e§l$1$ §7of target's snowballs": "Сжигает &e&l$1$ &7снежков цели."
+'Average Rating:': 'Средний рейтинг:'
 
-"Burns target on hit": "Поджигает цель после удара."
+Balanced Teams Modifier: Модификатор "Сбалансированные Команды"
 
-"Can't find a player by the name of '$1$'": "Игрок с ником '$1$' не найден."
+Beware of gravity! Always build supports to your mines and buildings with at least 8 blocks of distance between supports: Опасайтесь гравитации! Всегда стройте подпорки в шахтах и колонны в зданиях хотя бы на расстоянии 8 блоков.
 
-"Can't shoot far because snowballs melt in the air": "Не может стрелять далеко, потому что снежки тают пока летят."
+Blindness Perk: Слепота
 
-"chance of creeper spawn": "шанс спавна крипера"
+blocks: блоков
 
-"chance of double experience": "шанс на двойной опыт"
+Blocks snowballs:
+    ' §e§l50% §7chance to break on first hit, §e§l100% §7on second hit': "Блокирует снежки. &e&l50% &7шанс сломаться после первого удара, &e&l100% &7после второго удара."
 
-"chance of double melons": "шанс удвоенных арбузов."
+Bombs fired: Выстрелено бомб
 
-"chance of §bEnchanted Snowball §7gain after kill": "шанс получить &bЗачарованный Снежок &7после убийства."
+Bombs placed: Бомб поставлено
 
-"chance of reflection": "шанс отражения."
+Bonus snowballs on knockout: Бонусные снежки за каждое убийство
 
-"Chance to blind opponent on hit": "Шанс ослепить противника, ударив его"
+Burning Stick Perk: Горящая Палка
 
-"Chance to burn opponent on hit": "Шанс поджечь противника, ударив его"
+Burns target on hit: Поджигает цель после удара.
 
-"Chance to not lose a life": "Шанс не потерять жизнь после смерти"
+Burns §e§l$1$ §7of target's snowballs: "Сжигает &e&l$1$ &7снежков цели."
 
-"chance to slow(Slowness $1$) opponent on hit": "шанс замедлить (Замедление $1$) оппонента после удара"
+Can't find a player by the name of '$1$': Игрок с ником '$1$' не найден.
 
-"Chance to slow(Slowness II) opponent on hit": "Шанс замедлить противника, ударив его (Замедление II)"
+Can't shoot far because snowballs melt in the air: Не может стрелять далеко, потому что снежки тают пока летят.
 
-"Checkers in Minecraft! Like the popular board game": "Шашки в Майнкрафте! Прямо как популярная настольная игра."
+? Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers
+: Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers
 
-"Checkers": "Шашек"
+chance of creeper spawn: шанс спавна крипера
 
-"Checkpoint": "Чекпоинт"
+chance of double experience: шанс на двойной опыт
 
-"Chests looted": "Сундуков открыто"
+chance of double melons: шанс удвоенных арбузов.
 
-"classes": "классов"
+chance of reflection: шанс отражения.
 
-"Click here to join $1$!": "Нажмите сюда, чтобы войти в игру $1$!"
+chance of §bEnchanted Snowball §7gain after kill: "шанс получить &bЗачарованный Снежок &7после убийства."
 
-"Click to accept the party invite!": "Нажмите, чтобы принять приглашение в команду!"
+Chance to blind opponent on hit: Шанс ослепить противника, ударив его
 
-"Click to buy!": "Нажмите, чтобы купить!"
+Chance to burn opponent on hit: Шанс поджечь противника, ударив его
 
-"[CLICK TO JOIN]": "[ЗАЙТИ]"
+Chance to not lose a life: Шанс не потерять жизнь после смерти
 
-"CLICK TO OPEN MENU": "ОТКРЫТЬ МЕНЮ"
+chance to slow(Slowness $1$) opponent on hit: шанс замедлить (Замедление $1$) оппонента после удара
 
-"CLICK TO PLAY": "ИГРАТЬ"
+Chance to slow(Slowness II) opponent on hit: Шанс замедлить противника, ударив его (Замедление II)
 
-"Click to rate this map": "Нажмите, чтобы оценить эту карту!"
+Checkers: Шашек
 
-"Click to undo this rating!": "Нажмите, чтобы отменить оценку!"
+Checkers in Minecraft! Like the popular board game: Шашки в Майнкрафте! Прямо как популярная настольная игра.
 
-"Click to vote for $1$ §amode!": "Нажмите, чтобы проголосовать за $1$ &aрежим!"
+Checkpoint: Чекпоинт
 
-"Click to vote for this map!": "Нажмите, чтобы проголосовать за карту!"
+Chests looted: Сундуков открыто
 
-"Click to vote for this mode!": "Нажмите, чтобы проголосовать за этот режим!"
+classes: классов
 
-"Click to vote for this modifier!": "Нажмите, чтобы проголосовать за этот модификатор!"
+Click here to join $1$!: Нажмите сюда, чтобы войти в игру $1$!
 
-"Complete parkour races, earn prizes and compete in leaderboards!": "Проходите паркур-испытания, зарабатывайте призы и соревнуйтесь с друзьями!"
+Click to accept the party invite!: Нажмите, чтобы принять приглашение в команду!
 
-"Cooldown": "Перезагрузка"
+Click to buy!: Нажмите, чтобы купить!
 
-"Cracked players can join our server! They can apply at $1$ §rto join": "Вы можете присоединяться к нашему серверу с помощью нелицензионных аккаунтов! Подайте заявку на $1$&r."
+CLICK TO OPEN MENU: ОТКРЫТЬ МЕНЮ
 
-? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!"
-: "Творческий мир с множеством полезных функций! WorldEdit, VoxelSniper, goBrush, goPaint, огромная база голов игроков и даже свой язык программирования для создания приключенческих карт!"
+CLICK TO PLAY: ИГРАТЬ
 
-"Creeper Chance Perk": "Шанс Спавна Крипера"
+Click to rate this map: Нажмите, чтобы оценить эту карту!
 
-"Crystal": "Кристалл"
+Click to undo this rating!: Нажмите, чтобы отменить оценку!
 
-"Current": "Текущий"
+Click to vote for $1$ §amode!: "Нажмите, чтобы проголосовать за $1$ &aрежим!"
 
-"Damage Dealt": "Урона нанесено"
+Click to vote for this map!: Нажмите, чтобы проголосовать за карту!
 
-"Damage Taken": "Урона получено"
+Click to vote for this mode!: Нажмите, чтобы проголосовать за этот режим!
 
-"Day": "День"
+Click to vote for this modifier!: Нажмите, чтобы проголосовать за этот модификатор!
 
-"Deaths": "Смертей"
+Complete parkour races, earn prizes and compete in leaderboards!: Проходите паркур-испытания, зарабатывайте призы и соревнуйтесь с друзьями!
 
-"DEFEAT": "ПОРАЖЕНИЕ"
+Cooldown: Перезагрузка
 
-"Defend your castle, attack other castles, command your army and become the best commander!": "Защищайте свой замок, атакуйте противников, командуйте своей армией и станьте лучшим полководцем!"
+Cracked players can join our server! They can apply at $1$ §rto join: "Вы можете присоединяться к нашему серверу с помощью нелицензионных аккаунтов! Подайте заявку на $1$&r."
 
-"Destroying other player creations or ruining them in any way is not allowed!": "Уничтожение созданий других игроков и их порча любым другим способом запрещена!"
+? Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even a custom programming language to create your own custom maps!
+: Творческий мир с множеством полезных функций! WorldEdit, VoxelSniper, goBrush, goPaint, огромная база голов игроков и даже свой язык программирования для создания приключенческих карт!
 
-"Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed": "Уничтожение окружающего мира, создавая дыры в земле, столбы 1x1 или любым другим способом запрещено."
+? Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!
+: Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!
 
-"Did you know?": "Знали ли вы?"
+Creeper Chance Perk: Шанс Спавна Крипера
 
-"§e§lDifferent elemental classes compete with each other in bow-fighting abilities":
-    " Use fasciniting abilities of your class to defeat other players and win!": "&e&lРазличные элементальные классы соревнуются друг с другом в умениях стрелять из лука. Используйте зрелищные способности, чтобы уничтожить других игроков и победить!"
+Crystal: Кристалл
 
-"Dissappears after §e§l10s §7of landing": "Исчезает после &e&l10 секунд &7падения."
+Current: Текущий
 
-"Double Emeralds": "Удвоенные Изумруды"
+Damage Dealt: Урона нанесено
 
-"Double Jump Modifier": "Модификатор \"Двойной Прыжок\""
+Damage Taken: Урона получено
 
-"Double Melons Perk": "Удвоенные арбузы"
+Day: День
 
-"Emeralds total earned": "Всего изумрудов получено"
+Deaths: Смертей
 
-"Emeralds": "Изумруды"
+DEFEAT: ПОРАЖЕНИЕ
 
-"Emerald": "Изумруд"
+Defend your castle, attack other castles, command your army and become the best commander!: Защищайте свой замок, атакуйте противников, командуйте своей армией и станьте лучшим полководцем!
 
-"§bEnchanted §b§lDiamond Cannon": "&bЗачарованная &b&lАлмазная Пушка"
+Destroying other player creations or ruining them in any way is not allowed!: Уничтожение созданий других игроков и их порча любым другим способом запрещена!
 
-"Enchanted Snowball Perk": "Улучшение \"Зачарованный Снежок\""
+Destroying the good look of terrain by making holes, 1x1 towers and any other way which makes it look bad is not allowed: Уничтожение окружающего мира, создавая дыры в земле, столбы 1x1 или любым другим способом запрещено.
 
-"§bEnchanted §7Stone Cannon": "&bЗачарованная &7Каменная Пушка"
+Did you know?: Знали ли вы?
 
-"Enchanted §aWood Cannon": "Зачарованная &aДеревянная Пушка"
+Disables all perks: Disables all perks.
 
-"ENEMY TEAM": "ВРАЖЕСКАЯ КОМАНДА"
+Dissappears after §e§l10s §7of landing: "Исчезает после &e&l10 секунд &7падения."
 
-"Every player gets 3 lives, eliminate enemy team to win": "Каждый игрок получает 3 жизни, уничтожьте вражескую команду, чтобы победить."
+Double Emeralds: Удвоенные Изумруды
 
-"Every player gets 3 lives, eliminate other players to win": "Каждый игрок получает 3 жизни, уничтожьте всех других игроков, чтобы победить."
+Double Jump Modifier: Модификатор "Двойной Прыжок"
 
-"Experience Bonus Perk": "Бонусный Опыт"
+Double Melons Perk: Удвоенные арбузы
 
-"Explode your way to other players and explode them!": "Взрывайте себе путь к другим игрокам и делайте то же самое с ними!"
+Emerald: Изумруд
 
-"Exploring the void may reveal mysterious secrets!": "Exploring the void may reveal mysterious secrets!"
+Emeralds: Изумруды
 
-"Explosion Radius": "Радиус взрыва"
+Emeralds total earned: Всего изумрудов получено
 
-"Falling Blocks Animation": "Анимация падающих блоков."
+Enchanted Snowball Perk: Улучшение "Зачарованный Снежок"
 
-"Fast Snowballs Modifier": "Модификатор \"Быстрые Снежки\""
+Enchanted §aWood Cannon: "Зачарованная &aДеревянная Пушка"
 
-"Feel free to invite other players by using the chat": "Не стесняйтесь приглашать других игроков в игру с помощью чата!"
+ENEMY TEAM: ВРАЖЕСКАЯ КОМАНДА
 
-"Final Kills": "Финальных убийств"
+Every player gets 3 lives, eliminate enemy team to win: Каждый игрок получает 3 жизни, уничтожьте вражескую команду, чтобы победить.
 
-"Flamethrower": "Огнемёт"
+Every player gets 3 lives, eliminate other players to win: Каждый игрок получает 3 жизни, уничтожьте всех других игроков, чтобы победить.
 
-"Free!": "Бесплатно!"
+Experience Bonus Perk: Бонусный Опыт
 
-"   §2§l--=-= §a§lFriend Commands §2§l=-=--": "   &2&l--=-= &a&lКоманды типа Friend &2&l=-=--"
+Explode your way to other players and explode them!: Взрывайте себе путь к другим игрокам и делайте то же самое с ними!
 
-"Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!": "Дружелюбное выживание с технологиями и магией! Исследуйте множество измерений, выращивайте красивые деревья и открывайте для себя больше нового!"
+Exploring the void may reveal mysterious secrets!: Exploring the void may reveal mysterious secrets!
 
-"GAME ENDED IN A DRAW": "НИЧЬЯ"
+Explosion Radius: Радиус взрыва
 
-"GAME END": "КОНЕЦ ИГРЫ"
+Falling Blocks Animation: Анимация падающих блоков.
 
-"Game has started!": "Игра началась!"
+Fast Snowballs Modifier: Модификатор "Быстрые Снежки"
 
-"Game is starting": "Игра начинается"
+Feel free to invite other players by using the chat: Не стесняйтесь приглашать других игроков в игру с помощью чата!
 
-"Game starts in §e§l$1$ §eseconds": "Игра начнётся через &e&l$1$ &eсекунд."
+Final Kills: Финальных убийств
 
-"Game starts in": "Игра начинается через"
+Flamethrower: Огнемёт
 
-"Game Statistics": "Игровые статистики"
+Free!: Бесплатно!
 
-"Game time": "Время игры"
+Friendly survival with tech and magic! Explore many dimensions, grow beautiful trees and more!: Дружелюбное выживание с технологиями и магией! Исследуйте множество измерений, выращивайте красивые деревья и открывайте для себя больше нового!
 
-"Game will end in §e§l$1$ §eminutes": "Игра закончится через &e&l$1$ &eминут."
+GAME END: КОНЕЦ ИГРЫ
 
-"Game will end in §e§l$1$ §eminute": "Игра закончится через &e&l$1$ &eминуту."
+GAME ENDED IN A DRAW: НИЧЬЯ
 
-"§eGame will start in §e§l$1$ §eseconds": "&eНачало через &e&l$1$ &eсекунд."
+Game has started!: Игра началась!
 
-"§eGame will start in §e§l$1$ §esecond": "&eНачало через &e&l$1$ &eсекунду."
+Game is starting: Игра начинается
 
-"Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!": "Собирайте ресурсы, готовьтесь к битве, защищайте свой Кристалл Жизни, атакуйте другие кристаллы и побеждайте!"
+Game starts in: Игра начинается через
 
-"Gravity has no effect on blocks here, so you can build in the sky!": "Здесь гравитация не действует, так что вы можете строить в небе!"
+Game starts in §e§l$1$ §eseconds: "Игра начнётся через &e&l$1$ &eсекунд."
 
-"   §2§l   --=-= §a§lGroup Commands §2§l=-=--": "   &2&l   --=-= &a&lКоманды типа Group &2&l=-=--"
+Game Statistics: Игровые статистики
 
-"Have fun!": "Развлекайтесь!"
+Game time: Время игры
 
-"Health": "Здоровье"
+Game will end in §e§l$1$ §eminute: "Игра закончится через &e&l$1$ &eминуту."
 
-"Here you can find games which can be played both alone and with friends!": "Здесь вы можете найти игры, в которые можно играть как и одному, так и с друзьями!"
+Game will end in §e§l$1$ §eminutes: "Игра закончится через &e&l$1$ &eминут."
 
-"Here you can find games which can be played only with friends!": "Здесь вы можете найти игры, в которые можно играть только с друзьями!"
+Gather resources, prepare for fight, protect your Crystal of Life, attack other crystals and win the game!: Собирайте ресурсы, готовьтесь к битве, защищайте свой Кристалл Жизни, атакуйте другие кристаллы и побеждайте!
 
-? "Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!"
-: "Здесь находятся минигры, в которые можно играть в инвентаре, они отчичаются от других игр тем, что они не были созданы нами, это всего лишь скачанный плагин, но они всё равно очень увлекательны!"
+Gravity has no effect on blocks here, so you can build in the sky!: Здесь гравитация не действует, так что вы можете строить в небе!
 
-"Here you can use various abilities to explode the map and other players!": "Здесь вы можете использовать различные возможности, чтобы взрывать карту и других игроков!"
+Have fun!: Развлекайтесь!
 
-"Hits Taken": "Ударов получено"
+Health: Здоровье
 
-"Hits": "Ударов"
+Here you can find games which can be played both alone and with friends!: Здесь вы можете найти игры, в которые можно играть как и одному, так и с друзьями!
 
-"Hit to level up your stick and knock other players in to the void!": "Ударяйте игроков для улучшения вашего оружия и сталкивайте их в бездну!"
+Here you can find games which can be played only with friends!: Здесь вы можете найти игры, в которые можно играть только с друзьями!
 
-"hours": "часов"
+? Here you can find little GUI minigames, these minigames unlike others, aren't made by us, it's just a downloaded plugin, but they are still fun!
+: Здесь находятся минигры, в которые можно играть в инвентаре, они отчичаются от других игр тем, что они не были созданы нами, это всего лишь скачанный плагин, но они всё равно очень увлекательны!
 
-"§b§lHow To Play": "&b&lКак играть"
+Here you can use various abilities to explode the map and other players!: Здесь вы можете использовать различные возможности, чтобы взрывать карту и других игроков!
 
-"If you want to get out of the §eSpectator Mode §ctype §e/q": "Если вы хотите выйти из &eрежима наблюдателя &c, пишите &e/q&c."
+Hit to level up your stick and knock other players in to the void!: Ударяйте игроков для улучшения вашего оружия и сталкивайте их в бездну!
 
-"If you want to leave the game type §e/q§6": "Чтобы покинуть игру, напишите &e/q&6."
+Hits: Ударов
 
-"If you want to spectate other player type §e/stp <player>": "Если вы хотите наблюдать за другими игроками, пишите &e/stp <ник игрока>&c."
+Hits Taken: Ударов получено
 
-"Immortality Perk": "Бессмертие"
+hours: часов
 
-"Increases the chance to reflect a snowball to 100%": "Увеличивает шанс отразить снежок до 100%."
+How To Play: How To Play
 
-"Increases the damage of snowballs to 10 hearts": "Увеличивает урон от снежков до 10 сердец."
+If you want to get out of the §eSpectator Mode §ctype §e/q: "Если вы хотите выйти из &eрежима наблюдателя &c, пишите &e/q&c."
 
-"Increases your speed by $1$": "Увеличивает вашу скорость на $1$"
+If you want to leave the game type §e/q§6: "Чтобы покинуть игру, напишите &e/q&6."
 
-"Instakill Snowballs Modifier": "Модификатор \"Смертельные Снежки\""
+If you want to spectate other player type §e/stp <player>: "Если вы хотите наблюдать за другими игроками, пишите &e/stp <ник игрока>&c."
 
-"Invalid code": "Неправильный код"
+Immortality Perk: Бессмертие
 
-"§7§lIron Cannon": "&7&lЖелезная Пушка"
+Increases the chance to reflect a snowball to 100%: Увеличивает шанс отразить снежок до 100%.
 
-"It's very hot in Mustafar, you gonna need to drink twice as much water": "В Мустафаре очень жарко, вам нужно пить в два раза больше воды."
+Increases the damage of snowballs to 10 hearts: Увеличивает урон от снежков до 10 сердец.
 
-"Jumps": "Прыжков"
+Increases your speed by $1$: Увеличивает вашу скорость на $1$
 
-"Killer": "Убийца"
+Instakill Snowballs Modifier: Модификатор "Смертельные Снежки"
 
-"Kills any normal opponent, even with armor": "Убивает любого нормального оппонента, даже с бронёй."
+Invalid code: Неправильный код
 
-"Killstreak": "Серия убийств"
+It's very hot in Mustafar, you gonna need to drink twice as much water: В Мустафаре очень жарко, вам нужно пить в два раза больше воды.
 
-"Kills": "Убийства"
+Jumps: Прыжков
 
-"King": "Король"
+Killer: Убийца
 
-"§e§lKnock other players off the platform":
-    " As you hit players, you deal more knockback": "&e&lСталкивайте других игроков с платформы. Чем больше вы наносите ударов, тем сильнее вы отталкиваете других игроков."
+Kills: Убийства
 
-"Level": "Уровень"
+Kills any normal opponent, even with armor: Убивает любого нормального оппонента, даже с бронёй.
 
-"List of Games": "Список игр"
+Killstreak: Серия убийств
 
-"Lives": "Жизней"
+King: Король
 
-? "Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!"
-: "Обкрадывайте сундуки, сражайтесь с другими игроками, находите случайно сгенерированный лут с интересными способностями и кидайте яйца спавна мобов как покеболы!"
+Level: Уровень
 
-"§e§lLoot randomly generated chests with unique items":
-    " Use them to eliminate your enemies":
-        " Be the only survivor to win": "&e&lОбкрадывайте сундуки с уникальными вещами. Используйте их, чтобы убивать ваших противников. Будьте единственным выжившим, чтобы победить."
+List of Games: Список игр
 
-"Losses": "Поражений"
+Lives: Жизней
 
-"Makes all of your snowballs burn": "Делает все ваши снежки поджигающими."
+LOCKED: LOCKED
 
-"Makes your snowballs super fast": "Делает ваши снежки невероятно быстрыми."
+? Loot chests, fight other players, find randomly generated loot with interesting abilities and throw mob eggs like pokeballs!
+: Обкрадывайте сундуки, сражайтесь с другими игроками, находите случайно сгенерированный лут с интересными способностями и кидайте яйца спавна мобов как покеболы!
 
-"Max level reached": "Максимальный уровень достигнут"
+Losses: Поражений
 
-"MAX LEVEL:": "МАКС. УРОВЕНЬ:"
+Makes all of your snowballs burn: Делает все ваши снежки поджигающими.
 
-"Melons earned": "Арбузов получено"
+Makes your snowballs super fast: Делает ваши снежки невероятно быстрыми.
 
-"Melons spent": "Арбузов потрачено"
+Max level reached: Максимальный уровень достигнут
 
-"Melons": "Арбузов"
+'MAX LEVEL:': 'МАКС. УРОВЕНЬ:'
 
-"Melon": "Арбуз"
+Melon: Арбуз
 
-"Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!": "Копайте руды, улучшайте кирки, покупайте улучшения и открывайте новые пещеры!"
+Melons: Арбузов
 
-"minutes": "минут"
+Melons earned: Арбузов получено
 
-"Mode": "Режим"
+Melons spent: Арбузов потрачено
 
-"Move time left": "Времени на ход осталось"
+Mine ores, upgrade pickaxes, buy awesome upgrades and unlock new caves!: Копайте руды, улучшайте кирки, покупайте улучшения и открывайте новые пещеры!
 
-"Must be at lower floor": "Нужно быть на этаже ниже"
+minutes: минут
 
-"Must not have any Super Jumps": "Нельзя получить Супер Прыжок"
+Mode: Режим
 
-"New Rating": "Новый рейтинг"
+Move time left: Времени на ход осталось
 
-"NEW RECORD!": "НОВЫЙ РЕКОРД!"
+Must be at lower floor: Нужно быть на этаже ниже
 
-"NEW!": "НОВОЕ!"
+Must not have any Super Jumps: Нельзя получить Супер Прыжок
 
-"Next Super Jump In": "Супер Прыжок через"
+New Rating: Новый рейтинг
 
-"Next": "Следующий"
+NEW RECORD!: НОВЫЙ РЕКОРД!
 
-"Night": "Ночь"
+NEW!: НОВОЕ!
 
-"No Compass Modifier": "Модификатор \"Отключение Компаса\""
+Next: Следующий
 
-"Not enough melons!": "Недостаточно арбузов!"
+Next Super Jump In: Супер Прыжок через
 
-"Note:": "НО:"
+Night: Ночь
 
-"Now blocks will start breaking when you step on them!": "Теперь блоки под вами будут ломаться!"
+No Compass Modifier: Модификатор "Отключение Компаса"
 
-"Old Record": "Последний Рекорд"
+No Perks Modifier: No Perks Modifier
 
-"Parkour Course": "Паркур Испытание"
+Not enough melons!: Недостаточно арбузов!
 
-? "§e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further"
-: "&e&lУчавствуйте в грандиозной битве снежками и используйте улучшение, чтобы облегчить себе существование! Перерыв между бросками позволяет кидать снежки дальше."
+'Note:': 'НО:'
 
-"   §2§l   --=-= §a§lParty Commands §2§l=-=--": "   &2&l   --=-= &a&lКоманды типа Party &2&l=-=--"
+Now blocks will start breaking when you step on them!: Теперь блоки под вами будут ломаться!
 
-"Party invite from $1$ §ehas expired": "Срок приглашения от игрока $1$ &eв команду истёк."
+Old Record: Последний Рекорд
 
-"Party Leader": "Владелец Команды"
+Parkour Course: Паркур Испытание
 
-"Party Members": "Члены Команды"
+Party invite from $1$ §ehas expired: "Срок приглашения от игрока $1$ &eв команду истёк."
 
-"Party of §a$1$ §cis not open for public join": "Команда игрока &a$1$ &cприватная."
+Party Leader: Владелец Команды
 
-"§e§lPlace bombs and explode blocks around it in a + shape":
-    " Use powerups to take advantage over opponents": "&e&lРасставляйте бомбы и взрывайте блоки вокруг её в форме креста [+]. Используйте усиления для того, чтобы получить преимущество над оппонентами."
+Party Members: Члены Команды
 
-"   §2§l   --=-= §a§lPlayer Commands §2§l=-=--": "   &2&l   --=-= &a&lКоманды для игроков &2&l=-=--"
+Party of §a$1$ §cis not open for public join: "Команда игрока &a$1$ &cприватная."
 
-"Player died $1$ times in a row without kills": "Игрок был убит $1$ раз подряд без убийств."
+Play various classes with different abilities and use your bow skills to win in many different modes!: Играйте различными классами с разными способностями и используйте свои умения для того, чтобы выйграть в множестве различных режимов!
 
-"Player is waiting": "Игроков ожидают"
+Player died $1$ times in a row without kills: Игрок был убит $1$ раз подряд без убийств.
 
-"Player not found": "Игрок не найден"
+Player is waiting: Игроков ожидают
 
-"Players are waiting": "Игроков ожидают"
+Player not found: Игрок не найден
 
-"Players in": "Всего игроков"
+Player was on $1$ killstreak: Игрок был на серии убийств из $1$ убийств.
 
-"Players left": "Игроков осталось"
+Players: Игроков
 
-"Players Waiting": "Игроков ожидают"
+Players are waiting: Игроков ожидают
 
-"Players": "Игроков"
+Players in: Всего игроков
 
-"Player was on $1$ killstreak": "Игрок был на серии убийств из $1$ убийств."
+Players left: Игроков осталось
 
-"Play various classes with different abilities and use your bow skills to win in many different modes!": "Играйте различными классами с разными способностями и используйте свои умения для того, чтобы выйграть в множестве различных режимов!"
+Players Waiting: Игроков ожидают
 
-"Please rate this map by clicking:": "Пожалуйста, оцените эту карту, нажав:"
+'Please rate this map by clicking:': 'Пожалуйста, оцените эту карту, нажав:'
 
-"Please specify group name!": "Пожалуйста укажите название группы!"
+Please specify group name!: Пожалуйста укажите название группы!
 
-"Please specify player name!": "Пожалуйста укажите ник игрока!"
+Please specify player name!: Пожалуйста укажите ник игрока!
 
-"Plot Name": "Название участка"
+Plot Name: Название участка
 
-"Plot Owner": "Владелец"
+Plot Owner: Владелец
 
-"Points": "Очков"
+Points: Очков
 
-"Powerups": "Усиления"
+Powerups: Усиления
 
-"Price:": "Цена:"
+'Price:': 'Цена:'
 
-"Quickly test your skill by fighting other players with a huge variety of modifiers!": "Испытывайте свои умения, сражайтесь с другими игроками и используйте огромный ассортимент различных модификаторов!"
+Quickly test your skill by fighting other players with a huge variety of modifiers!: Испытывайте свои умения, сражайтесь с другими игроками и используйте огромный ассортимент различных модификаторов!
 
-"Radar Breaker": "Помехи на радаре."
+Radar Breaker: Помехи на радаре.
 
-"Rain is able to refill water sources": "Дождь может восполнять источники воды."
+Rain is able to refill water sources: Дождь может восполнять источники воды.
 
-"§6§lRapid Fire §bpowerup has spawned at middle of the map!": "Усиление&6&l Серия Выстрелов &bпоявилось в центре карты!"
+Rating: Рейтинг
 
-"Rating": "Рейтинг"
+Reflect Snowballs Modifier: Модификатор "Отражение Снежков"
 
-"Reflection Perk": "Отражение"
+Reflection Perk: Отражение
 
-"Reflects a snowball, reducing damage taken by $1$": "Отражает снежок, уменьшая урон на $1$."
+Reflects a snowball, reducing damage taken by $1$: Отражает снежок, уменьшая урон на $1$.
 
-"Reflect Snowballs Modifier": "Модификатор \"Отражение Снежков\""
+Regenerates your health $1$: Регенерирует ваше здоровье на $1$
 
-"Regenerates your health $1$": "Регенерирует ваше здоровье на $1$"
+Regeneration: Регенерация
 
-"Regeneration": "Регенерация"
+Removes compass from the game: Отключает компас.
 
-"Removes compass from the game": "Отключает компас."
+Resources: Ресурсов
 
-"Resources": "Ресурсов"
+Respawning in: Воскрешение через
 
-"Respawning in": "Воскрешение через"
+Right click to activate game modifiers!: Right click to activate game modifiers!
 
-"Server rules can be read in §a/rules§e, make sure to follow them!": "Правила сервера можно прочитать в &a/rules&e, не забывайте их соблюдать!"
+Server rules can be read in §a/rules§e, make sure to follow them!: "Правила сервера можно прочитать в &a/rules&e, не забывайте их соблюдать!"
 
-"§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!": "&e&lСтреляйте по курицам и получите больше всего убийств, чтобы победить! Опасность: злые зомби и криперы!"
+Shoot chickens as fast as you can!: Стреляйте в цыплят настолько быстро, насколько можете!
 
-"Shoot chickens as fast as you can!": "Стреляйте в цыплят настолько быстро, насколько можете!"
+Shoot other players with snowballs, buy powerups with melons and play in many different modes!: Кидайте в других игроков снежки, покупайте мгновенные улучшения за арбузы и играйте во множество различных режимов!
 
-"Shoot other players with snowballs, buy powerups with melons and play in many different modes!": "Кидайте в других игроков снежки, покупайте мгновенные улучшения за арбузы и играйте во множество различных режимов!"
+Slowballs: Замедляжки
 
-"§e§lShoot TNT with your cannon and knock opponents to the void, or explode them":
-    " Save yourself from hazards using Super Jumps":
-        " [Sneak]": "&e&lСтреляйте динамитом из вашей пушки и сталкивайте ваших врагов в бездну или взрывайте их! Избегайте опасностей с помощью Супер прыжков. [Присесть]"
+Slowness I on hit: Замедление I после удара
 
-"Slowballs": "Замедляжки"
+Slowness Perk: Замедление
 
-"Slowness I on hit": "Замедление I после удара"
+Sneak to use: Супер Прыжков осталось
 
-"Slowness Perk": "Замедление"
+Snowball Accuracy: Точность попадания
 
-"Sneak to use": "Супер Прыжков осталось"
+Snowballs fired: Снежков кинуто
 
-"Snowball Accuracy": "Точность попадания"
+Snowman: Снеговик
 
-"Snowballs fired": "Снежков кинуто"
+Snowman Perk: Снеговик
 
-"Snowman Perk": "Снеговик"
+Sorts teams based on kills count for fairness: Распределяем игроков по командам, основываясь на количестве убийств.
 
-"Snowman": "Снеговик"
+Spawnpoint Switch: Переключать точки спавна
 
-"Sorts teams based on kills count for fairness": "Распределяем игроков по командам, основываясь на количестве убийств."
+Speed: Скорость
 
-"Spawnpoint Switch": "Переключать точки спавна"
+Spleef + TNT = Spleent! Explode other players into the void!: Сплиф + ТНТ = Сплент! Взрывайте других игроков или отправляйте их в бездну!
 
-"Speed": "Скорость"
+Statistics: Статистики
 
-"Spleef + TNT = Spleent! Explode other players into the void!": "Сплиф + ТНТ = Сплент! Взрывайте других игроков или отправляйте их в бездну!"
+Succesfully sent party invite to $1$!: Приглашение вступить в команду успешно отправлено игроку $1$!
 
-"Statistics": "Статистики"
+Super Jump: Супер Прыжок
 
-"§7Stone Cannon": "&7Каменная Пушка"
+Super Jumps: Супер Прыжков
 
-"Succesfully sent party invite to $1$!": "Приглашение вступить в команду успешно отправлено игроку $1$!"
+Survival based on old Minecraft versions between alpha 1:
+    2 and beta 1:
+        '7':
+            '3':
+                '||§cWARNING: §7NOSTALGIA IS A CERTAINTY': "Выживание, основанное на старых версиях Майкрафта между alpha 1.2 и beta 1.7.3.||&cПРЕДУПРЕЖДЕНИЕ: &7НОСТАЛЬГИЯ НЕОТЪЕМЛЕМА."
 
-"Super Jumps": "Супер Прыжков"
+Survival Rules: Правила выживания
 
-"Super Jump": "Супер Прыжок"
+Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do: Ругаться абсолютно запрещено на нашем сервер! Если вы нарушите это правило, вы автоматически подвергнетесь наказанию.
 
-"Survival based on old Minecraft versions between alpha 1":
-    "2 and beta 1":
-        "7":
-            "3":
-                "||§cWARNING: §7NOSTALGIA IS A CERTAINTY": "Выживание, основанное на старых версиях Майкрафта между alpha 1.2 и beta 1.7.3.||&cПРЕДУПРЕЖДЕНИЕ: &7НОСТАЛЬГИЯ НЕОТЪЕМЛЕМА."
+Team: Команда
 
-"Survival Rules": "Правила выживания"
+Thank you for rating this map: Спасибо за то, что вы оценили эту карту!
 
-"Team": "Команда"
+The Knockback Stick: Палка-Толкалка
 
-"Thank you for rating this map": "Спасибо за то, что вы оценили эту карту!"
+'There are many special recipes! Check them out in: §e/recipes§r': "Существует множество особых рецептов крафта! Вы всегда можете просмотреть список здесь: &e/recipes&r"
 
-"The Knockback Stick": "Палка-Толкалка"
+There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$: Существует уникальный язык программирования, специально созданный для Creative World-а, с его помощью вы можете создавать простые особенности на своей территории. $1$
 
-"There are many special recipes! Check them out in: §e/recipes§r": "Существует множество особых рецептов крафта! Вы всегда можете просмотреть список здесь: &e/recipes&r"
+This game can be played with only §e§l2 §aplayers: "В эту игру можно играть только &e&lвдвоём &a."
 
-"There is a custom programming language made for Creative World, with it you can create simple features for your plot! $1$": "Существует уникальный язык программирования, специально созданный для Creative World-а, с его помощью вы можете создавать простые особенности на своей территории. $1$"
+This game can be played with §e§l2§a§l+ §aplayers: "В эту игру можно играть с &e&l2&a&l+ &aигроками."
 
-"§aThis game can be played §e§lalone§a": "&aВ эту игру можно играть &e&lодному&a."
-
-"This game can be played with §e§l2§a§l+ §aplayers": "В эту игру можно играть с &e&l2&a&l+ &aигроками."
-
-"This game can be played with only §e§l2 §aplayers": "В эту игру можно играть только &e&lвдвоём &a."
-
-? "This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players"
+? This game is starting early, You will not earn Emeralds and your stats, achievements won't count if it starts with less than §e§l$1$ §6players
 : "Эта игра начинается раньше, вы не будете получать изумруды, ваши статистики не будут повышаться и вы не будете получать достижения, если игра начнётся меньше, чем с &e&l$1$ &6игроками."
 
-"This power-up is already active!": "Это усиление уже активно!"
+This power-up is already active!: Это усиление уже активно!
 
-"This round of 1v1 did not meet the requirements for win rewards and rating changes": "Этот раунд 1v1 не удовлетворяет требованиям для получения наград за победу или изменения рейтинга."
+This round of 1v1 did not meet the requirements for win rewards and rating changes: Этот раунд 1v1 не удовлетворяет требованиям для получения наград за победу или изменения рейтинга.
 
-"Throwable Cobweb": "Кидательная паутина"
+Throwable Cobweb: Кидательная паутина
 
-"Time elapsed": "Времени прошло"
+Time elapsed: Времени прошло
 
-"Time since last update": "Последнее обновление"
+Time since last update: Последнее обновление
 
-"Total play time": "Общее время игры"
+Total play time: Общее время игры
 
-"Troops alive": "Войнов живо"
+Troops: Войнов
 
-"Troops killed": "Войнов убито"
+Troops alive: Войнов живо
 
-"Troops lost": "Войнов потеряно"
+Troops killed: Войнов убито
 
-"Troops": "Войнов"
+Troops lost: Войнов потеряно
 
-"Turns your snowballs into slowballs": "Превращает ваши снежки в замедляжки."
+Turn: Ход
 
-"Turn": "Ход"
+Turns your snowballs into slowballs: Превращает ваши снежки в замедляжки.
 
-"UNLOCKED": "РАЗБЛОКИРОВАНО"
+UNLOCKED: РАЗБЛОКИРОВАНО
 
-"Use /agree $1$  to agree with survival rules": "Используйте /agree $1$, чтобы согласиться с правилами выживания."
+Use /agree $1$  to agree with survival rules: Используйте /agree $1$, чтобы согласиться с правилами выживания.
 
-"Use F5 + high FOV to get a better view of the game field!": "Используйте F5 + высокий FOV, чтобы лучше видеть игровое поле!"
+Use F5 + high FOV to get a better view of the game field!: Используйте F5 + высокий FOV, чтобы лучше видеть игровое поле!
 
-? "§e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory"
-: "&e&lИспользуйте время на подготовку, чтобы получить как можно больше ресурсов, затем защищайте свой кристалл жизни и сражайтесь за победу!"
+VICTORY: ПОБЕДА
 
-"VICTORY": "ПОБЕДА"
+Visitors: Visitors
 
-"Votes:": "Голосов:"
+'Votes:': 'Голосов:'
 
-"[VOTE]": "[ПРОГОЛОСОВАТЬ]"
+Waiting Players: Игроков ждут
 
-"Waiting Players": "Игроков ждут"
+Waiting Queue Status: Статус ожидания
 
-"Waiting Queue Status": "Статус ожидания"
+Warped §e§l$1$ §eparty members to your location!: "Все члены &e&l$1$ &eгруппы телепортированы в вашу локацию!"
 
-"Warped §e§l$1$ §eparty members to your location!": "Все члены &e&l$1$ &eгруппы телепортированы в вашу локацию!"
+Water is finite here, so you are going to need to build farms close to big sources of water: Water is finite here, so you are going to need to build farms close to big sources of water.
 
-"Water is finite here, so you are going to need to build farms close to big sources of water": "Water is finite here, so you are going to need to build farms close to big sources of water."
+Wins: Побед
 
-"Wins Percentage": "Процент побед"
+Wins Percentage: Процент побед
 
-"Wins": "Побед"
+Wood Cannon: Деревянная Пушка
 
-"Wood Cannon": "Деревянная Пушка"
+You already have voted for a map!: Вы уже проголосовали за карту!
 
-"You already have voted for a map!": "Вы уже проголосовали за карту!"
+You are already in a party of §a$1$§c!: "Вы уже находитесь в команде игрока &a$1$&c!"
 
-"You are already in a party of §a$1$§c!": "Вы уже находитесь в команде игрока &a$1$&c!"
+You are already on $1$ §cteam!: "Вы уже в $1$ &cкомнаде!"
 
-"You are already on $1$ §cteam!": "Вы уже в $1$ &cкомнаде!"
+You are leader of a party, use §e/party disband §cto be able to do this: "Вы - лидер команды, используйте &e/party disband &c, чтобы это сделать."
 
-"You are leader of a party, use §e/party disband §cto be able to do this": "Вы - лидер команды, используйте &e/party disband &c, чтобы это сделать."
+You are now a member of $1$ §eteam!: "Теперь вы член $1$ &eкоманды!"
 
-"You are now a member of $1$ §eteam!": "Теперь вы член $1$ &eкоманды!"
+You are now Juggernaut!: Теперь вы Джаггернаут!
 
-"You are now Juggernaut!": "Теперь вы Джаггернаут!"
+You aren't in a party!: Вы не находитесь в команде!
 
-"You aren't in a party!": "Вы не находитесь в команде!"
+You aren't the leader of the party!: Вы не владелец вашей команды!
 
-"You aren't the leader of the party!": "Вы не владелец вашей команды!"
+You can buy this item only once per life: You can buy this item only once per life.
 
-"You can chat only once every 1":
-    "5 second!": "Вы можете писать в чат только каждые 1.5 секунды!"
+You can chat only once every 1:
+    5 second!: Вы можете писать в чат только каждые 1.5 секунды!
 
-"You can die from cold during night in §bHoth§r if you do not have leather armor": "Вы можете умереть от холода ночью в &bHoth-е&r, если у вас нету кожаной брони."
+You can die from cold during night in §bHoth§r if you do not have leather armor: "Вы можете умереть от холода ночью в &bHoth-е&r, если у вас нету кожаной брони."
 
-"You can find Friendly Survival wiki in: $1$": "Вы можете найти википедию по Friendly Survival-у здесь: $1$"
+'You can find Friendly Survival wiki in: $1$': 'Вы можете найти википедию по Friendly Survival-у здесь: $1$'
 
-"You can lock your containers and doors with signs, if you want to protect land you can join a group or create one": "Вы можете запирать ваши контейнеры и двери с помощью табличек, а если вы хотите защитить территорию, то вступите в группу или создайте одну."
+You can lock your containers and doors with signs, if you want to protect land you can join a group or create one: Вы можете запирать ваши контейнеры и двери с помощью табличек, а если вы хотите защитить территорию, то вступите в группу или создайте одну.
 
-"You cannot have more than one §fSnowman §cin inventory at the same time": "У вас в инвентаре одновременно не может находиться более одного &fСнеговика&c."
+You can only buy this in game!: You can only buy this in game!
 
-"You cannot party warp into this game!": "Вы не можете Party-телепортироваться в эту игру!"
+You can only buy this in-game!: Вы можете покупать это только внутри игры!
 
-"You can only buy this in-game!": "Вы можете покупать это только внутри игры!"
+You can only vote when there's enough players to start the game: Вы можете голосовать только тогда, когда в игре достаточно игроков.
 
-"You can only vote when there's enough players to start the game": "Вы можете голосовать только тогда, когда в игре достаточно игроков."
+You can send care packages to support alive players with §e§l/carepackage <player>: "Вы можете отправлять ящики с полезными предметами для поддержки живых игроков с помощью &e&l/carepackage <игрок>"
 
-"You can send care packages to support alive players with §e§l/carepackage <player>": "Вы можете отправлять ящики с полезными предметами для поддержки живых игроков с помощью &e&l/carepackage <игрок>"
+You can toggle display of the animation off to reduce your FPS lag!: Вы можете включать/выключать анимацию, чтобы уменьшить лаги FPS!
 
-"You can toggle display of the animation off to reduce your FPS lag!": "Вы можете включать/выключать анимацию, чтобы уменьшить лаги FPS!"
+You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions: "Вы можете использовать &dimensional Warp&r, чтобы телепортироваться во множество различных интересных и красивых измерений."
 
-"You can use §5Dimensional Warp§r to warp to many beautiful and interesting dimensions": "Вы можете использовать &dimensional Warp&r, чтобы телепортироваться во множество различных интересных и красивых измерений."
+You cannot have more than one §fSnowman §cin inventory at the same time: "У вас в инвентаре одновременно не может находиться более одного &fСнеговика&c."
 
-"You could not be warped to your party leader's location, because you are in a game":
-    " Use §e/q §cto leave": "Вы не можете быть телепортированы в локацию лидера вашей группы, потому что вы находитесь в игре. Пишите &e/q &c, чтобы покинуть игру."
+You cannot party warp into this game!: Вы не можете Party-телепортироваться в эту игру!
 
-"You donated §e§l1 §fSnowball §eto §a$1$§e!": "Вы пожертвовали &e&l1 &fснежок &eигроку &a$1$&e!"
+You could not be warped to your party leader's location, because you are in a game:
+    ' Use §e/q §cto leave': "Вы не можете быть телепортированы в локацию лидера вашей группы, потому что вы находитесь в игре. Пишите &e/q &c, чтобы покинуть игру."
 
-"You do not have enough §aEmeralds§c!": "У вас не хватает &aИзумрудов&c!"
+You do not have enough emeralds!: You do not have enough emeralds!
 
-"You do not have enough melons!": "У вас не хватает &2Арбузов&c!"
+You do not have enough melons!: "У вас не хватает &2Арбузов&c!"
 
-"You get points for flag captures, your team needs to reach the needed amount of points to win": "Вы получаете очки за захваты флагов, ваша команда должна достичь определённого количества очков, чтобы победить."
+You do not have enough §aEmeralds§c!: "У вас не хватает &aИзумрудов&c!"
 
-? "You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut"
-:   " You need to reach the needed amount of points to win": "Вы получаете очки за убийства, один игрок назначается Джаггернаутом и все остальные игроки играют в команде против него, если вы убивайте Джаггернаута - вы становитесь Джаггернаутом. Вам нужно достичь определённого количества очков, чтобы победить."
+You donated §e§l1 §fSnowball §eto §a$1$§e!: "Вы пожертвовали &e&l1 &fснежок &eигроку &a$1$&e!"
 
-"You get points for kills, you need to reach the needed amount of points to win": "Вы получаете очки за убийства, вы должны набрать нужное количество очков, чтобы победить."
+You get points for flag captures, your team needs to reach the needed amount of points to win: Вы получаете очки за захваты флагов, ваша команда должна достичь определённого количества очков, чтобы победить.
 
-"You get points for kills, your team needs to reach the needed amount of points to win": "Вы получаете очки за убийства, ваша команда должна набрать нужное количество очков, чтобы победить."
+? You get points for kills, one player is chosen to be juggernaut and then all the players are against them, if you kill the juggernaut - you will become the juggernaut
+:   ' You need to reach the needed amount of points to win': Вы получаете очки за убийства, один игрок назначается Джаггернаутом и все остальные игроки играют в команде против него, если вы убивайте Джаггернаута - вы становитесь Джаггернаутом. Вам нужно достичь определённого количества очков, чтобы победить.
 
-"You got a §lEnchanted Snowball §bfrom your kill!": "Вы получили &lЗачарованный Снежок &b за своё убийство."
+You get points for kills, you need to reach the needed amount of points to win: Вы получаете очки за убийства, вы должны набрать нужное количество очков, чтобы победить.
 
-"You have agreed with the survival rules, follow them and everything will be okay!": "Вы согласились с правилами выживания, следуйте им и всё будет отлично!"
+You get points for kills, your team needs to reach the needed amount of points to win: Вы получаете очки за убийства, ваша команда должна набрать нужное количество очков, чтобы победить.
 
-"You have already invited $1$ §cinto your party!": "Вы уже приглашали $1$ &cв свою группу!"
+You got a §lEnchanted Snowball §bfrom your kill!: "Вы получили &lЗачарованный Снежок &b за своё убийство."
 
-? "You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day"
+You have agreed with the survival rules, follow them and everything will be okay!: Вы согласились с правилами выживания, следуйте им и всё будет отлично!
+
+You have already invited $1$ §cinto your party!: "Вы уже приглашали $1$ &cв свою группу!"
+
+You have already used this power-up in this life!: Вы уже использовали это усиление в этой жизни!
+
+? You have already voted for a map in this game today, support the server by buying §a§lVIP §cif you want to vote unlimited amount of times per day
 : "Вы уже голосовали за карту сегодня, поддержите сервер, купив &a&lVIP &c, если вы хотите голосовать сколько угодно раз в день."
 
-"You have already voted for a mode!": "Вы уже голосовали за этот режим!"
+You have already voted for a mode!: Вы уже голосовали за этот режим!
 
-"You have already voted for this modifier!": "Вы уже голосовали за этот модификатор!"
+You have already voted for this modifier!: Вы уже голосовали за этот модификатор!
 
-"You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!": "У вас теперь есть FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush и goPaint!"
+You have FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush and goPaint building tools!: У вас теперь есть FastAsyncWorldEdit, FastAsyncVoxelSniper, goBrush и goPaint!
 
-"You have joined party of §a$1$§e!": "Вы вступили в команду &a$1$&e!"
+You have gained extra life from your §aImmortality Perk§e!: "You have gained extra life from your &aImmortality Perk&e!"
 
-"You have left party of §a$1$§e!": "Вы покинули комнаду &a$1$&e!"
+You have joined party of §a$1$§e!: "Вы вступили в команду &a$1$&e!"
 
-"You have purchased $1$§6!": "Вы купили $1$&6!"
+You have left party of §a$1$§e!: "Вы покинули комнаду &a$1$&e!"
 
-"You have reached the limit of §e§l$1$ §cpowerups per match!": "Вы превысили лимит &e&l$1$ &cусиления за матч!"
+You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row: "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
 
-"You have reached the limit of snowballs!": "Вы превысили лимит снежков!"
+You have purchased $1$§6!: "Вы купили $1$&6!"
 
-"You have received §fSnowman §efor reaching killstreak of §e§l5§e!": "Вы получили &fСнеговика &eза за достижение серии убийств из &e&l5&e-ти убийств!"
+You have purchased §a$1$§6!: "You have purchased &a$1$&6!"
 
-"You have reflected snowball of $1$§f!": "Вы отразили снежок игрока $1$&f!"
+You have reached the limit of snowballs!: Вы превысили лимит снежков!
 
-"You have removed your last rating of this map": "Вы отменили свою последнюю оценку этой карты."
+You have reached the limit of §e§l$1$ §cpower-ups per match!: "You have reached the limit of &e&l$1$ &cpower-ups per match!"
 
-"You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules": "Вам нужно прочитать правила Survival-a и согласиться с ними, чтобы получить право ломать/ставить блоки. Используйте &e/survivalrules"
+You have reached the limit of §e§l$1$ §cpowerups per match!: "Вы превысили лимит &e&l$1$ &cусиления за матч!"
 
-"You have upgraded $1$ to $2$!": "Вы улучшили &a$1$ &6до &a$2$&6!"
+You have received §fSnowman §efor reaching killstreak of §e§l5§e!: "Вы получили &fСнеговика &eза за достижение серии убийств из &e&l5&e-ти убийств!"
 
-"You have upgraded §a$1$§6!": "Вы улучшили &a$1$&6!"
+You have reflected snowball of $1$§f!: "Вы отразили снежок игрока $1$&f!"
 
-"You must be leader of a party to use this!": "Вы должны быть владельцем команды, чтобы использовать это!"
+You have removed your last rating of this map: Вы отменили свою последнюю оценку этой карты.
 
-"Your army is under attack!": "Вашу армию атакуют!"
+You have to read and agree with the rules of survival to be able to break/place blocks, use §e/survivalrules: "Вам нужно прочитать правила Survival-a и согласиться с ними, чтобы получить право ломать/ставить блоки. Используйте &e/survivalrules"
 
-"Your opponent is blinded by your perk!": "Вы ослепили вашего оппонента! (Слепота)"
+You have upgraded $1$ to $2$!: "Вы улучшили &a$1$ &6до &a$2$&6!"
 
-"Your opponent is ignited by your perk!": "Вы подожгли вашего оппонента! (Горящая Палка)"
+You have upgraded §a$1$ §6to §a$2$§6!: "You have upgraded &a$1$ &6to &a$2$&6!"
 
-"Your opponent is slowed by your perk!": "Вы замедлили вашего оппонента! (Замедление)"
+You have upgraded §a$1$§6!: "Вы улучшили &a$1$&6!"
 
-"Your party invite to $1$ §ehas expired": "Срок приглашения игрока $1$ &eв команду истёк."
+You must be leader of a party to use this!: Вы должны быть владельцем команды, чтобы использовать это!
 
-"Your party leader has warped you to their location!": "Владелец вашей команды телепортировал вас к себе!"
+Your army is under attack!: Вашу армию атакуют!
 
-"Your Radar Breaker effect is over!": "Ваш эффект \"Отключение Компаса\" закончился"
+Your opponent is blinded by your perk!: Вы ослепили вашего оппонента! (Слепота)
 
-"Your snowball hit $1$§f!": "Ваш снежок ударил $1$&f!"
+Your opponent is ignited by your perk!: Вы подожгли вашего оппонента! (Горящая Палка)
 
-"Your snowball hit boat of $1$§f!": "Ваш снежок ударил лодку $1$&f!"
+Your opponent is slowed by your perk!: Вы замедлили вашего оппонента! (Замедление)
 
-"Your snowman's snowball hit $1$§f!": "Снежок вашего снеговика ударил $1$&f!"
+Your party has been made private: Your party has been made private.
 
-"YOUR TEAM": "ВАША КОМАНДА"
+Your party invite to $1$ §ehas expired: "Срок приглашения игрока $1$ &eв команду истёк."
 
-"$1$ §ekicked $2$ §efrom the party!": "$1$ &eбыл исключён $2$ &eиз команды!"
+Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!: "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
 
-"You have already used this power-up in this life!": "Вы уже использовали это усиление в этой жизни!"
+Your party leader has warped you to their location!: Владелец вашей команды телепортировал вас к себе!
 
-"Swearing is completely forbidden in our server, you will get an automatically issued punishment if you do": "Ругаться абсолютно запрещено на нашем сервер! Если вы нарушите это правило, вы автоматически подвергнетесь наказанию."
+Your Radar Breaker effect is over!: Ваш эффект "Отключение Компаса" закончился
 
-"$1$ §ehas transferred party leader to $2$§e!": "$1$ &eпередал права на владение командой игроку $2$&e!"
+Your snowball hit $1$§f!: "Ваш снежок ударил $1$&f!"
 
-"$1$ §cis not in your party!": "$1$ &cне в вашей команде!"
+Your snowball hit boat of $1$§f!: "Ваш снежок ударил лодку $1$&f!"
 
-"You can buy this item only once per life": "You can buy this item only once per life."
+Your snowman's snowball hit $1$§f!: "Снежок вашего снеговика ударил $1$&f!"
 
-"You have gained extra life from your §aImmortality Perk§e!": "You have gained extra life from your &aImmortality Perk&e!"
+YOUR TEAM: ВАША КОМАНДА
 
-"Right click to activate game modifiers!": "Right click to activate game modifiers!"
+'[ACCEPT]': '[ПРИНЯТЬ]'
 
-"You have logged in §e§l$1$ §adays in a row! You will get higher rewards for every day logged in a row": "You have logged in &e&l$1$ &adays in a row! You will get higher rewards for every day logged in a row."
+'[CLICK TO JOIN]': '[ЗАЙТИ]'
 
-"LOCKED": "LOCKED"
+'[VOTE]': '[ПРОГОЛОСОВАТЬ]'
 
-"§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!": "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+§6§lGolden Cannon: "&6&lGolden Cannon"
 
-"Your party is now open for public join! Other players can do §a/p join $1$ §eto join it!": "Your party is now open for public join! Other players can do &a/p join $1$ &eto join it!"
+§6§lRapid Fire §bpowerup has spawned at middle of the map!: "Усиление&6&l Серия Выстрелов &bпоявилось в центре карты!"
 
-"§bEnchanted §7§lIron Cannon": "&bEnchanted &7&lIron Cannon"
+§7Stone Cannon: "&7Каменная Пушка"
 
-? "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
-: "Castle Wars, 1v1, Govindas Survival Games, Mini Sky Walls, Spleent, Knockout, Snowball, Checkers, Bomberman, Elemental Archers"
+§7§lBecause of too much game changing modifiers activated this match will not affect your rating: "&7&lИз-за очень большого количества модификаторов этот матч не будет влиять на рейтинг."
 
-? "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
-: "Creative world with a lot of useful features! WorldEdit, VoxelSniper, goBrush, goPaint, a huge collection of player heads and even furniture to improve your builds!"
+§7§lIron Cannon: "&7&lЖелезная Пушка"
+
+§a$1$ §egot first kill of the game!: "&a$1$ &eсовершил первое убийство за игру!"
+
+§a$1$ §ehas gained an extra life from their §aImmortality Perk§e!: "&a$1$ &ehas gained an extra life from their &aImmortality Perk&e!"
+
+§aThis game can be played §e§lalone§a: "&aВ эту игру можно играть &e&lодному&a."
+
+§aWood Cannon: "&aWood Cannon"
+
+§bEnchanted §7Stone Cannon: "&bЗачарованная &7Каменная Пушка"
+
+§bEnchanted §7§lIron Cannon: "&bEnchanted &7&lIron Cannon"
+
+§bEnchanted §aWood Cannon: "&bEnchanted &aWood Cannon"
+
+§bEnchanted §b§lDiamond Cannon: "&bЗачарованная &b&lАлмазная Пушка"
+
+§b§lHow To Play: "&b&lКак играть"
+
+§eGame will start in §e§l$1$ §esecond: "&eНачало через &e&l$1$ &eсекунду."
+
+§eGame will start in §e§l$1$ §eseconds: "&eНачало через &e&l$1$ &eсекунд."
+
+§e§lBe the commander of a giant army and defeat all the enemy kings with your army to win!: "&e&lБудьте коммандиром гигантской армии и победите всех вражеских королей, чтобы победить!"
+
+§e§lDifferent elemental classes compete with each other in bow-fighting abilities:
+    ' Use fasciniting abilities of your class to defeat other players and win!': "&e&lРазличные элементальные классы соревнуются друг с другом в умениях стрелять из лука. Используйте зрелищные способности, чтобы уничтожить других игроков и победить!"
+
+§e§lKnock other players off the platform:
+    ' As you hit players, you deal more knockback': "&e&lСталкивайте других игроков с платформы. Чем больше вы наносите ударов, тем сильнее вы отталкиваете других игроков."
+
+§e§lLoot randomly generated chests with unique items:
+    ' Use them to eliminate your enemies':
+        ' Be the only survivor to win': "&e&lОбкрадывайте сундуки с уникальными вещами. Используйте их, чтобы убивать ваших противников. Будьте единственным выжившим, чтобы победить."
+
+? §e§lParticipate in a massive snowball fight and use powerups to ease your existence! Delaying snowballs allows to throw them further
+: "&e&lУчавствуйте в грандиозной битве снежками и используйте улучшение, чтобы облегчить себе существование! Перерыв между бросками позволяет кидать снежки дальше."
+
+§e§lPlace bombs and explode blocks around it in a + shape:
+    ' Use powerups to take advantage over opponents': "&e&lРасставляйте бомбы и взрывайте блоки вокруг её в форме креста [+]. Используйте усиления для того, чтобы получить преимущество над оппонентами."
+
+'§e§lShoot chickens and get the most kills to win! Beware: filthy zombies and creepers!': "&e&lСтреляйте по курицам и получите больше всего убийств, чтобы победить! Опасность: злые зомби и криперы!"
+
+§e§lShoot TNT with your cannon and knock opponents to the void, or explode them:
+    ' Save yourself from hazards using Super Jumps':
+        ' [Sneak]': "&e&lСтреляйте динамитом из вашей пушки и сталкивайте ваших врагов в бездну или взрывайте их! Избегайте опасностей с помощью Супер прыжков. [Присесть]"
+
+? §e§lUtilise preparation time given to gather as much resources as possible, defend your Crystal of Life and fight your way to victory
+: "&e&lИспользуйте время на подготовку, чтобы получить как можно больше ресурсов, затем защищайте свой кристалл жизни и сражайтесь за победу!"
